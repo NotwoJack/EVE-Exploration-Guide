@@ -10,5 +10,7 @@ sadasdasd
 </div>
 <p>图片
 
-![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/image1.png':size=100%')
+![logo](https://docsify.js.org/_media/icon.svg ':size=10%')
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/image1.png ':size=100%')
 <p>asdasdasd
