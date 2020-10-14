@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bf3d1d2-bd6f-4056-a684-fd861ceebdad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2_Introduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh-cn/1_ReadingGuide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh-cn/2_Introduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh-cn/3_QuickGuide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh-cn/4_BasicExploration.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh-cn/5_Equipment.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh-cn/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh-cn/_sidebar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh-cn/guide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -7,7 +34,83 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1iqse42KEF5FHgTO3GZWnb0f4DH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_image" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\EVE-Exploration-Guide\_image" />
+      <recent name="C:\EVE-Exploration-Guide\zh-cn" />
+      <recent name="C:\EVE-Exploration-Guide\C1" />
+      <recent name="C:\EVE-Exploration-Guide\part1" />
+      <recent name="C:\EVE-Exploration-Guide" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bf3d1d2-bd6f-4056-a684-fd861ceebdad" name="Default Changelist" comment="" />
+      <created>1602646548508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602646548508</updated>
+      <workItem from="1602646549577" duration="14345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602647397076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602647397076" />
+    <state x="805" y="418" key="Github.ShareDialog" timestamp="1602646578559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="805" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602646578559" />
+    <state x="759" y="223" key="Github.UntrackedFilesDialog" timestamp="1602646585925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602646585925" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602647728108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602647728108" />
   </component>
 </project>
