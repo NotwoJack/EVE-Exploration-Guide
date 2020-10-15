@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bf3d1d2-bd6f-4056-a684-fd861ceebdad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/zh-cn/2_Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh-cn/2_Introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh-cn/4_BasicExploration.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh-cn/4_BasicExploration.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zh-cn/5_Equipment.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh-cn/5_Equipment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh-cn/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh-cn/_sidebar.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +42,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RebelAgentSelection">
@@ -53,19 +57,6 @@
       <recent name="C:\EVE-Exploration-Guide" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,7 +65,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602646548508</updated>
-      <workItem from="1602646549577" duration="15274000" />
+      <workItem from="1602646549577" duration="15950000" />
+      <workItem from="1602774341932" duration="4243000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1602686414070</created>
@@ -90,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602686900375</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test1">
+      <created>1602687177058</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602687177058</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,10 +104,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602647397076" />
-    <state x="585" y="105" key="CommitChangelistDialog2" timestamp="1602686900005">
+    <state x="585" y="105" key="CommitChangelistDialog2" timestamp="1602687176693">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602686900005" />
+    <state x="585" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602687176693" />
     <state x="805" y="418" key="Github.ShareDialog" timestamp="1602646578559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -117,10 +116,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="759" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602646585925" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602687020245">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602687178908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602687020245" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602687178908" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602647728108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
