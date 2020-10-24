@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bf3d1d2-bd6f-4056-a684-fd861ceebdad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/en/2_Introduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/_sidebar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh-cn/5_Equipment-23.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh-cn/4_BasicExploration.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh-cn/4_BasicExploration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zh-cn/5_Equipment.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh-cn/5_Equipment.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh-cn/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh-cn/_sidebar.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,13 +51,29 @@
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\EVE-Exploration-Guide\en" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\EVE-Exploration-Guide\_image" />
+      <recent name="C:\EVE-Exploration-Guide" />
       <recent name="C:\EVE-Exploration-Guide\zh-cn" />
+      <recent name="C:\EVE-Exploration-Guide\_image" />
       <recent name="C:\EVE-Exploration-Guide\C1" />
       <recent name="C:\EVE-Exploration-Guide\part1" />
-      <recent name="C:\EVE-Exploration-Guide" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -67,6 +85,10 @@
       <updated>1602646548508</updated>
       <workItem from="1602646549577" duration="15950000" />
       <workItem from="1602774341932" duration="4243000" />
+      <workItem from="1602779451405" duration="64000" />
+      <workItem from="1603014605158" duration="1441000" />
+      <workItem from="1603290698535" duration="17000" />
+      <workItem from="1603538927786" duration="5512000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1602686414070</created>
@@ -89,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602687177058</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1-5章初步制作">
+      <created>1602779492789</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602779492789</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,17 +126,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+    <MESSAGE value="1-5章初步制作" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-5章初步制作" />
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602647397076">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602647397076" />
-    <state x="585" y="105" key="CommitChangelistDialog2" timestamp="1602687176693">
+    <state x="585" y="105" key="CommitChangelistDialog2" timestamp="1602779492294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602687176693" />
+    <state x="585" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602779492294" />
     <state x="805" y="418" key="Github.ShareDialog" timestamp="1602646578559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -116,10 +146,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="759" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602646585925" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602687178908">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602779494701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602687178908" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602779494701" />
+    <state x="495" y="132" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603551154383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="495" y="132" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603551154383" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602647728108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
