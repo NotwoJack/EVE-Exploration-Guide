@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bf3d1d2-bd6f-4056-a684-fd861ceebdad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/en/EVE-Exploration-Guide.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EVE-Exploration-Guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/EVE-Exploration-Guide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/2_Introduction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/guide.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,7 +43,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -53,9 +53,9 @@
       <recent name="C:\EVE-Exploration-Guide\en" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\EVE-Exploration-Guide\image" />
       <recent name="C:\EVE-Exploration-Guide" />
       <recent name="C:\EVE-Exploration-Guide\en" />
-      <recent name="C:\EVE-Exploration-Guide\image" />
       <recent name="C:\EVE-Exploration-Guide\zh-cn" />
       <recent name="C:\EVE-Exploration-Guide\_image" />
     </key>
@@ -86,7 +86,7 @@
       <workItem from="1602779451405" duration="64000" />
       <workItem from="1603014605158" duration="1441000" />
       <workItem from="1603290698535" duration="17000" />
-      <workItem from="1603538927786" duration="16134000" />
+      <workItem from="1603538927786" duration="24635000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1602686414070</created>
@@ -130,7 +130,28 @@
       <option name="project" value="LOCAL" />
       <updated>1603594596680</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="封面">
+      <created>1603598893113</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603598893113</updated>
+    </task>
+    <task id="LOCAL-00008" summary="图片">
+      <created>1603602647030</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603602647030</updated>
+    </task>
+    <task id="LOCAL-00009" summary="图片">
+      <created>1603606318624</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603606318624</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,17 +162,23 @@
     <MESSAGE value="1-5章初步制作" />
     <MESSAGE value="5章初步制作" />
     <MESSAGE value="配置的改进" />
-    <option name="LAST_COMMIT_MESSAGE" value="配置的改进" />
+    <MESSAGE value="封面" />
+    <MESSAGE value="图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="图片" />
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603595933779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603595933779" />
-    <state x="585" y="105" key="CommitChangelistDialog2" timestamp="1603594596257">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603598952357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603594596257" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603598952357" />
+    <state x="585" y="105" key="CommitChangelistDialog2" timestamp="1603606318197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603606318197" />
     <state x="805" y="418" key="Github.ShareDialog" timestamp="1602646578559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -160,10 +187,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="759" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602646585925" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603594597873">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1603605895677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603594597873" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603605895677" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603606321622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603606321622" />
     <state x="495" y="132" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603551154383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

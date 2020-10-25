@@ -12,11 +12,12 @@
           href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
           title="docsify-darklight-theme"
           type="text/css"
-  /></head>
+  />
+</head>
 <body>
 <nav data-cloak>
-  <a href="/EVE-Exploration-Guide">中文</a>
-  <a href="/en/EVE-Exploration-Guide">EN</a>
+  <a href="#/EVE-Exploration-Guide">中文</a>
+  <a href="#/en/EVE-Exploration-Guide">EN</a>
 </nav>
 <div id="app"></div>
 <script>
@@ -27,28 +28,25 @@
     // loadSidebar: true,
     // subMaxLevel: 5,
     // homePage:'EVE-Exploration-Guide.md',
-    auto2top: true,
+    // auto2top: true,
     coverpage: ['/', '/en/'],
     // onlyCover: true,
     search: {
       noData: {
-        '/de-de/': 'Keine Ergebnisse!',
         '/': '没有结果!',
         '/en': 'No results!',
       },
       paths: 'auto',
       placeholder: {
-        '/de-de/': 'Suche',
         '/': '搜索',
         '/en': 'Search',
       }
     },
     // 点击标题跳转，按照路由切换
     nameLink: {
-      '/en/': '/en/EVE-Exploration-Guide',
-      '/': '/EVE-Exploration-Guide',
-    },
-
+      '/en/': '#/en/EVE-Exploration-Guide',
+      '/': '#/EVE-Exploration-Guide',
+    }
   }
 </script>
 
