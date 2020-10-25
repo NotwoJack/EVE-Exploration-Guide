@@ -1,10 +1,9 @@
-# docsify <small>3.5</small>
+# 星战前夜 考古探险指南
 
-> 一个神奇的文档网站生成器。
+> EVE国际服 挖坟攻略
+- Version:1.7 
+- Alisa William
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+[开始阅读](/EVE-Exploration-Guide)
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+
