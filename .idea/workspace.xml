@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bf3d1d2-bd6f-4056-a684-fd861ceebdad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EVE-Exploration-Guide.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/_coverpage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zh-cn/6_total.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/EVE-Exploration-Guide.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Introduction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guide.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh-cn/1_ReadingGuide.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh-cn/1_ReadingGuide.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/en" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,9 +53,9 @@
       <recent name="C:\EVE-Exploration-Guide\en" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\EVE-Exploration-Guide" />
       <recent name="C:\EVE-Exploration-Guide\en" />
       <recent name="C:\EVE-Exploration-Guide\image" />
-      <recent name="C:\EVE-Exploration-Guide" />
       <recent name="C:\EVE-Exploration-Guide\zh-cn" />
       <recent name="C:\EVE-Exploration-Guide\_image" />
     </key>
@@ -92,7 +86,7 @@
       <workItem from="1602779451405" duration="64000" />
       <workItem from="1603014605158" duration="1441000" />
       <workItem from="1603290698535" duration="17000" />
-      <workItem from="1603538927786" duration="12092000" />
+      <workItem from="1603538927786" duration="16134000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1602686414070</created>
@@ -129,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603552631272</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="配置的改进">
+      <created>1603594596680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603594596680</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,17 +140,18 @@
     <MESSAGE value="test1" />
     <MESSAGE value="1-5章初步制作" />
     <MESSAGE value="5章初步制作" />
-    <option name="LAST_COMMIT_MESSAGE" value="5章初步制作" />
+    <MESSAGE value="配置的改进" />
+    <option name="LAST_COMMIT_MESSAGE" value="配置的改进" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602647397076">
+    <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603595933779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602647397076" />
-    <state x="585" y="105" key="CommitChangelistDialog2" timestamp="1603552630867">
+    <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603595933779" />
+    <state x="585" y="105" key="CommitChangelistDialog2" timestamp="1603594596257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603552630867" />
+    <state x="585" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603594596257" />
     <state x="805" y="418" key="Github.ShareDialog" timestamp="1602646578559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -158,17 +160,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="759" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602646585925" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603552632911">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603594597873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603552632911" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603594597873" />
     <state x="495" y="132" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603551154383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="495" y="132" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603551154383" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602647728108">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603596411751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602647728108" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603596411751" />
   </component>
 </project>
