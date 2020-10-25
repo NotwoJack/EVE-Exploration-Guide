@@ -4,8 +4,8 @@
     <list default="true" id="7bf3d1d2-bd6f-4056-a684-fd861ceebdad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EVE-Exploration-Guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/EVE-Exploration-Guide.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/2_Introduction.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/en/_coverpage.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,7 @@
       <workItem from="1602779451405" duration="64000" />
       <workItem from="1603014605158" duration="1441000" />
       <workItem from="1603290698535" duration="17000" />
-      <workItem from="1603538927786" duration="24635000" />
+      <workItem from="1603538927786" duration="29346000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1602686414070</created>
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603606318624</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="1-6章完成">
+      <created>1603614840676</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603614840676</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +171,8 @@
     <MESSAGE value="配置的改进" />
     <MESSAGE value="封面" />
     <MESSAGE value="图片" />
-    <option name="LAST_COMMIT_MESSAGE" value="图片" />
+    <MESSAGE value="1-6章完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-6章完成" />
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603595933779">
@@ -175,10 +183,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603598952357" />
-    <state x="585" y="105" key="CommitChangelistDialog2" timestamp="1603606318197">
+    <state x="585" y="105" key="CommitChangelistDialog2" timestamp="1603614840335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603606318197" />
+    <state x="585" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603614840335" />
     <state x="805" y="418" key="Github.ShareDialog" timestamp="1602646578559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -191,10 +199,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603605895677" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603606321622">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603614852253">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603606321622" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603614852253" />
     <state x="495" y="132" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603551154383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

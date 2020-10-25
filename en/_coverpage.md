@@ -1,5 +1,4 @@
-# 星战前夜 考古探险指南
-# EVE Exploration Guide
+# [**EVE Exploration Guide**](/en)
 
 > 一个神奇的文档网站生成器。
 
