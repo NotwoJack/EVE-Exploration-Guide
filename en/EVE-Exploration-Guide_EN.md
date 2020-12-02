@@ -1,27 +1,57 @@
 
-# 1	阅读指南 Reading Guide
-<p>本文从基础介绍到高级坟的挖掘涉及内容极多，需要3h以上的阅读时间，并加以多次的实践操作，建议保存作为攻略多次翻阅，在线版本及更新地址点击这里。
-<p>全部内容基于国际服客服端，使用英文名称以确保准确，汉化用户请对照英汉名称字典阅读，点击目录可以直接跳转相应条目。为了获得最好的阅读体验，请将缩放比例调整为100%，使用查找功能搜索你需要的内容。
-<p>本文包含基础和进阶两个部分，萌新达到入门探索阶段只需几天和少量的技能点数，如果想向高级考古进阶则需要近一个半月的时间以及250W+的技能点数。
-<p>如果你是新人，在浏览下面的内容前，请务必先完成新手任务以了解EVE的游戏机制，如何完成请参照其他攻略。
+# Copyright
 
-# 2 前言 Introduction
-<p>完成了EVE四个教学任务，想多尝试下探索方面的内容，又苦于复杂的EVE操作系统的萌新。亦或是厌倦了刷怪打架的生活想多尝试其他游戏内容的大佬，这篇文章详细介绍了各种挖坟方面的知识，提供了详细的操作指南，让你能够快速入门挖坟活动。
-<p>在各个星系之间漫游，与全宇宙的海盗斗智斗勇，体验破解谜题的乐趣，研究独特的挖坟技巧，在挖坟的同时还会遇到刺激的同行竞争，这就是我们的挖坟生活。唯一指定EVE频道‘南北派专家组’，欢迎各路萌新大佬入驻吹比，我们的口号是'挖穿宇宙！'。
-<p>我们没有势力倾向，也不要你加军团，只是为了帮助新人更好的融入到游戏。考古交流频道，QQ群：226771995 群名字昵称写上游戏ID。
+Some data and contents from this guide are translated from UNIWIKI. Some contents are based on the guides from the other players in EVE Archaeology Panel. The contents are summarized again and thank all players from UNIWIKI and EVE Archaeology Panel for their dedication.
 
-# 3	快速指南  Quick Guide
-**前期**
-1. 购买月卡上欧米伽，因为隐身只有欧米伽用户才能使用。地狱模式开局的新人攒月卡，可以不上隐身，学会做深空点，4AU内见到作战针跳走即可
-2. 如果是挖坟0技能用户，条件允许的话，推荐吃1罐脑浆，把扫描 Scanning技能下7项都点到3级，把种族护卫也点到3级
-3. 买一条种族考古船（推荐苍鹭Heron）,按照附录配置配好，目前你应该有75+的扫描强度，大部分的坟都能顺利扫出，接下来就可以开始你的探险活动啦
+The only reshipment allowed for this guide is the unabridged version. All commercial reshipments and excerpts are forbidden. The copyright belongs to EVE Archaeology Panel. If you have any opinion or suggestions for the guide please contact Alisa William ingame or in the QQ group.
 
-    **中期**
+# 1 Reading Guide
+
+There are many contents in this guide. Reading from the basic introduction to the "advanced" cosmic signatures will need more than 3 hours and also some ingame practices. Reading this guide repeatedly is suggested.
+
+All contents are based on Tranquility client and English names are used for accuracy. Use Ctrl + F for searching the contents you need.
+
+The guide contains basic and advanced parts. A new player needs only a few days and low SP for basic exploration. For the advanced parts, about one and a half months and more than 2.5m SP would be needed.
+
+If you are a new player, please finish the Career Paths for learning the EVE gaming mechanics (referred to the other guides) before you read the following contents.
+
+# 2 Introduction
+
+Newbie wanna try some exploration after the official newbie tutorial but don’t know how? Veteran but already boring on ratting or camping? This guide details the exploration and provides a detailed way, which you could predominate exploration quickly.
+
+Fly between systems, fight with the pirates of the whole universe, experience the fun of hacking, research unique exploration tips, kill the guy trying to steal your loot. This is our exploratory life. In the ingame channel “南北派专家组” we welcome everyone. Our slogan is ‘Hack the universe!’.
+
+We are neutral and do not have any ingame organization. Our only purpose is to help new players integrate better and faster into the game. 
+
+Communication group (QQ): 226771995
+
+# 3 Quick Guide
+
+The following text is a quick guide. For understanding the contents you need to read the whole guide. In [Appendix](附录链接), there are many useful websites. You need to use them flexibly in the exploration which could increase your efficiency.
+
+ **Early stage**
+ 
+1. The suggestion is to buy one-month omega cause all kinds of cloaking devices need omega. If you do not have omega, you do not have to pay but need to know how to make some safe bookmarks and escape when you have dcanned combat probes in 4AU.
+
+2. If you didn't train any skills in the category “Scanning”, the suggestion is (buying one Large Skill Injector, only if possible) training all 7 skills in this category to III, and also another skill to III——[Empire Faction] Frigate.
+
+3. Buy an [Empire Faction] Frigate (Suggestion: Heron) and fit it with [the recommended fit——Heron, Newbie exploration](Heron配置链接). Now you should have 75+ probe strength and you can begin exploring!
+
+ **Terminal stage**
     
-4. 根据附录钢板小白所需的装备点上相应的技能，Cloaking 点到4级，为了上隐秘行动Covert Ops Cloaking Device II。扫描技能下把Astrometrics点到4级，然后点Hacking到满级，上T2数据分析仪，最后Archaeology点到满级，上T2遗迹分析仪（一共大概4罐脑浆）
-5. 开上小白 Astero。如果还不能使用隐秘行动，非常不建议直接上小白。前期请先拿苍鹭试水高级坟，有了T2分析仪后，成功率会大大增加
-7. 点Cybernetics到5上黑镜脑插，补上各种基础工程学技能（重要），后续扫描技能把Astrometrics点满
-6. 至此你的挖坟技能已经成型，后续可以考虑T2隐侦，中白Stratios或者金鹏Tengu，然后开发自己的挖坟套路
+4. Finish training the following skills in particular order:  
+The skills as which the equipment in [Steel Plates Astero] (钢板小白配置链接) needs  
+Cloaking IV for Covert Ops Cloaking Device II  
+Astrometrics IV  
+Hacking V for T2 analyzer  
+Archaeology V for T2 analyzer  
+(about four Large Skill Injectors in total)
+
+5. Explore with Astero. If you still can not use Covert Ops Cloaking Device II, Astero is not suggested. You can try advanced signatures with Heron first. When you can use T2 Analyzers, the success probability in the hacking minigame would be much higher than before.
+
+7. Train Cybernetics to V for the Implant Neural Lace 'Blackglass' Net Intrusion 920-40 and some basic skills in category “Engineering” (important), 后续扫描技能把Astrometrics点满(单指Astrometrics这一个技能？)
+
+6. Now, most skills needed for exploration have been already trained. Exploring later with other ships (e.g. Covert Ops, Stratios or Tengu) could be considered. You shall plan on exploring in your own way now.
 
 # 4 入门探索 Basic Exploration
 
