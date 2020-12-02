@@ -1,9 +1,11 @@
 # [**EVE Exploration Guide**](/en)
 
-> 一个神奇的文档网站生成器。
+> EVE Tranquility Exploration Guide
+- Version: 2.0
+- Alisa William
+- EVE Archaeology Panel
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+[Start reading](#docsify)
 
-[开始阅读](#docsify)
+<!-- background image -->
+![](https://i.loli.net/2018/01/15/5a5bcb771cc40.jpg)
