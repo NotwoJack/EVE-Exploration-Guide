@@ -27,20 +27,18 @@ Communication group (QQ): 226771995
 
 # 3 Quick Guide
 
-The following text is a quick guide. For understanding the contents you need to read the whole guide. In [Appendix](附录链接), there are many useful websites. You need to use them flexibly in the exploration which could increase your efficiency.
-
  **Early stage**
  
 1. The suggestion is to buy one-month omega cause all kinds of cloaking devices need omega. If you do not have omega, you do not have to pay but need to know how to make some safe bookmarks and escape when you have dcanned combat probes in 4AU.
 
-2. If you didn't train any skills in the category “Scanning”, the suggestion is (buying one Large Skill Injector, only if possible) training all 7 skills in this category to III, and also another skill to III——[Empire Faction] Frigate.
+2. If you didn't train any skills in the category “Scanning”, the suggestion is (buying one Large Skill Injector, only if possible) training all 7 skills in this category to III, and also another skill to III——\[Empire Faction] Frigate.
 
-3. Buy an [Empire Faction] Frigate (Suggestion: Heron) and fit it with [the recommended fit——Heron, Newbie exploration](Heron配置链接). Now you should have 75+ probe strength and you can begin exploring!
+3. Buy an \[Empire Faction] Frigate (Suggestion: Heron) and fit it with [the recommended fit——Heron, Newbie exploration](Heron配置链接). Now you should have 75+ probe strength and you can begin exploring!
 
  **Terminal stage**
     
 4. Finish training the following skills in particular order:  
-The skills as which the equipment in [Steel Plates Astero] (钢板小白配置链接) needs  
+The skills as which the equipment in [Steel Plates Astero](钢板小白配置链接) needs  
 Cloaking IV for Covert Ops Cloaking Device II  
 Astrometrics IV  
 Hacking V for T2 analyzer  
@@ -49,19 +47,22 @@ Archaeology V for T2 analyzer
 
 5. Explore with Astero. If you still can not use Covert Ops Cloaking Device II, Astero is not suggested. You can try advanced signatures with Heron first. When you can use T2 Analyzers, the success probability in the hacking minigame would be much higher than before.
 
-7. Train Cybernetics to V for the Implant Neural Lace 'Blackglass' Net Intrusion 920-40 and some basic skills in category “Engineering” (important), 后续扫描技能把Astrometrics点满(单指Astrometrics这一个技能？)
+6. Train Cybernetics to V for the Implant Neural Lace 'Blackglass' Net Intrusion 920-40 and some basic skills in category “Engineering” (important). Later, finish training Astrometrics to V.
 
-6. Now, most skills needed for exploration have been already trained. Exploring later with other ships (e.g. Covert Ops, Stratios or Tengu) could be considered. You shall plan on exploring in your own way now.
+7. Now, most skills needed for exploration have been already trained. Exploring later with other ships (e.g. Covert Ops, Stratios or Tengu) could be considered. You shall plan on exploring in your own way now.
 
-# 4 入门探索 Basic Exploration
+# 4 Basic Exploration
 
-## 4.1	扫描操作 Probing
-首先界面布置
+## 4.1 Probing
 
-1.	按Alt+P 你能打开上图窗口，
-2.	点击右上角Dock，将这个窗口固定在界面上
-3.	在Filtered里面勾上Cosmic signal 
-4.	熟悉界面上的图标及按钮，完成布置
+First, about the setup of the UI interface:
+
+![logo](https://wiki.eveuniversity.org/images/2/2b/Probe_window.png ':size=WIDTHxHEIGHT')
+
+1.	Press Alt+P to open the window above
+2.	Click “Dock” at top-right to anchor this window to the interface
+3.	Tick “Cosmic signal” in “Filtered” 
+4.	Get familiar with the icons and buttons on the interface, and complete the layout
 
 接下来开始扫描，游戏新手教程有教，这里说一些有用的技巧
 
