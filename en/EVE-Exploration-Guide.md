@@ -29,15 +29,15 @@ Communication group (QQ): 226771995
 
  **Early stage**
  
-1. The suggestion is to buy one-month omega cause all kinds of cloaking devices need omega. If you do not have omega, you do not have to pay but need to know how to make some safe bookmarks and escape when you have dcanned combat probes in 4AU.
+1.	The suggestion is to buy one-month omega because all kinds of cloaking devices need omega. If you do not have omega, you do not have to pay but need to know how to make some safe bookmarks and escape when you have dcanned combat probes in 4AU.
 
-2. If you didn't train any skills in the category “Scanning”, the suggestion is (buying one Large Skill Injector, only if possible) training all 7 skills in this category to III, and also another skill to III——\[Empire Faction] Frigate.
+2.	If you didn't train any skills in the category “Scanning”, the suggestion is (buying one Large Skill Injector, only if possible) training all 7 skills in this category to III, and also another skill to III——\[Empire Faction] Frigate.
 
-3. Buy an \[Empire Faction] Frigate (Suggestion: Heron) and fit it with [the recommended fit——Heron, Newbie exploration](Heron配置链接). Now you should have 75+ probe strength and you can begin exploring!
+3.	Buy an \[Empire Faction] Frigate (Suggestion: Heron) and fit it with [the recommended fit——Heron, Newbie exploration](Heron配置链接). Now you should have 75+ probe strength and you can begin exploring!
 
  **Terminal stage**
     
-4. Finish training the following skills in particular order:  
+4.	Finish training the following skills in particular order:  
 The skills as which the equipment in [Steel Plates Astero](钢板小白配置链接) needs  
 Cloaking IV for Covert Ops Cloaking Device II  
 Astrometrics IV  
@@ -45,11 +45,11 @@ Hacking V for T2 analyzer
 Archaeology V for T2 analyzer  
 (about four Large Skill Injectors in total)
 
-5. Explore with Astero. If you still can not use Covert Ops Cloaking Device II, Astero is not suggested. You can try advanced signatures with Heron first. When you can use T2 Analyzers, the success probability in the hacking minigame would be much higher than before.
+5.	Explore with Astero. If you still can not use Covert Ops Cloaking Device II, Astero is not suggested. You can try advanced signatures with Heron first. When you can use T2 Analyzers, the success probability in the hacking minigame would be much higher than before.
 
-6. Train Cybernetics to V for the Implant Neural Lace 'Blackglass' Net Intrusion 920-40 and some basic skills in category “Engineering” (important). Later, finish training Astrometrics to V.
+6.	Train Cybernetics to V for the Implant Neural Lace 'Blackglass' Net Intrusion 920-40 and some basic skills in category “Engineering” (important). Later, finish training Astrometrics to V.
 
-7. Now, most skills needed for exploration have been already trained. Exploring later with other ships (e.g. Covert Ops, Stratios or Tengu) could be considered. You shall plan on exploring in your own way now.
+7.	Now, most skills needed for exploration have been already trained. Exploring later with other ships (e.g. Covert Ops, Stratios or Tengu) could be considered. You shall plan on exploring in your own way now.
 
 # 4 Basic Exploration
 
@@ -59,25 +59,25 @@ First, about the setup of the UI interface:
 
 ![logo](https://wiki.eveuniversity.org/images/2/2b/Probe_window.png ':size=WIDTHxHEIGHT')
 
-1.	Press Alt+P to open the window above
-2.	Click “Dock” at top-right to anchor this window to the interface
-3.	Tick “Cosmic signal” in “Filtered” 
-4.	Get familiar with the icons and buttons on the interface, and complete the layout
+1.	Press Alt+P to open the window above.
+2.	Click “Dock” at top-right to anchor this window to the interface.
+3.	Tick "Cosmic signal" in "Filtered".
+4.	Get familiar with the icons and buttons on the interface, and complete the layout.
 
-接下来开始扫描，游戏新手教程有教，这里说一些有用的技巧
+Let’s start scanning, here are some useful tips:
 
-1.	使用第一种扫描模式，Pinpoint formations
-2.	单击星图内红点，或者单击扫描界面的该信号，能够锁定视角
-3.	在星图里双击能呈现水平视角，再次双击呈现垂直视角，非常方便锁定位置
-4.	第一针用8AU，如果你的探针强度超过80，且信号已经分析20%左右，第二针可以直接拉到2AU。新手的话8AU下针，逐步缩减4AU、2AU、1AU、0.25AU
-5.	当信号呈现，球状和圆盘状时，请将你的扫描区域（最内部，仅仅是外部是不够的）全部包裹住它
-6.	信号呈现两点时，看你上一针涨了多少，如果很多说明就是离你目前扫描位置近的点，如果不是就是远点（90%情况为远点）
-7.	遇到信号即使把圈缩小到0.25AU还是扫描不出来，按住Ctrl+滚轮拢针，拖动箭头缩小8个探针直至几乎重叠成一球形（但不能完全重叠），还是不行就把信号编号、星系发到频道和群里，会有大佬帮忙开
-8.	建立一个舰队 ，就能使用数字键直接标记箱子，极大提高效率
-9.	扫描度到25%就能看出信号名称和等级 如战斗地点 气云地点 数据地点 遗迹地点，扫描到75%才能看出扫描信号的名字，到100%就可以跃迁
-10.	Graphic Content Settings (画质设置) 中 Shader Quality(材质质量) 至少设置为 Medium(中) 才可正常显示气云体积potato mode (土豆模式)下无法显示气云体积，是透明不可见的，挖冬眠者坟时这点尤其要注意。
+1.	Use Pinpoint formations (the first one).
+2.	Click once the red-dot on the Solar System Map or click once the signal on "Probe scanner" would move the mid-point to there.
+3.	Double-click on the Solar System Map for changing the view between vertical and horizontal.
+4.	Use 8AU probe size at first. If your probe strength is above 80 and the signal is above 20%, then you could use 2AU size the second time. For newbies, first 8AU and then reduce the size one by one is suggested (8AU-4AU-2AU-1AU-0.25AU).
+5.	When the signature on the Solar System Map is a sphere or a disk, adjust the scan area so that the sphere or disk is completely enwrapped.
+6.	When the signature shows connected two dots, watch how much the signal has risen. If it has risen a lot, it means the close dot is the right one. If not, then the far dot is the right one (the far one in most cases).
+7.	When the signal could not be analyzed to 100% even with 0.25AU probe size, try to hold Ctrl and spin the mouse wheel to gather the probes to "almost a ball" (⚠: only "almost"). Then try once again. If the signal is still not 100%, it is mostly caused by poor probe strength.
+8.	Create a fleet.![logo](https://wiki.eveuniversity.org/images/e/e3/Fleet.png )Then you can use the numbers on the keyboard for marking the containers, which could increase the efficiency.
+9.	Once the signal is above 25%, the type and level of the signal would be shown (e.g. combat site, gas site, data site or relic site). Once above 75%, the name would be shown. At 100%, warping to there would be enabled.
+10.	Gas volume and color could only be shown with Shader Quality equal or above “Medium” in Graphic Content Settings. In potato mode, Gas volume and color are transparent. Remind this before you run any Sleeper Sites.
 
-## 4.2	信号类型 Site Types
+## 4.2 Site Types
 
 |     种类                         |     名称                                                                                                                                                                                                        |     简介                                                                                |
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
