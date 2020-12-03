@@ -34,8 +34,8 @@
     
 4. 根据附录钢板小白所需的装备点上相应的技能，Cloaking 点到4级，为了上隐秘行动Covert Ops Cloaking Device II。扫描技能下把Astrometrics点到4级，然后点Hacking到满级，上T2数据分析仪，最后Archaeology点到满级，上T2遗迹分析仪（一共大概4罐脑浆）
 5. 开上小白 Astero。如果还不能使用隐秘行动，非常不建议直接上小白。前期请先拿苍鹭试水高级坟，有了T2分析仪后，成功率会大大增加
-7. 点Cybernetics到5上黑镜脑插，补上各种基础工程学技能（重要），后续扫描技能把Astrometrics点满
-6. 至此你的挖坟技能已经成型，后续可以考虑T2隐侦，中白Stratios或者金鹏Tengu，然后开发自己的挖坟套路
+6. 点Cybernetics到5上黑镜脑插，补上各种基础工程学技能（重要），后续扫描技能把Astrometrics点满
+7. 至此你的挖坟技能已经成型，后续可以考虑T2隐侦，中白Stratios或者金鹏Tengu，然后开发自己的挖坟套路
 
 # 4 入门探索 Basic Exploration
 
