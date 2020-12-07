@@ -17,7 +17,7 @@ If you are a new player, please finish the Career Paths for learning the EVE gam
 
 # 2 Introduction
 
-Newbie wanna try some exploration after the official newbie tutorial but don’t know how? Veteran but already boring on ratting or camping? This guide details the exploration and provides a detailed way, which you could predominate exploration quickly.
+Newbie wanna try some exploration after the official newbie tutorial but don’t know how? Veteran but already bored with ratting or pvp? This guide contains detailed introductions of the exploration and some lore about it. Moreover, it also contains many detailed guides about different specific sites, which enable you to initiate quickly into the exploration.
 
 Fly between systems, fight with the pirates of the whole universe, experience the fun of hacking, research unique exploration tips, kill the guy trying to steal your loot. This is our exploratory life. In the ingame channel “南北派专家组” we welcome everyone. Our slogan is ‘Hack the universe!’.
 
@@ -37,12 +37,12 @@ Communication group (QQ): 226771995
 
  **Terminal stage**
     
-4.	Finish training the following skills in particular order:  
-The skills as which the equipment in [Steel Plates Astero](钢板小白配置链接) needs  
-Cloaking IV for Covert Ops Cloaking Device II  
-Astrometrics IV  
-Hacking V for T2 analyzer  
-Archaeology V for T2 analyzer  
+4.	Finish training the following skills in particular order:<br>
+The skills as which the equipment in [Steel Plates Astero](钢板小白配置链接) needs<br>
+Cloaking IV for Covert Ops Cloaking Device II<br>
+Astrometrics IV<br>
+Hacking V for T2 analyzer<br>
+Archaeology V for T2 analyzer<br>
 (about four Large Skill Injectors in total)
 
 5.	Explore with Astero. If you still can not use Covert Ops Cloaking Device II, Astero is not suggested. You can try advanced signatures with Heron first. When you can use T2 Analyzers, the success probability in the hacking minigame would be much higher than before.
@@ -79,18 +79,11 @@ Let’s start scanning, here are some useful tips:
 
 ## 4.2 Site Types
 
-|     种类                         |     名称                                                                                                                                                                                                        |     简介                                                                                |
-|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-|     战斗信号                     |     1.各种各样     <br>2.Digital打头的战斗气云（看下方）                                                                                                                                                            |     普通异常，死亡也可能是空代任务                                                   |
-|     虫洞信号                     |                                                                                                                                                                                                                 |     通往虫洞空间或其他地区                                                              |
-|     气云信号                     |     1.结尾是Nebula/Perimeter/Frontier/Reservoir     为普通可采集气云信号     <br>2.结尾是 Base/Lab/Processing Site/Facility     <br>为可挖的信号，出现在低安，00只有Facility     <br>3.开头为Digital的是战斗气云(只在00)    |     多为气云采集点，部分地区存在第二种，拉怪可挖，看进阶。<br>第三种产出和第二种相同        |
-|     遗迹和数据信号               |                                                                                                                                                                                                                 |                                                                                         |
-|     势力坟     （数据，遗迹）    |                 数据：Local/Regional/Central+势力+站名     <br>遗迹：Crumbling/Decayed/Ruined+势力+站名                                                                                                             |     新人主挖这种坟，     <br>无怪，分布于各安等与123级虫洞，产出打捞件、解码器。分布地图    |
-|     幽灵坟     （数据）          |     小型/标准/高级/超级+势力+隐秘研究设施                 <br>Lesser/Standard/Improved/Superior（虫洞）     <br>等级+势力+ Covert Research Facility                                                                     |     开箱失败就会爆炸,造成大量伤害，有隐藏计时器（<2分钟），到时间会刷怪，<br>请看进阶       |
-|     冬眠者储藏站（数据）         |     受限/标准/超级/冬眠者储藏站                 <br>Limited/Standard/Superior   + Sleeper Cache                                                                                                                     |     有难度，收益高，解法请看进阶                                                        |
-|     普通冬眠者（数据，遗迹）     |     只出现在虫洞中     <br>遗忘的/受限的/争夺中的/不安全的     <br>Unsecured/Forgotten   + 势力 +站名                                                                                                                   |     有怪，无炮塔可以拉怪挖，完整的T3组件，图纸值钱，不建议挖                            |
-|     无人机坟     （数据）        |     Abandoned   Research Complex DA0XX                                                                                                                                                                          |     出产无人机组件，和加强无人机蓝图，有几率触发无人机坟远征，请看简介                  |
-|     寂静的战场                   |     Silent   Battleground     <br>只会出现在破碎虫洞（J0开头的虫洞）     <br>与超冬相同等级和扫描强度                                                                                                                   |     非常稀有，只存在破碎洞出大量材料，产出体积较大，性价比一般                          |
+|Type|Name|Introduction|
+|----|----|------------|
+|Combat|1. Various names<br>2. Combat Gas Sites which begin with "Digital" (in Type "Gas" below)|Normal Anomalies, Escalations or COSMOS agents|
+|Wormhole|![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/4.2-1.png ':size=WIDTHxHEIGHT')|To a Wormhole Space or another system|
+|Gas|1. Ends with "Nebula/Perimeter/Frontier/Reservoir". These are normal huffable gas sites.<br>2. Ends with "Base/Lab/Processing Site/Facility". These are explorable sites that appear in Lowsec. In Nullsec there are only "Facilities".<br>3. Combat Gas Sites which begin with "Digital" (only in Nullsec)|Most are for gas huffing. In some regions, 2 could appear and can be explored if the NPC ships are drawn away from the site (in [Advance](对应链接)). Loot from 3 is the same as 2.|
 
 ## 4.3	扫描地区 Areas
 注：破碎洞里面任何扫描信号都可能出现。<p>
