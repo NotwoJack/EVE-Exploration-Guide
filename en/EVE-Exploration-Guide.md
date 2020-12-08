@@ -31,25 +31,25 @@ Communication group (QQ): 226771995
  
 1.	The suggestion is to buy one-month omega because all kinds of cloaking devices need omega. If you do not have omega, you do not have to pay but need to know how to make some safe bookmarks and escape when you have dcanned combat probes in 4AU.
 
-2.	If you didn't train any skills in the category “Scanning”, the suggestion is (buying one Large Skill Injector, only if possible) training all 7 skills in this category to III, and also another skill to III——\[Empire Faction] Frigate.
+2.	If you didn't train any skills in the category “Scanning”, the suggestion is \(buying one Large Skill Injector, but only if possible) training all 7 skills in this category to III, and also another skill to III——\[Empire Faction] Frigate.
 
 3.	Buy an \[Empire Faction] Frigate (Suggestion: Heron) and fit it with [the recommended fit——Heron, Newbie exploration](Heron配置链接). Now you should have 75+ probe strength and you can begin exploring!
 
  **Terminal stage**
     
-4.	Finish training the following skills in particular order:<br>
+4.	Finish training the following skills in the particular order:<br>
 The skills as which the equipment in [Steel Plates Astero](钢板小白配置链接) needs<br>
 Cloaking IV for Covert Ops Cloaking Device II<br>
 Astrometrics IV<br>
 Hacking V for T2 analyzer<br>
 Archaeology V for T2 analyzer<br>
-(about four Large Skill Injectors in total)
+\(about four Large Skill Injectors in total)
 
 5.	Explore with Astero. If you still can not use Covert Ops Cloaking Device II, Astero is not suggested. You can try advanced signatures with Heron first. When you can use T2 Analyzers, the success probability in the hacking minigame would be much higher than before.
 
-6.	Train Cybernetics to V for the Implant Neural Lace 'Blackglass' Net Intrusion 920-40 and some basic skills in category “Engineering” (important). Later, finish training Astrometrics to V.
+6.	Train Cybernetics to V for the Implant Neural Lace 'Blackglass' Net Intrusion 920-40 and some basic skills in category "Engineering" \(important). Later, finish training Astrometrics to V.
 
-7.	Now, most skills needed for exploration have been already trained. Exploring later with other ships (e.g. Covert Ops, Stratios or Tengu) could be considered. You shall plan on exploring in your own way now.
+7.	Now, most skills needed for exploration have been already trained. Exploring later with other ships \(e.g. Covert Ops, Stratios or Tengu) could be considered. You shall plan on exploring in your own way now.
 
 # 4 Basic Exploration
 
@@ -66,24 +66,31 @@ First, about the setup of the UI interface:
 
 Let’s start scanning, here are some useful tips:
 
-1.	Use Pinpoint formations (the first one).
+1.	Use Pinpoint formations \(the first one).
 2.	Click once the red-dot on the Solar System Map or click once the signal on "Probe scanner" would move the mid-point to there.
 3.	Double-click on the Solar System Map for changing the view between vertical and horizontal.
-4.	Use 8AU probe size at first. If your probe strength is above 80 and the signal is above 20%, then you could use 2AU size the second time. For newbies, first 8AU and then reduce the size one by one is suggested (8AU-4AU-2AU-1AU-0.25AU).
+4.	Use 8AU probe size at first. If your probe strength is above 80 and the signal is above 20%, then you could use 2AU size the second time. For newbies, first 8AU and then reduce the size one by one is suggested \(8AU-4AU-2AU-1AU-0.25AU).
 5.	When the signature on the Solar System Map is a sphere or a disk, adjust the scan area so that the sphere or disk is completely enwrapped.
-6.	When the signature shows connected two dots, watch how much the signal has risen. If it has risen a lot, it means the close dot is the right one. If not, then the far dot is the right one (the far one in most cases).
-7.	When the signal could not be analyzed to 100% even with 0.25AU probe size, try to hold Ctrl and spin the mouse wheel to gather the probes to "almost a ball" (⚠: only "almost"). Then try once again. If the signal is still not 100%, it is mostly caused by poor probe strength.
+6.	When the signature shows connected two dots, watch how much the signal has risen. If it has risen a lot, it means the close dot is the right one. If not, then the far dot is the right one \(the far one in most cases).
+7.	When the signal could not be analyzed to 100% even with 0.25AU probe size, try to hold Ctrl and spin the mouse wheel to gather the probes to "almost a ball" \(⚠: only "almost"). Then try once again. If the signal is still not 100%, it is mostly caused by poor probe strength.
 8.	Create a fleet.![logo](https://wiki.eveuniversity.org/images/e/e3/Fleet.png )Then you can use the numbers on the keyboard for marking the containers, which could increase the efficiency.
-9.	Once the signal is above 25%, the type and level of the signal would be shown (e.g. combat site, gas site, data site or relic site). Once above 75%, the name would be shown. At 100%, warping to there would be enabled.
+9.	Once the signal is above 25%, the type and level of the signal would be shown \(e.g. combat site, gas site, data site or relic site). Once above 75%, the name would be shown. At 100%, warping to there would be enabled.
 10.	Gas volume and color could only be shown with Shader Quality equal or above “Medium” in Graphic Content Settings. In potato mode, Gas volume and color are transparent. Remind this before you run any Sleeper Sites.
 
 ## 4.2 Site Types
 
 |Type|Name|Introduction|
 |----|----|------------|
-|Combat|1. Various names<br>2. Combat Gas Sites which begin with "Digital" (in Type "Gas" below)|Normal Anomalies, Escalations or COSMOS agents|
-|Wormhole|![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/4.2-1.png ':size=WIDTHxHEIGHT')|To a Wormhole Space or another system|
-|Gas|1. Ends with "Nebula/Perimeter/Frontier/Reservoir". These are normal huffable gas sites.<br>2. Ends with "Base/Lab/Processing Site/Facility". These are explorable sites that appear in Lowsec. In Nullsec there are only "Facilities".<br>3. Combat Gas Sites which begin with "Digital" (only in Nullsec)|Most are for gas huffing. In some regions, 2 could appear and can be explored if the NPC ships are drawn away from the site (in [Advance](对应链接)). Loot from 3 is the same as 2.|
+|Combat|1. Various names<br>2. Combat Gas Sites which begin with "Digital" \(in Type "Gas" below)|Normal Anomalies, Escalations or COSMOS agents.|
+|Wormhole|![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/4.2-1.png ':size=WIDTHxHEIGHT')|To a Wormhole Space or another system.|
+|Gas|1. Ends with "Nebula/Perimeter/Frontier/Reservoir". These are normal huffable gas sites.<br>2. Ends with "Base/Lab/Processing Site/Facility". These are explorable sites that appear in Lowsec. In Nullsec there are only "Facilities".<br>3. Combat Gas Sites which begin with "Digital" \(only in Nullsec)|Most are for gas huffing. In some regions, 2 could appear and can be explored if the NPC ships are drawn away from the site \(in [Advance](对应链接)).<br>Loot from 3 is the same as 2.|
+|Data/Relic Sites|
+|Faction \(Data/Relic)|![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/4.2-2.png ':size=WIDTHxHEIGHT')<br>Data: Local/Regional/Central+Faction+Site name<br>Relic: Crumbling/Decayed/Ruined+Faction+Site name|Suggested for newbies.<br>No NPC ships, appear in all secs and C1-C3 Wormhole Spaces.<br>Loot: decryptors, salvages<br>[Faction Map](对应链接)|
+|Ghost \(Data)|Level: Lesser/Standard/Improved/Superior<br>\(Superior only in C4-6 Wormhole Spaces)<br>![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/4.2-3.png ':size=WIDTHxHEIGHT')<br>Level+Faction+Covert Research Facility|Failing the first hack would cause the can to explode \(with high EXP damage).<br>These sites have a hidden timer. When time is up, NPC ships will warp in.<br>\(in [Advance](对应链接))|
+|Sleeper Cache \(Data)|![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/4.2-4.png ':size=WIDTHxHEIGHT')<br>Limited/Standard/Superior+Sleeper Cache|Hard but have loot with high value.<br>\(in [Advance](对应链接))|
+|Normal Sleeper \(Data/Relic)|Only in Wormhole Spaces.<br>Unsecured/Forgotten+Faction+Site name|Sleepers inside.<br>Could be explored by drawing the Sleepers away from the site \(only when no Sentry Towers inside).<br>Loot: Ancient Relics for T3 ships \(the BPCs from these Relics for T3 are valuable)<br>\(Not suggested)|
+|Drone \(Data)|Abandoned Research Complex DA0XX|Could trigger an expedition. \(in [Drone Regions](对应链接))<br>Loot: Rogue Drone Components, Integrated or Augmented Drone BPCs|
+|Silent Battleground|Only in Shattered Wormhole Systems \(name begin with J0)<br>Same signal level and needed scanner strength as Superior Sleeper Cache|Very rare.<br>Loot: a lot of materials (with relatively large volumes)|
 
 ## 4.3	扫描地区 Areas
 注：破碎洞里面任何扫描信号都可能出现。<p>
