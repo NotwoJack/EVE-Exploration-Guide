@@ -27,7 +27,7 @@ Communication group (QQ): 226771995
 
 # 3 Quick Guide
 
- **Early stage**
+**Early stage**
  
 1.	The suggestion is to buy one-month omega because all kinds of cloaking devices need omega. If you do not have omega, you do not have to pay but need to know how to make some safe bookmarks and escape when you have dcanned combat probes in 4AU.
 
@@ -35,14 +35,14 @@ Communication group (QQ): 226771995
 
 3.	Buy an \[Empire Faction] Frigate (Suggestion: Heron) and fit it with [the recommended fit——Heron, Newbie exploration](Heron配置链接). Now you should have 75+ probe strength and you can begin exploring!
 
- **Terminal stage**
+**Terminal stage**
     
-4.	Finish training the following skills in the particular order:<br>
-The skills as which the equipment in [Steel Plates Astero](钢板小白配置链接) needs<br>
-Cloaking IV for Covert Ops Cloaking Device II<br>
-Astrometrics IV<br>
-Hacking V for T2 analyzer<br>
-Archaeology V for T2 analyzer<br>
+4.	Finish training the following skills in the particular order:
+The skills as which the equipment in [Steel Plates Astero](钢板小白配置链接) needs
+Cloaking IV for Covert Ops Cloaking Device II
+Astrometrics IV
+Hacking V for T2 analyzer
+Archaeology V for T2 analyzer
 \(about four Large Skill Injectors in total)
 
 5.	Explore with Astero. If you still can not use Covert Ops Cloaking Device II, Astero is not suggested. You can try advanced signatures with Heron first. When you can use T2 Analyzers, the success probability in the hacking minigame would be much higher than before.
@@ -90,47 +90,54 @@ Let’s start scanning, here are some useful tips:
 |Sleeper Cache \(Data)|![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/4.2-4.png ':size=WIDTHxHEIGHT')<br>Limited/Standard/Superior+Sleeper Cache|Hard but have loot with high value.<br>\(in [Advance](对应链接))|
 |Normal Sleeper \(Data/Relic)|Only in Wormhole Spaces.<br>Unsecured/Forgotten+Faction+Site name|Sleepers inside.<br>Could be explored by drawing the Sleepers away from the site \(only when no Sentry Towers inside).<br>Loot: Ancient Relics for T3 ships \(the BPCs from these Relics for T3 are valuable)<br>\(Not suggested)|
 |Drone \(Data)|Abandoned Research Complex DA0XX|Could trigger an expedition. \(in [Drone Regions](对应链接))<br>Loot: Rogue Drone Components, Integrated or Augmented Drone BPCs|
-|Silent Battleground|Only in Shattered Wormhole Systems \(name begin with J0)<br>Same signal level and needed scanner strength as Superior Sleeper Cache|Very rare.<br>Loot: a lot of materials (with relatively large volumes)|
+|Silent Battleground|Only in Shattered Wormhole Systems \(name begin with J0).<br>Same signal level and needed scanner strength as Superior Sleeper Cache.|Very rare.<br>Loot: a lot of materials (with relatively large volumes)|
 
-## 4.3	扫描地区 Areas
-注：破碎洞里面任何扫描信号都可能出现。<p>
-**--扫描点及区域分布查询表--**
+## 4.3 Areas
 
-|     遗迹地点                                |     安全吗    |     高安    |     低安    |     零安    |     C1    |     C2    |     C3    |     C4    |     C5    |     C6    |
-|---------------------------------------------|---------------|-------------|-------------|-------------|-----------|-----------|-----------|-----------|-----------|-----------|
-|     Crumbing <>                             |     安全      |     x       |             |             |           |           |           |           |           |           |
-|     Decayed <>                              |     安全      |             |     x       |             |           |           |           |           |           |           |
-|     Ruined <>                               |     安全      |             |             |     x       |     x     |     x     |     x     |           |           |           |
-|     Forgotten <>                            |     有怪      |             |             |             |     x     |     x     |     x     |     x     |     x     |     x     |
-|                                             |               |             |             |             |           |           |           |           |           |           |
-|     数据地点                                |     安全吗    |     高安    |     低安    |     零安    |     C1    |     C2    |     C3    |     C4    |     C5    |     C6    |
-|     Local <>                                |     安全      |     x       |             |             |           |           |           |           |           |           |
-|     Regional <>                             |     安全      |             |     x       |             |           |           |           |           |           |           |
-|     Central <>                              |     安全      |             |             |     x       |     x     |     x     |     x     |           |           |           |
-|     Unsecured <>                            |     有怪      |             |             |             |     x     |     x     |     x     |     x     |     x     |     x     |
-|     Silent Battleground (只存在于破碎洞)    |     安全      |             |             |             |           |           |           |           |           |           |
-|                                             |               |             |             |             |           |           |           |           |           |           |
-|     无人机（数据）                          |     安全吗    |     高安    |     低安    |     零安    |     C1    |     C2    |     C3    |     C4    |     C5    |     C6    |
-|     Abandoned Research Complex <>           |     不安全    |             |             |     x       |           |           |           |           |           |           |
-|                                             |               |             |             |             |           |           |           |           |           |           |
-|     幽灵坟（数据）                          |     安全吗    |     高安    |     低安    |     零安    |     C1    |     C2    |     C3    |     C4    |     C5    |     C6    |
-|     Lesser <> Covert Research Facility      |     会炸      |     x       |             |             |           |           |           |           |           |           |
-|     Standard <> Covert Research Facility    |     会炸      |             |     x       |             |           |           |           |           |           |           |
-|     Improved <> Covert Research Facility    |     会炸      |             |             |     x       |           |           |           |           |           |           |
-|     Superior <> Covert Research Facility    |     会炸      |             |             |             |     x     |     x     |     x     |     x     |     x     |     x     |
-|                                             |               |             |             |             |           |           |           |           |           |           |
-|     冬眠者坟（数据）                        |     安全吗    |     高安    |     低安    |     零安    |     C1    |     C2    |     C3    |     C4    |     C5    |     C6    |
-|     Limited Sleeper Cache                   |     不安全    |     x       |     x       |     x       |           |           |           |           |           |           |
-|     Standard Sleeper Cache                  |     不安全    |     x       |     x       |     x       |           |           |           |           |           |           |
-|     Superior Sleeper Cache                  |     不安全    |     x       |     x       |     x       |           |           |           |           |           |           |
-|                                             |               |             |             |             |           |           |           |           |           |           |
-|     气云地点(可能是挖掘信号)                |     安全吗    |     高安    |     低安    |     零安    |     C1    |     C2    |     C3    |     C4    |     C5    |     C6    |
-|     <>                                      |     不安全    |     x       |     x       |     x       |     x     |     x     |     x     |     x     |     x     |     x     |
+PS: In Shattered Wormhole Systems every kind of cosmic signature could appear.
 
-<p>注解：<br>
-<> =通配符(即任何文字均可代入)<br>
-安全 = 你无论怎么作死都死不了<br>
-X = 有可能出现的位置<br>
+**--The tables of cosmic signatures and their regional distribution--**
+
+|Relic Sites  |Safe?|Highsec|Lowsec|Nullsec|C1 |C2 |C3 |C4 |C5 |C6 |
+|-------------|:---:|:-----:|:----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Crumbing < > |Y    |x      |      |       |   |   |   |   |   |   |
+|Decayed < >  |Y    |       |x     |       |   |   |   |   |   |   |
+|Ruined < >   |Y    |       |      |x      |x  |x  |x  |   |   |   |
+|Forgotten < >|N    |       |      |       |x  |x  |x  |x  |x  |x  |
+
+|Data Sites                                                  |Safe?|Highsec|Lowsec|Nullsec|C1 |C2 |C3 |C4 |C5 |C6 |
+|------------------------------------------------------------|:---:|:-----:|:----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Local < >                                                   |Y    |x      |      |       |   |   |   |   |   |   |
+|Regional < >                                                |Y    |       |x     |       |   |   |   |   |   |   |
+|Central < >                                                 |Y    |       |      |x      |x  |x  |x  |   |   |   |
+|Unsecured < >                                               |N    |       |      |       |x  |x  |x  |x  |x  |x  |
+|Silent Battleground<br>\(only in Shattered Wormhole Systems)|Y    |       |      |       |   |   |   |   |   |   |
+
+|Drone Data Sites              |Safe?|Highsec|Lowsec|Nullsec|C1 |C2 |C3 |C4 |C5 |C6 |
+|------------------------------|:---:|:-----:|:----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Abandoned Research Complex < >|N    |       |      |x      |   |   |   |   |   |   |
+
+|Ghost Sites \(Data)                  |Safe?|Highsec|Lowsec|Nullsec|C1 |C2 |C3 |C4 |C5 |C6 |
+|-------------------------------------|:---:|:-----:|:----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Lesser < > Covert Research Facility  |N    |x      |      |       |   |   |   |   |   |   |
+|Standard < > Covert Research Facility|N    |       |x     |       |   |   |   |   |   |   |
+|Improved < > Covert Research Facility|N    |       |      |x      |   |   |   |   |   |   |
+|Superior < > Covert Research Facility|N    |       |      |       |x  |x  |x  |x  |x  |x  |
+
+|Sleeper Caches \(Data)|Safe?|Highsec|Lowsec|Nullsec|C1 |C2 |C3 |C4 |C5 |C6 |
+|----------------------|:---:|:-----:|:----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Limited Sleeper Cache |N    |x      |x     |x      |   |   |   |   |   |   |
+|Standard Sleeper Cache|N    |x      |x     |x      |   |   |   |   |   |   |
+|Superior Sleeper Cache|N    |x      |x     |x      |   |   |   |   |   |   |
+
+|Gas Sites \(maybe for huffing)|Safe?|Highsec|Lowsec|Nullsec|C1 |C2 |C3 |C4 |C5 |C6 |
+|------------------------------|:---:|:-----:|:----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
+|< >                           |N    |x      |x     |x      |x  |x  |x  |x  |x  |x  |
+
+PS:
+< > = The left part of the site name
+Y \(by Safe?) = There are no NPC ships inside and it is absolutely safe no matter what you do inside.
+x = Possible appearance
 
 ### 4.3.1	虫洞 Wormhole
 在这里简要介绍一下虫洞，详细内容请浏览这里（英文）
