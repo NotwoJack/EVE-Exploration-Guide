@@ -99,40 +99,35 @@ PS: In Shattered Wormhole Systems every kind of cosmic signature could appear.
 **--The tables of cosmic signatures and their regional distribution--**
 
 |Relic Sites  |Safe?|Highsec|Lowsec|Nullsec|C1 |C2 |C3 |C4 |C5 |C6 |
-|-------------|:---:|:-----:|:----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-----------:|:---:|:-----:|:----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Crumbing < > |Y    |x      |      |       |   |   |   |   |   |   |
 |Decayed < >  |Y    |       |x     |       |   |   |   |   |   |   |
 |Ruined < >   |Y    |       |      |x      |x  |x  |x  |   |   |   |
 |Forgotten < >|N    |       |      |       |x  |x  |x  |x  |x  |x  |
-
-|Data Sites                                                  |Safe?|Highsec|Lowsec|Nullsec|C1 |C2 |C3 |C4 |C5 |C6 |
-|------------------------------------------------------------|:---:|:-----:|:----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Local < >                                                   |Y    |x      |      |       |   |   |   |   |   |   |
-|Regional < >                                                |Y    |       |x     |       |   |   |   |   |   |   |
-|Central < >                                                 |Y    |       |      |x      |x  |x  |x  |   |   |   |
-|Unsecured < >                                               |N    |       |      |       |x  |x  |x  |x  |x  |x  |
-|Silent Battleground<br>\(only in Shattered Wormhole Systems)|Y    |       |      |       |   |   |   |   |   |   |
-
-|Drone Data Sites              |Safe?|Highsec|Lowsec|Nullsec|C1 |C2 |C3 |C4 |C5 |C6 |
-|------------------------------|:---:|:-----:|:----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Abandoned Research Complex < >|N    |       |      |x      |   |   |   |   |   |   |
-
-|Ghost Sites \(Data)                  |Safe?|Highsec|Lowsec|Nullsec|C1 |C2 |C3 |C4 |C5 |C6 |
-|-------------------------------------|:---:|:-----:|:----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Lesser < > Covert Research Facility  |N    |x      |      |       |   |   |   |   |   |   |
-|Standard < > Covert Research Facility|N    |       |x     |       |   |   |   |   |   |   |
-|Improved < > Covert Research Facility|N    |       |      |x      |   |   |   |   |   |   |
-|Superior < > Covert Research Facility|N    |       |      |       |x  |x  |x  |x  |x  |x  |
-
-|Sleeper Caches \(Data)|Safe?|Highsec|Lowsec|Nullsec|C1 |C2 |C3 |C4 |C5 |C6 |
-|----------------------|:---:|:-----:|:----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Limited Sleeper Cache |N    |x      |x     |x      |   |   |   |   |   |   |
-|Standard Sleeper Cache|N    |x      |x     |x      |   |   |   |   |   |   |
-|Superior Sleeper Cache|N    |x      |x     |x      |   |   |   |   |   |   |
-
-|Gas Sites \(maybe for huffing)|Safe?|Highsec|Lowsec|Nullsec|C1 |C2 |C3 |C4 |C5 |C6 |
-|------------------------------|:---:|:-----:|:----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
-|< >                           |N    |x      |x     |x      |x  |x  |x  |x  |x  |x  |
+|             |     |       |      |       |   |   |   |   |   |   |
+|**Data Sites**                                              |**Safe?**|**Highsec**|**Lowsec**|**Nullsec**|**C1**|**C2**|**C3**|**C4**|**C5**|**C6**|
+|Local < >                                                   |Y        |x          |          |           |      |      |      |      |      |      |
+|Regional < >                                                |Y        |           |x         |           |      |      |      |      |      |      |
+|Central < >                                                 |Y        |           |          |x          |x     |x     |x     |      |      |      |
+|Unsecured < >                                               |N        |           |          |           |x     |x     |x     |x     |x     |x     |
+|Silent Battleground<br>\(only in Shattered Wormhole Systems)|Y        |           |          |           |      |      |      |      |      |      |
+|             |     |       |      |       |   |   |   |   |   |   |
+|**Drone Data Sites**          |**Safe?**|**Highsec**|**Lowsec**|**Nullsec**|**C1**|**C2**|**C3**|**C4**|**C5**|**C6**|
+|Abandoned Research Complex < >|N        |           |          |x          |      |      |      |      |      |      |
+|             |     |       |      |       |   |   |   |   |   |   |
+|**Ghost Sites \(Data)**              |**Safe?**|**Highsec**|**Lowsec**|**Nullsec**|**C1**|**C2**|**C3**|**C4**|**C5**|**C6**|
+|Lesser < > Covert Research Facility  |N        |x          |          |           |      |      |      |      |      |      |
+|Standard < > Covert Research Facility|N        |           |x         |           |      |      |      |      |      |      |
+|Improved < > Covert Research Facility|N        |           |          |x          |      |      |      |      |      |      |
+|Superior < > Covert Research Facility|N        |           |          |           |x     |x     |x     |x     |x     |x     |
+|             |     |       |      |       |   |   |   |   |   |   |
+|**Sleeper Caches \(Data)**|**Safe?**|**Highsec**|**Lowsec**|**Nullsec**|**C1**|**C2**|**C3**|**C4**|**C5**|**C6**|
+|Limited Sleeper Cache     |N        |x          |x         |x          |      |      |      |      |      |      |
+|Standard Sleeper Cache    |N        |x          |x         |x          |      |      |      |      |      |      |
+|Superior Sleeper Cache    |N        |x          |x         |x          |      |      |      |      |      |      |
+|             |     |       |      |       |   |   |   |   |   |   |
+|**Gas Sites \(maybe for huffing)**|**Safe?**|**Highsec**|**Lowsec**|**Nullsec**|**C1**|**C2**|**C3**|**C4**|**C5**|**C6**|
+|< >                               |N        |x          |x         |x          |x     |x     |x     |x     |x     |x     |
 
 PS:
 < > = The left part of the site name
