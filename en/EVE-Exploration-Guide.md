@@ -134,14 +134,22 @@ PS:
 Y \(by Safe?) = There are no NPC ships inside and it is absolutely safe no matter what you do inside.
 x = Possible appearance
 
-### 4.3.1	虫洞 Wormhole
-在这里简要介绍一下虫洞，详细内容请浏览这里（英文）
-<p>虫洞简单理解就是一个可以通向虫洞空间或是其他任意位置的一个星门，虫洞空间分为1-6级，在1-3级洞内会刷普通势力坟，而且数量多于高低安00地区，不要去碰洞内的冬眠坟，有怪容易被秒。虫洞内部本地不显示玩家，意味着你需要时刻使用ALT+D舰载扫描来确认敌人，并做好逃跑准备。
-<p>当你靠近虫洞时能看到它们的名称，如果显示为K162，那么表示这个虫洞是从对面被打开的。 
-<p>破碎洞的识别方法，随便点击一个星球如果显示是破碎的，那么这个洞即为破碎洞，破碎洞内可能会出现任意种类的信号，不受地区限制。
-<p>每当你进入虫洞时，Ctrl+B保存当前地址，再看一下星系内如果含有许多建筑，说明这个洞住人了，不建议长时间逗留，如果洞内的信号少于5个，很大可能被人扫过了。
-<p>你可以使用这两个网站查询虫洞信息，英文（推荐） 中文，将左上角虫洞空间编号输入查询。 	
-<p>也可以对照下表直接从虫洞介绍中获取信息。
+### 4.3.1 Wormhole
+
+The following text is a brief introduction about the Wormholes. For a more detailed introduction pls read [Uniwiki](https://wiki.eveuniversity.org/Wormholes).
+
+A Wormhole can be simply regarded as an unstable stargate to a Wormhole Space or a system elsewhere. In the C1-C3 Wormhole Spaces, the pirate Relic and Data Sites could appear, and the numbers of them are more than in the other regions \(Highsec&Lowsec&Nullsec). The Sleeper Sites in wormhole spaces are not suggested for exploration. There are strong NPC ships inside and you could lose your ship there really quickly. The Local channel in WH does not show the capsuleers inside. This means you will have to use Dscan at any time for scout and always be ready for an escape.
+
+When you are near enough to a wormhole, then it would be shown on the overview and you can read it's name. If it is called K162\(缺少K162图片)then this wormhole was "opened" from the opposite. 
+
+To identify a Shattered Wormhole Space, confirm if all planets inside the system are shattered. In principle, all kinds of cosmic signatures could appear in a Shattered Wormhole Space.
+
+Every time you have entered a wormhole, save your location immediately \(shortcut: Ctrl+B). If there are many structures in a WH Space, it could mean that some players are living there, and staying there for a long time is not suggested. If there are only less than five cosmic signatures, then there is a good chance that someone just came here before and explored this wormhole system.
+
+A website for inquiring the information about the wormholes: http://anoik.is
+Enter the name\(缺少虫洞名称图片)of the WH Space and you can get the info.
+
+Or compare the description of the wormhole with the following sheet for basic information.
 
 **--通往--**
 
