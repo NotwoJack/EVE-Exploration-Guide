@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bf3d1d2-bd6f-4056-a684-fd861ceebdad" name="Default Changelist" comment="">
+    <list default="true" id="7bf3d1d2-bd6f-4056-a684-fd861ceebdad" name="Default Changelist" comment="7.1-7.4章">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EVE-Exploration-Guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/EVE-Exploration-Guide.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/7.2-1-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/7.2-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/en/_coverpage.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -74,7 +73,12 @@
       <workItem from="1603290698535" duration="17000" />
       <workItem from="1603538927786" duration="30041000" />
       <workItem from="1603799305706" duration="971000" />
-      <workItem from="1604235106933" duration="4534000" />
+      <workItem from="1604235106933" duration="5395000" />
+      <workItem from="1604501184639" duration="602000" />
+      <workItem from="1606881170706" duration="82000" />
+      <workItem from="1606910105868" duration="108000" />
+      <workItem from="1607006819563" duration="574000" />
+      <workItem from="1607785750835" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1602686414070</created>
@@ -160,7 +164,28 @@
       <option name="project" value="LOCAL" />
       <updated>1604241728700</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="7.1-7.4章">
+      <created>1604242707828</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604242707828</updated>
+    </task>
+    <task id="LOCAL-00014" summary="处理">
+      <created>1607007148706</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607007148706</updated>
+    </task>
+    <task id="LOCAL-00015" summary="侧边栏修改">
+      <created>1607007218029</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607007218029</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,48 +201,9 @@
     <MESSAGE value="1-6章完成" />
     <MESSAGE value="封面更新" />
     <MESSAGE value="7章 图" />
-    <option name="LAST_COMMIT_MESSAGE" value="7章 图" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603595933779">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603595933779" />
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603598952357">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603598952357" />
-    <state x="585" y="105" key="CommitChangelistDialog2" timestamp="1604241728348">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="585" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604241728348" />
-    <state x="805" y="418" key="Github.ShareDialog" timestamp="1602646578559">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="805" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602646578559" />
-    <state x="759" y="223" key="Github.UntrackedFilesDialog" timestamp="1602646585925">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="759" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602646585925" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1603605895677">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603605895677" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604241730281">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604241730281" />
-    <state x="495" y="132" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603551154383">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="495" y="132" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603551154383" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604235109572">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604235109572" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603596411751">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603596411751" />
+    <MESSAGE value="7.1-7.4章" />
+    <MESSAGE value="处理" />
+    <MESSAGE value="侧边栏修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="侧边栏修改" />
   </component>
 </project>
