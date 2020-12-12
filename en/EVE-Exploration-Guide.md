@@ -129,16 +129,16 @@ PS: In Shattered Wormhole Systems every kind of cosmic signature could appear.
 |**Gas Sites \(maybe for huffing)**|**Safe?**|**Highsec**|**Lowsec**|**Nullsec**|**C1**|**C2**|**C3**|**C4**|**C5**|**C6**|
 |< >                               |N        |x          |x         |x          |x     |x     |x     |x     |x     |x     |
 
-PS:
-< > = The left part of the site name
-Y \(by Safe?) = There are no NPC ships inside and it is absolutely safe no matter what you do inside.
+PS:<br>
+< > = The left part of the site name<br>
+Y \(by Safe?) = There are no NPC ships inside and it is absolutely safe no matter what you do inside.<br>
 x = Possible appearance
 
 ### 4.3.1 Wormhole
 
 The following text is a brief introduction about the Wormholes. For a more detailed introduction pls read [Uniwiki](https://wiki.eveuniversity.org/Wormholes).
 
-A Wormhole can be simply regarded as an unstable stargate to a Wormhole Space or a system elsewhere. In the C1-C3 Wormhole Spaces, the pirate Relic and Data Sites could appear, and the numbers of them are more than in the other regions \(Highsec&Lowsec&Nullsec). The Sleeper Sites in wormhole spaces are not suggested for exploration. There are strong NPC ships inside and you could lose your ship there really quickly. The Local channel in WH does not show the capsuleers inside. This means you will have to use Dscan at any time for scout and always be ready for an escape.
+A Wormhole can be simply regarded as an unstable stargate to a Wormhole Space or a system elsewhere. In the C1-C3 Wormhole Spaces, the pirate Relic and Data Sites could appear, and the numbers of them are more than in Highsec&Lowsec&Nullsec. The Sleeper Sites in wormhole spaces are not suggested for exploration. There are strong NPC ships inside and you could lose your ship there really quickly. The Local channel in WH does not show the capsuleers inside. This means you will have to keep using Dscan for scout and always be ready for an escape.
 
 When you are near enough to a wormhole, then it would be shown on the overview and you can read it's name. If it is called K162\(缺少K162图片)then this wormhole was "opened" from the opposite. 
 
@@ -149,35 +149,36 @@ Every time you have entered a wormhole, save your location immediately \(shortcu
 A website for inquiring the information about the wormholes: http://anoik.is
 Enter the name\(缺少虫洞名称图片)of the WH Space and you can get the info.
 
-Or compare the description of the wormhole with the following sheet for basic information.
+Or compare the description of the wormhole with the following tables for basic information.
 
-**--通往--**
+**--To where--**
 
-|           显示内容         |       通往      |        中文       |
-|--------------------------|---------------|:-----------------|
-|           Unknown          |     C1/C2/C3    |        未知       |
-|     Dangerous   Unknown    |       C4/C5     |     危险的未知    |
-|       Deadly   Unknown     |        C6       |     致命的未知    |
-|       High   Security      |       高安      |        高安       |
-|         Low Security       |       低安      |        低安       |
-|       Null   Security      |        00       |         00        |
+|In description   |To      |
+|-----------------|--------|
+|Unknown          |C1/C2/C3|
+|Dangerous Unknown|C4/C5   |
+|Deadly Unknown   |C6      |
+|High Security    |Highsec |
+|Low Security     |Lowsec  |
+|Null Security    |Nullsec |
 
-**--剩余时间--**
+**--The time left--**
 
-|            显示内容           |      剩余时间     |               中文              |
-|-----------------------------|-----------------|-------------------------------|
-|         not yet   begun       |       > 24时      |        它还能敞开至少一天       |
-|      beginning   to decay     |     4时 ~ 24时    |         可能撑不了一天了        |
-|       reaching   the end      |      5分 ~ 4时    |     到达它自然生命周期的终点    |
-|     verge of   dissipating    |        < 5分      |             化为乌有            |
+|In description      |Time left|
+|--------------------|---------|
+|not yet begun       |> 24h    |
+|beginning to decay  |4h ~ 24h |
+|reaching the end    |5min ~ 4h|
+|verge of dissipating|< 5min   |
 
-**--质量--**
+**--Mass--**
 
-|     显示内容               |     质量         |     中文                  |
-|----------------------------|------------------|---------------------------|
-|     has not   yet          |     <100%        |     尚未受到影响          |
-|     not to a   critical    |     10% ~ 50%    |     尚未达到严重程度      |
-|     verge of   collapse    |     <10%         |     严重影响，即将崩塌    |
+|In description   |Mass     |
+|-----------------|---------|
+|has not yet      |< 100%   |
+|not to a critical|10% ~ 50%|
+|verge of collapse|< 10%    |
+
 ### 4.3.2	无人机区 Drone Regions
 无人机区位于星图右上方，请看附录地图，由8个星域构成分别为Cobalt Edge, Perrigen Falls, Malpais, Oasa, Kalevala Expanse, Outer Passage, Etherium Reach, The Spire。
 <p>在这些区域内会出现无人机坟。破解无人机坟中的箱子会能获得无人机组件以及加强无人机蓝图，破解成功有几率触发无人机远征（包括空箱子），无人机坟的远征就是再去挖一个新的无人机坟。
