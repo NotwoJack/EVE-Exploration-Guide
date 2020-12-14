@@ -144,7 +144,7 @@ When you are near enough to a wormhole, then it would be shown on the overview a
 
 To identify a Shattered Wormhole Space, confirm if all planets inside the system are shattered. In principle, all kinds of cosmic signatures could appear in a Shattered Wormhole Space.
 
-Every time you have entered a wormhole, save your location immediately \(shortcut: Ctrl+B). If there are many structures in a WH Space, it could mean that some players are living there, and staying there for a long time is not suggested. If there are only less than five cosmic signatures, then there is a good chance that someone just came here before and explored this wormhole system.
+Every time you have entered a wormhole, save your location \(shortcut: Ctrl+B) immediately. If there are many structures in a WH Space, it could mean that some players are living there, and staying there for a long time is not suggested. If there are only less than five cosmic signatures, then there is a good chance that someone just came here before and explored this wormhole system.
 
 A website for inquiring the information about the wormholes: http://anoik.is
 Enter the name\(缺少虫洞名称图片)of the WH Space and you can get the info.
@@ -179,12 +179,31 @@ Or compare the description of the wormhole with the following tables for basic i
 |not to a critical|10% ~ 50%|
 |verge of collapse|< 10%    |
 
-### 4.3.2	无人机区 Drone Regions
-无人机区位于星图右上方，请看附录地图，由8个星域构成分别为Cobalt Edge, Perrigen Falls, Malpais, Oasa, Kalevala Expanse, Outer Passage, Etherium Reach, The Spire。
-<p>在这些区域内会出现无人机坟。破解无人机坟中的箱子会能获得无人机组件以及加强无人机蓝图，破解成功有几率触发无人机远征（包括空箱子），无人机坟的远征就是再去挖一个新的无人机坟。
-<p>同时无人机区的所有隐秘坟信号都为I级战斗信号，且不存在遗迹信号。
+### 4.3.2 Drone Regions
 
+The Drone Regions are on the top right of the Map [Map in Appendix](对应链接) and consist of the following 8 regions:<br>
+Cobalt Edge<br>
+Etherium Reach<br>
+Malpais<br>
+Oasa<br>
+Outer Passage<br>
+Perrigen Falls<br>
+The Kalevala Expanse<br>
+The Spire
+ 
+In these regions, the Drone Data Sites could appear. The loot contains Rogue Drone Components, Integrated and Augmented Drone BPCs. A successful hack \(including hacking empty containers) may trigger an expedition, which is a new Drone Data Site.
 
+In the Drone Regions, there are no Relic Sites and all Ghost Sites appear as Level I Combat Sites.
+
+## 4.4 Hacking
+
+![logo](https://wiki.eveuniversity.org/images/8/80/Hacking_Indications.png ':size=WIDTHxHEIGHT')
+
+The image above is from a hacking minigame. Coherence is your HP and Strength is your Attack. Based on the fit [Heron, Newbie exploration](对应链接) from the chapter 3 Quick Guide, there should be 70 Coherence and 25 Strength. Except those most difficult hacking minigames with red System Core, the other minigames should be relatively easy now.
+
+Every node will display a number from 1-5 when you click it. This number means the distance to the nearest safe node (a Utility Subsystem, Data Cache, or System Core). When the distance is above 5 the node will still display 5. If a node in a corner displays 5 then you shall change the direction, because there are no useful nodes nearby. When your Strength is low, the route along the edge is suggested. Though a comparatively longer time is needed for hacking in this case, but you could find another way easily and won’t be stuck somewhere. When your Strength is high, choosing the midpoint of the hexagons on the way is suggested, because the safe nodes could be detected easier.
+
+**Hacking strategy:** 
 
 # 5 装备Equipment
 这里列举了和挖坟有关的装备，影响扫描的主要是探针强度和破解攻击力当然还有一些逃生用的装备，配合移动机库可以随时换装弥补技能点不足的短板。
