@@ -201,9 +201,36 @@ In the Drone Regions, there are no Relic Sites and all Ghost Sites appear as Lev
 
 The image above is from a hacking minigame. Coherence is your HP and Strength is your Attack. Based on the fit [Heron, Newbie exploration](对应链接) from the chapter 3 Quick Guide, there should be 70 Coherence and 25 Strength. Except those most difficult hacking minigames with red System Core, the other minigames should be relatively easy now.
 
-Every node will display a number from 1-5 when you click it. This number means the distance to the nearest safe node (a Utility Subsystem, Data Cache, or System Core). When the distance is above 5 the node will still display 5. If a node in a corner displays 5 then you shall change the direction, because there are no useful nodes nearby. When your Strength is low, the route along the edge is suggested. Though a comparatively longer time is needed for hacking in this case, but you could find another way easily and won’t be stuck somewhere. When your Strength is high, choosing the midpoint of the hexagons on the way is suggested, because the safe nodes could be detected easier.
+Every node will display a number from 1-5 when you click it. This number means the distance to the nearest safe node \(a Utility Subsystem, Data Cache, or System Core). When the distance is above 5 the node will still display 5. If a node in a corner displays 5 then you shall change the direction, because there are no useful nodes nearby. When your Strength is low, the route along the edge is suggested. Though a comparatively longer time is needed for hacking in this case, but you could find another way easily and won’t be stuck somewhere. When your Strength is high, choosing the midpoints of the hexagons on the way is suggested, because the safe nodes could be detected easier.
 
-**Hacking strategy:** 
+**Hacking strategy:** There is a high possibility that the System Core appears at the opposite angle, so two strategies are recommended. The first one is going straight \(diagonal) to the opposite angle like the red line in the image below. It needs a high Strength and you can use this strategy immediately after you have confirmed the difficulty of the minigame. The second one is going along the edge like the green line. This strategy is suitable for the normal sites without the time limit. If a Defensive Subsystem appears, it is not necessary to disable it immediately, because you could change a direction and continue hacking. This strategy has also another advantage when the System Core is not at the opposite angle but at one of the two angles near the start point. When you get a Self Repair, use it ASAP because there is no limit for Coherence. The other Utility Subsystems shall be kept and used according to the table below.
+
+Because of the delay, it could happen that you click accidentally once more and find a Defensive Subsystem near the System Core. So when you are hacking, do not be nervous or click the nodes too fast. When your Coherence is too low for the System Core, do not forget searching in other nodes for the Utility Subsystems. The best way of increasing the success possibility is improving the Strength. 60 Strength could be achieved with T2 Analyzers and Neural Lace 'Blackglass' Net Intrusion 920-40. So the skills for the T2 Data Analyzer shall be trained ASAP.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/4.4-1.png ':size=WIDTHxHEIGHT')
+
+**The Rule of Six**
+- If a node is adjacent to other six nodes \(which build a complete hexagon), then this node is safe.
+- When it is not safe, then the System Core must be in one of the six adjacent nodes.
+
+Using this rule could decently increase hacking efficiency. The midpoints of the hexagons are safe. If not, then the System Core is within easy reach. Before a newbie going to explore his/her first Sleeper Cache, it is highly suggested to understand this rule first.
+
+**Nodes**
+
+|Name                   |Icon                                                                       |Function|
+|-----------------------|---------------------------------------------------------------------------|--------|
+|Data Cache             |![logo](https://wiki.eveuniversity.org/images/0/02/Data_cache2.png)        |A node with hidden content. Both kinds of Subsystems could appear. Do not click anyone until there are no other choices.|
+|**Utility Subsystem**  |                                                                           |        |
+|Self Repair            |![logo](https://wiki.eveuniversity.org/images/4/46/Self_repair2.png)       |Restore 4 - 10 Coherence per action, lasts 3 actions. Coherence has no limit, so it shall be used ASAP.|
+|Kernel Rot             |![logo](https://wiki.eveuniversity.org/images/f/fe/Kernel_rot2.png)        |Halve the Coherence of the target.|
+|Polymorphic Shield     |![logo](https://wiki.eveuniversity.org/images/d/d8/Polymorphic_shield.png) |Prevent twice the damage. If you disable the subsystem first, the effect will be kept.|
+|Secondary Vector       |![logo](https://wiki.eveuniversity.org/images/1/1d/Secondary_vector2.png)  |Reduce 20 Coherence of the target per action, lasts 3 actions. It is not counted as an attack, and could reduce the Coherence while clicking other nodes. To use it, click first the Secondary Vector, then click the target Defensive Subsystem and at the end click somewhere else twice.|
+|**Defensive Subsystem**|                                                                           |        |
+|Firewall               |![logo](https://wiki.eveuniversity.org/images/a/a5/Firewall_node.png)      |Normal Defensive Subsystem.|
+|Antivirus              |![logo](https://wiki.eveuniversity.org/images/9/94/Antivirus_node.png)     |Defensive Subsystem with high Attack. Shall be disabled by using the Polymorphic Shield at the same time.|
+|Restoration Node       |![logo](https://wiki.eveuniversity.org/images/3/3d/Restorer_node.png)      |Restore 20 Coherence on random Defensive Subsystem per action \(including picking up a Utility Subsystem). It will not restore itself and the System Core. Once it has appeared, disable it ASAP.|
+|Virus Suppressor       |![logo](https://wiki.eveuniversity.org/images/5/52/Supressor_node.png)     |Decrease 15 Attack, could be added by multiple Virus Suppressors until only 10 Attack left. If there are only 25 Attack and 70 Coherence at the beginning, disabling it could be very hard, so keep well the Secondary Vector and Kernel Rot.|
+|System Core            |![logo](https://wiki.eveuniversity.org/images/1/1c/Core_node_hard_red.png) |The target. The color of it shows the difficulty of the hacking minigame.<br>The difficulty affects the Attack and Coherence of some Defensive Subsystems.<br>Green: Very Easy/Easy  Orange: Medium  Red: Hard|
 
 # 5 装备Equipment
 这里列举了和挖坟有关的装备，影响扫描的主要是探针强度和破解攻击力当然还有一些逃生用的装备，配合移动机库可以随时换装弥补技能点不足的短板。
