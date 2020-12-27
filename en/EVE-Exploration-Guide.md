@@ -232,26 +232,30 @@ Using this rule could decently increase hacking efficiency. The midpoints of the
 |Virus Suppressor       |![logo](https://wiki.eveuniversity.org/images/5/52/Supressor_node.png)     |Decrease 15 Attack, could be added by multiple Virus Suppressors until only 10 Attack left. If there are only 25 Attack and 70 Coherence at the beginning, disabling it could be very hard, so keep well the Secondary Vector and Kernel Rot.|
 |System Core            |![logo](https://wiki.eveuniversity.org/images/1/1c/Core_node_hard_red.png) |The target. The color of it shows the difficulty of the hacking minigame.<br>The difficulty affects the Attack and Coherence of some Defensive Subsystems.<br>Green: Very Easy/Easy  Orange: Medium  Red: Hard|
 
-# 5 装备Equipment
-这里列举了和挖坟有关的装备，影响扫描的主要是探针强度和破解攻击力当然还有一些逃生用的装备，配合移动机库可以随时换装弥补技能点不足的短板。
-## 5.1	飞船 Ships
-| 名称         	| 加成                                                                                                                                         	|
-|--------------	|----------------------------------------------------------------------------------------------------------------------------------------------	|
-| Heron 苍鹭   	| T1护卫                                                                                                                                       	|
-|              	| 破解 攻击和血量各+5<br> 每级技能加成：探针强度+7.5%                                                                                          	|
-| 0.4m isk     	| 优点：因为比其他族T1多一个中槽，可以带信号加强，非常便宜爆了不心疼。                                                                         	|
-|              	|                                                                                                                                              	|
-| Astero 小白  	| 姐妹会护卫                                                                                                                                   	|
-|              	| 破解 攻击和血量各+10<br> 探针强度+37.5%                                                                                                      	|
-| 60m isk      	| 优点：不需要很高的技能就能使用，能够搭载隐蔽行动，穿上钢板能打能挖，是考古的最佳选择。<br> 缺点：对比苍鹭价格略高，校准值比种族护卫低50点 。 	|
-|              	|                                                                                                                                              	|
-| Stratios 中白 	| 姐妹会巡洋                                                                                                                                   	|
-|              	| 破解 攻击和血量各+10<br> 探针强度+37.5%                                                                                                      	|
-| 190m isk     	| 优点：上个钢板不需要堆爆抗也能抗雷区和幽灵坟，超冬3层前2波也能硬吃。还能顺带打高安死亡。<br> 缺点：全套价格高，对比小白动作迟缓。            	|
-|              	|                                                                                                                                              	|
-| Tengu 金鹏    	| C族T3巡洋                                                                                                                                    	|
-|              	| 破解 攻击和血量各+10<br> 子系统V级 探针强度+50%                                                                                              	|
-| 300m isk     	| 优点：拦截湮灭子系统不怕00的泡泡，幽灵坟，超冬雷区及3层也能抗着挖。顺道扫死亡换装就能打。<br> 缺点：全套价格高，对比小白动作迟缓 。          	|
+# 5 Equipment
+
+The equipment here is about the exploration. The most important factors which affect the exploration are the scanner strength and the Attack. Of course, the equipment for the escape is also important. With a Mobile Depot, the equipment on the ship could be changed anywhere at any time. This can make up the lack of skill points.
+
+## 5.1 Ships
+
+|Name    |Bonus \(about the exploration)|
+|--------|------------------------------|
+|Heron   |T1 Frigate                    |
+|        |7.5% bonus to Core and Combat Scanner Probe strength \(per skill level)<br>5+ bonus to Relic and Data Analyzer virus strength|
+|0.4m ISK|Advantage: Heron has 5 midslots, so it could be fitted with an extra Scan Rangefinding Array. It is also very cheap.|
+|        |                              |
+|Astero  |SOE Frigate                   |
+|        |37.5% bonus to Core and Combat Scanner Probe strength<br>10+ bonus to Relic and Data Analyzer virus strength                 |
+|60m ISK |Advantage: Low skill requirement and could be fitted with Covert Ops Cloaking Device II. With the armor plate, it can not only explore but also do a little bit of PVP. It’s almost the best choice for the exploration.<br>Disadvantage: Higher price and 50 Calibration less than Heron.|
+|        |                              |
+|Stratios|SOE Cruiser                   |
+|        |37.5% bonus to Core and Combat Scanner Probe strength<br>10+ bonus to Relic and Data Analyzer virus strength                 |
+|190m ISK|Advantage: With an armor plate, it could tank the ghost sites, the Mine Room, and the first two waves in The Archive without any extra explosion resistance equipment. It could also run the escalations in Highsec.<br>Disadvantage: High price for the whole fit and lower agility compared with Astero.|
+|        |                              |
+|Tengu   |Caldari T3 Cruiser            |
+|        |10% bonus to Core and Combat Scanner Probe strength \(per skill level)<br>10+ bonus to Relic and Data Analyzer virus strength|
+|300m ISK|Advantage: It would not be influenced by the bubbles with the Interdiction Nullifier subsystem. It could also tank the ghost sites, the Mine Room, and The Archive. Scanning and running the escalations is possible too with a proper refit.<br>Disadvantage: High price for the whole fit and lower agility compared with Astero.|
+
 ## 5.2	高槽 High Slot
 新人推荐 姐妹会的探针+普通发射器，便宜实用。
 如果点了隐形推荐上T2的，开小白一定要上隐秘行动
