@@ -129,53 +129,108 @@ PS: In Shattered Wormhole Systems every kind of cosmic signature could appear.
 |**Gas Sites \(maybe for huffing)**|**Safe?**|**Highsec**|**Lowsec**|**Nullsec**|**C1**|**C2**|**C3**|**C4**|**C5**|**C6**|
 |< >                               |N        |x          |x         |x          |x     |x     |x     |x     |x     |x     |
 
-PS:
-< > = The left part of the site name
-Y \(by Safe?) = There are no NPC ships inside and it is absolutely safe no matter what you do inside.
+PS:<br>
+< > = The left part of the site name<br>
+Y \(by Safe?) = There are no NPC ships inside and it is absolutely safe no matter what you do inside.<br>
 x = Possible appearance
 
-### 4.3.1	虫洞 Wormhole
-在这里简要介绍一下虫洞，详细内容请浏览这里（英文）
-<p>虫洞简单理解就是一个可以通向虫洞空间或是其他任意位置的一个星门，虫洞空间分为1-6级，在1-3级洞内会刷普通势力坟，而且数量多于高低安00地区，不要去碰洞内的冬眠坟，有怪容易被秒。虫洞内部本地不显示玩家，意味着你需要时刻使用ALT+D舰载扫描来确认敌人，并做好逃跑准备。
-<p>当你靠近虫洞时能看到它们的名称，如果显示为K162，那么表示这个虫洞是从对面被打开的。 
-<p>破碎洞的识别方法，随便点击一个星球如果显示是破碎的，那么这个洞即为破碎洞，破碎洞内可能会出现任意种类的信号，不受地区限制。
-<p>每当你进入虫洞时，Ctrl+B保存当前地址，再看一下星系内如果含有许多建筑，说明这个洞住人了，不建议长时间逗留，如果洞内的信号少于5个，很大可能被人扫过了。
-<p>你可以使用这两个网站查询虫洞信息，英文（推荐） 中文，将左上角虫洞空间编号输入查询。 	
-<p>也可以对照下表直接从虫洞介绍中获取信息。
+### 4.3.1 Wormhole
 
-**--通往--**
+The following text is a brief introduction about the Wormholes. For a more detailed introduction pls read [Uniwiki](https://wiki.eveuniversity.org/Wormholes).
 
-|           显示内容         |       通往      |        中文       |
-|--------------------------|---------------|:-----------------|
-|           Unknown          |     C1/C2/C3    |        未知       |
-|     Dangerous   Unknown    |       C4/C5     |     危险的未知    |
-|       Deadly   Unknown     |        C6       |     致命的未知    |
-|       High   Security      |       高安      |        高安       |
-|         Low Security       |       低安      |        低安       |
-|       Null   Security      |        00       |         00        |
+A Wormhole can be simply regarded as an unstable stargate to a Wormhole Space or a system elsewhere. In the C1-C3 Wormhole Spaces, the pirate Relic and Data Sites could appear, and the numbers of them are more than in Highsec&Lowsec&Nullsec. The Sleeper Sites in wormhole spaces are not suggested for exploration. There are strong NPC ships inside and you could lose your ship there really quickly. The Local channel in WH does not show the capsuleers inside. This means you will have to keep using Dscan for scout and always be ready for an escape.
 
-**--剩余时间--**
+When you are near enough to a wormhole, then it would be shown on the overview and you can read it's name. If it is called K162\(缺少K162图片)then this wormhole was "opened" from the opposite. 
 
-|            显示内容           |      剩余时间     |               中文              |
-|-----------------------------|-----------------|-------------------------------|
-|         not yet   begun       |       > 24时      |        它还能敞开至少一天       |
-|      beginning   to decay     |     4时 ~ 24时    |         可能撑不了一天了        |
-|       reaching   the end      |      5分 ~ 4时    |     到达它自然生命周期的终点    |
-|     verge of   dissipating    |        < 5分      |             化为乌有            |
+To identify a Shattered Wormhole Space, confirm if all planets inside the system are shattered. In principle, all kinds of cosmic signatures could appear in a Shattered Wormhole Space.
 
-**--质量--**
+Every time you have entered a wormhole, save your location \(shortcut: Ctrl+B) immediately. If there are many structures in a WH Space, it could mean that some players are living there, and staying there for a long time is not suggested. If there are only less than five cosmic signatures, then there is a good chance that someone just came here before and explored this wormhole system.
 
-|     显示内容               |     质量         |     中文                  |
-|----------------------------|------------------|---------------------------|
-|     has not   yet          |     <100%        |     尚未受到影响          |
-|     not to a   critical    |     10% ~ 50%    |     尚未达到严重程度      |
-|     verge of   collapse    |     <10%         |     严重影响，即将崩塌    |
-### 4.3.2	无人机区 Drone Regions
-无人机区位于星图右上方，请看附录地图，由8个星域构成分别为Cobalt Edge, Perrigen Falls, Malpais, Oasa, Kalevala Expanse, Outer Passage, Etherium Reach, The Spire。
-<p>在这些区域内会出现无人机坟。破解无人机坟中的箱子会能获得无人机组件以及加强无人机蓝图，破解成功有几率触发无人机远征（包括空箱子），无人机坟的远征就是再去挖一个新的无人机坟。
-<p>同时无人机区的所有隐秘坟信号都为I级战斗信号，且不存在遗迹信号。
+A website for inquiring the information about the wormholes: http://anoik.is
+Enter the name\(缺少虫洞名称图片)of the WH Space and you can get the info.
 
+Or compare the description of the wormhole with the following tables for basic information.
 
+**--To where--**
+
+|In description   |To      |
+|-----------------|--------|
+|Unknown          |C1/C2/C3|
+|Dangerous Unknown|C4/C5   |
+|Deadly Unknown   |C6      |
+|High Security    |Highsec |
+|Low Security     |Lowsec  |
+|Null Security    |Nullsec |
+
+**--The time left--**
+
+|In description      |Time left|
+|--------------------|---------|
+|not yet begun       |> 24h    |
+|beginning to decay  |4h ~ 24h |
+|reaching the end    |5min ~ 4h|
+|verge of dissipating|< 5min   |
+
+**--Mass--**
+
+|In description   |Mass     |
+|-----------------|---------|
+|has not yet      |< 100%   |
+|not to a critical|10% ~ 50%|
+|verge of collapse|< 10%    |
+
+### 4.3.2 Drone Regions
+
+The Drone Regions are on the top right of the Map [Map in Appendix](对应链接) and consist of the following 8 regions:<br>
+Cobalt Edge<br>
+Etherium Reach<br>
+Malpais<br>
+Oasa<br>
+Outer Passage<br>
+Perrigen Falls<br>
+The Kalevala Expanse<br>
+The Spire
+ 
+In these regions, the Drone Data Sites could appear. The loot contains Rogue Drone Components, Integrated and Augmented Drone BPCs. A successful hack \(including hacking empty containers) may trigger an expedition, which is a new Drone Data Site.
+
+In the Drone Regions, there are no Relic Sites and all Ghost Sites appear as Level I Combat Sites.
+
+## 4.4 Hacking
+
+![logo](https://wiki.eveuniversity.org/images/8/80/Hacking_Indications.png ':size=WIDTHxHEIGHT')
+
+The image above is from a hacking minigame. Coherence is your HP and Strength is your Attack. Based on the fit [Heron, Newbie exploration](对应链接) from the chapter 3 Quick Guide, there should be 70 Coherence and 25 Strength. Except those most difficult hacking minigames with red System Core, the other minigames should be relatively easy now.
+
+Every node will display a number from 1-5 when you click it. This number means the distance to the nearest safe node \(a Utility Subsystem, Data Cache, or System Core). When the distance is above 5 the node will still display 5. If a node in a corner displays 5 then you shall change the direction, because there are no useful nodes nearby. When your Strength is low, the route along the edge is suggested. Though a comparatively longer time is needed for hacking in this case, but you could find another way easily and won’t be stuck somewhere. When your Strength is high, choosing the midpoints of the hexagons on the way is suggested, because the safe nodes could be detected easier.
+
+**Hacking strategy:** There is a high possibility that the System Core appears at the opposite angle, so two strategies are recommended. The first one is going straight \(diagonal) to the opposite angle like the red line in the image below. It needs a high Strength and you can use this strategy immediately after you have confirmed the difficulty of the minigame. The second one is going along the edge like the green line. This strategy is suitable for the normal sites without the time limit. If a Defensive Subsystem appears, it is not necessary to disable it immediately, because you could change a direction and continue hacking. This strategy has also another advantage when the System Core is not at the opposite angle but at one of the two angles near the start point. When you get a Self Repair, use it ASAP because there is no limit for Coherence. The other Utility Subsystems shall be kept and used according to the table below.
+
+Because of the delay, it could happen that you click accidentally once more and find a Defensive Subsystem near the System Core. So when you are hacking, do not be nervous or click the nodes too fast. When your Coherence is too low for the System Core, do not forget searching in other nodes for the Utility Subsystems. The best way of increasing the success possibility is improving the Strength. 60 Strength could be achieved with T2 Analyzers and Neural Lace 'Blackglass' Net Intrusion 920-40. So the skills for the T2 Data Analyzer shall be trained ASAP.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/4.4-1.png ':size=WIDTHxHEIGHT')
+
+**The Rule of Six**
+- If a node is adjacent to other six nodes \(which build a complete hexagon), then this node is safe.
+- When it is not safe, then the System Core must be in one of the six adjacent nodes.
+
+Using this rule could decently increase hacking efficiency. The midpoints of the hexagons are safe. If not, then the System Core is within easy reach. Before a newbie going to explore his/her first Sleeper Cache, it is highly suggested to understand this rule first.
+
+**Nodes**
+
+|Name                   |Icon                                                                       |Function|
+|-----------------------|---------------------------------------------------------------------------|--------|
+|Data Cache             |![logo](https://wiki.eveuniversity.org/images/0/02/Data_cache2.png)        |A node with hidden content. Both kinds of Subsystems could appear. Do not click anyone until there are no other choices.|
+|**Utility Subsystem**  |                                                                           |        |
+|Self Repair            |![logo](https://wiki.eveuniversity.org/images/4/46/Self_repair2.png)       |Restore 4 - 10 Coherence per action, lasts 3 actions. Coherence has no limit, so it shall be used ASAP.|
+|Kernel Rot             |![logo](https://wiki.eveuniversity.org/images/f/fe/Kernel_rot2.png)        |Halve the Coherence of the target.|
+|Polymorphic Shield     |![logo](https://wiki.eveuniversity.org/images/d/d8/Polymorphic_shield.png) |Prevent twice the damage. If you disable the subsystem first, the effect will be kept.|
+|Secondary Vector       |![logo](https://wiki.eveuniversity.org/images/1/1d/Secondary_vector2.png)  |Reduce 20 Coherence of the target per action, lasts 3 actions. It is not counted as an attack, and could reduce the Coherence while clicking other nodes. To use it, click first the Secondary Vector, then click the target Defensive Subsystem and at the end click somewhere else twice.|
+|**Defensive Subsystem**|                                                                           |        |
+|Firewall               |![logo](https://wiki.eveuniversity.org/images/a/a5/Firewall_node.png)      |Normal Defensive Subsystem.|
+|Antivirus              |![logo](https://wiki.eveuniversity.org/images/9/94/Antivirus_node.png)     |Defensive Subsystem with high Attack. Shall be disabled by using the Polymorphic Shield at the same time.|
+|Restoration Node       |![logo](https://wiki.eveuniversity.org/images/3/3d/Restorer_node.png)      |Restore 20 Coherence on random Defensive Subsystem per action \(including picking up a Utility Subsystem). It will not restore itself and the System Core. Once it has appeared, disable it ASAP.|
+|Virus Suppressor       |![logo](https://wiki.eveuniversity.org/images/5/52/Supressor_node.png)     |Decrease 15 Attack, could be added by multiple Virus Suppressors until only 10 Attack left. If there are only 25 Attack and 70 Coherence at the beginning, disabling it could be very hard, so keep well the Secondary Vector and Kernel Rot.|
+|System Core            |![logo](https://wiki.eveuniversity.org/images/1/1c/Core_node_hard_red.png) |The target. The color of it shows the difficulty of the hacking minigame.<br>The difficulty affects the Attack and Coherence of some Defensive Subsystems.<br>Green: Very Easy/Easy  Orange: Medium  Red: Hard|
 
 # 5 装备Equipment
 这里列举了和挖坟有关的装备，影响扫描的主要是探针强度和破解攻击力当然还有一些逃生用的装备，配合移动机库可以随时换装弥补技能点不足的短板。
