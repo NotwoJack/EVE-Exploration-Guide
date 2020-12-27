@@ -238,23 +238,23 @@ The equipment here is about the exploration. The most important factors which af
 
 ## 5.1 Ships
 
-|Name    |Bonus \(about the exploration)|
-|--------|------------------------------|
-|Heron   |T1 Frigate                    |
-|        |7.5% bonus to Core and Combat Scanner Probe strength \(per skill level)<br>5+ bonus to Relic and Data Analyzer virus strength|
-|0.4m ISK|Advantage: Heron has 5 midslots, so it could be fitted with an extra Scan Rangefinding Array. It is also very cheap.|
-|        |                              |
-|Astero  |SOE Frigate                   |
-|        |37.5% bonus to Core and Combat Scanner Probe strength<br>10+ bonus to Relic and Data Analyzer virus strength                 |
-|60m ISK |Advantage: Low skill requirement and could be fitted with Covert Ops Cloaking Device II. With the armor plate, it can not only explore but also do a little bit of PVP. It’s almost the best choice for the exploration.<br>Disadvantage: Higher price and 50 Calibration less than Heron.|
-|        |                              |
-|Stratios|SOE Cruiser                   |
-|        |37.5% bonus to Core and Combat Scanner Probe strength<br>10+ bonus to Relic and Data Analyzer virus strength                 |
-|190m ISK|Advantage: With an armor plate, it could tank the ghost sites, the Mine Room, and the first two waves in The Archive without any extra explosion resistance equipment. It could also run the escalations in Highsec.<br>Disadvantage: High price for the whole fit and lower agility compared with Astero.|
-|        |                              |
-|Tengu   |Caldari T3 Cruiser            |
-|        |10% bonus to Core and Combat Scanner Probe strength \(per skill level)<br>10+ bonus to Relic and Data Analyzer virus strength|
-|300m ISK|Advantage: It would not be influenced by the bubbles with the Interdiction Nullifier subsystem. It could also tank the ghost sites, the Mine Room, and The Archive. Scanning and running the escalations is possible too with a proper refit.<br>Disadvantage: High price for the whole fit and lower agility compared with Astero.|
+|Name                                                                     |Bonus \(about the exploration)|
+|-------------------------------------------------------------------------|------------------------------|
+|Heron                                                                    |T1 Frigate                    |
+|![logo](https://images.evetech.net/types/605/icon ':size=WIDTHxHEIGHT')  |7.5% bonus to Core and Combat Scanner Probe strength \(per skill level)<br>5+ bonus to Relic and Data Analyzer virus strength|
+|0.4m ISK                                                                 |Advantage: Heron has 5 midslots, so it could be fitted with an extra Scan Rangefinding Array. It is also very cheap.|
+|                                                                         |                              |
+|Astero                                                                   |SOE Frigate                   |
+|![logo](https://images.evetech.net/types/33468/icon ':size=WIDTHxHEIGHT')|37.5% bonus to Core and Combat Scanner Probe strength<br>10+ bonus to Relic and Data Analyzer virus strength                 |
+|60m ISK                                                                  |Advantage: Low skill requirement and could be fitted with Covert Ops Cloaking Device II. With the armor plate, it can not only explore but also do a little bit of PVP. It’s almost the best choice for the exploration.<br>Disadvantage: Higher price and 50 Calibration less than Heron.|
+|                                                                         |                              |
+|Stratios                                                                 |SOE Cruiser                   |
+|![logo](https://images.evetech.net/types/33470/icon ':size=WIDTHxHEIGHT')|37.5% bonus to Core and Combat Scanner Probe strength<br>10+ bonus to Relic and Data Analyzer virus strength                 |
+|190m ISK                                                                 |Advantage: With an armor plate, it could tank the ghost sites, the Mine Room, and the first two waves in The Archive without any extra explosion resistance equipment. It could also run the escalations in Highsec.<br>Disadvantage: High price for the whole fit and lower agility compared with Astero.|
+|                                                                         |                              |
+|Tengu                                                                    |Caldari T3 Cruiser            |
+|![logo](https://images.evetech.net/types/29984/icon ':size=WIDTHxHEIGHT')|10% bonus to Core and Combat Scanner Probe strength \(per skill level)<br>10+ bonus to Relic and Data Analyzer virus strength|
+|300m ISK                                                                 |Advantage: It would not be influenced by the bubbles with the Interdiction Nullifier subsystem. It could also tank the ghost sites, the Mine Room, and The Archive. Scanning and running the escalations is possible too with a proper refit.<br>Disadvantage: High price for the whole fit and lower agility compared with Astero.|
 
 ## 5.2	高槽 High Slot
 新人推荐 姐妹会的探针+普通发射器，便宜实用。
