@@ -232,7 +232,7 @@ X = 有可能出现的位置<br>
 | 隐身装置                       	|          	| 解除隐形有5秒锁定延迟，随技能逐渐减少，隐形后在你2000米范围内有物体会显形 	|
 | Prototype cloaking device I    	| 1.5m     	| 最大速度-90%                                                              	|
 | Improved cloaking device II    	| 3.5m     	| 最大速度-75%                                                              	|
-| Convert Ops cloaking Device II 	| 5.7m     	| 不影响速度，可以隐身跃迁                                                  	|
+| Covert Ops cloaking Device II 	| 5.7m     	| 不影响速度，可以隐身跃迁                                                  	|
 ## 5.3	中槽 Medium Slot
 挖坟四件套，数据分析，遗迹分析，微型跃迁推进器，货柜扫描。
 如果还有一个位置可以考虑上扫描测距阵列。

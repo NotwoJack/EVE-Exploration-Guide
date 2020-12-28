@@ -181,7 +181,7 @@ Or compare the description of the wormhole with the following tables for basic i
 
 ### 4.3.2 Drone Regions
 
-The Drone Regions are on the top right of the Map [Map in Appendix](对应链接) and consist of the following 8 regions:<br>
+The Drone Regions are on the top right of the Map \([Map in Appendix](对应链接)) and consist of the following 8 regions:<br>
 Cobalt Edge<br>
 Etherium Reach<br>
 Malpais<br>
@@ -217,20 +217,20 @@ Using this rule could decently increase hacking efficiency. The midpoints of the
 
 **Nodes**
 
-|Name                   |Icon                                                                       |Function|
-|-----------------------|---------------------------------------------------------------------------|--------|
-|Data Cache             |![logo](https://wiki.eveuniversity.org/images/0/02/Data_cache2.png)        |A node with hidden content. Both kinds of Subsystems could appear. Do not click anyone until there are no other choices.|
-|**Utility Subsystem**  |                                                                           |        |
-|Self Repair            |![logo](https://wiki.eveuniversity.org/images/4/46/Self_repair2.png)       |Restore 4 - 10 Coherence per action, lasts 3 actions. Coherence has no limit, so it shall be used ASAP.|
-|Kernel Rot             |![logo](https://wiki.eveuniversity.org/images/f/fe/Kernel_rot2.png)        |Halve the Coherence of the target.|
-|Polymorphic Shield     |![logo](https://wiki.eveuniversity.org/images/d/d8/Polymorphic_shield.png) |Prevent twice the damage. If you disable the subsystem first, the effect will be kept.|
-|Secondary Vector       |![logo](https://wiki.eveuniversity.org/images/1/1d/Secondary_vector2.png)  |Reduce 20 Coherence of the target per action, lasts 3 actions. It is not counted as an attack, and could reduce the Coherence while clicking other nodes. To use it, click first the Secondary Vector, then click the target Defensive Subsystem and at the end click somewhere else twice.|
-|**Defensive Subsystem**|                                                                           |        |
-|Firewall               |![logo](https://wiki.eveuniversity.org/images/a/a5/Firewall_node.png)      |Normal Defensive Subsystem.|
-|Antivirus              |![logo](https://wiki.eveuniversity.org/images/9/94/Antivirus_node.png)     |Defensive Subsystem with high Attack. Shall be disabled by using the Polymorphic Shield at the same time.|
-|Restoration Node       |![logo](https://wiki.eveuniversity.org/images/3/3d/Restorer_node.png)      |Restore 20 Coherence on random Defensive Subsystem per action \(including picking up a Utility Subsystem). It will not restore itself and the System Core. Once it has appeared, disable it ASAP.|
-|Virus Suppressor       |![logo](https://wiki.eveuniversity.org/images/5/52/Supressor_node.png)     |Decrease 15 Attack, could be added by multiple Virus Suppressors until only 10 Attack left. If there are only 25 Attack and 70 Coherence at the beginning, disabling it could be very hard, so keep well the Secondary Vector and Kernel Rot.|
-|System Core            |![logo](https://wiki.eveuniversity.org/images/1/1c/Core_node_hard_red.png) |The target. The color of it shows the difficulty of the hacking minigame.<br>The difficulty affects the Attack and Coherence of some Defensive Subsystems.<br>Green: Very Easy/Easy  Orange: Medium  Red: Hard|
+|Name                   |Icon                                                                                            |Function|
+|-----------------------|------------------------------------------------------------------------------------------------|--------|
+|Data Cache             |![logo](https://wiki.eveuniversity.org/images/0/02/Data_cache2.png ':size=WIDTHxHEIGHT')        |A node with hidden content. Both kinds of Subsystems could appear. Do not click anyone until there are no other choices.|
+|**Utility Subsystem**  |                                                                                                |        |
+|Self Repair            |![logo](https://wiki.eveuniversity.org/images/4/46/Self_repair2.png ':size=WIDTHxHEIGHT')       |Restore 4 - 10 Coherence per action, lasts 3 actions. Coherence has no limit, so it shall be used ASAP.|
+|Kernel Rot             |![logo](https://wiki.eveuniversity.org/images/f/fe/Kernel_rot2.png ':size=WIDTHxHEIGHT')        |Halve the Coherence of the target.|
+|Polymorphic Shield     |![logo](https://wiki.eveuniversity.org/images/d/d8/Polymorphic_shield.png ':size=WIDTHxHEIGHT') |Prevent twice the damage. If you disable the subsystem first, the effect will be kept.|
+|Secondary Vector       |![logo](https://wiki.eveuniversity.org/images/1/1d/Secondary_vector2.png ':size=WIDTHxHEIGHT')  |Reduce 20 Coherence of the target per action, lasts 3 actions. It is not counted as an attack, and could reduce the Coherence while clicking other nodes. To use it, click first the Secondary Vector, then click the target Defensive Subsystem and at the end click somewhere else twice.|
+|**Defensive Subsystem**|                                                                                                |        |
+|Firewall               |![logo](https://wiki.eveuniversity.org/images/a/a5/Firewall_node.png ':size=WIDTHxHEIGHT')      |Normal Defensive Subsystem.|
+|Antivirus              |![logo](https://wiki.eveuniversity.org/images/9/94/Antivirus_node.png ':size=WIDTHxHEIGHT')     |Defensive Subsystem with high Attack. Shall be disabled by using the Polymorphic Shield at the same time.|
+|Restoration Node       |![logo](https://wiki.eveuniversity.org/images/3/3d/Restorer_node.png ':size=WIDTHxHEIGHT')      |Restore 20 Coherence on random Defensive Subsystem per action \(including picking up a Utility Subsystem). It will not restore itself and the System Core. Once it has appeared, disable it ASAP.|
+|Virus Suppressor       |![logo](https://wiki.eveuniversity.org/images/5/52/Supressor_node.png ':size=WIDTHxHEIGHT')     |Decrease 15 Attack, could be added by multiple Virus Suppressors until only 10 Attack left. If there are only 25 Attack and 70 Coherence at the beginning, disabling it could be very hard, so keep well the Secondary Vector and Kernel Rot.|
+|System Core            |![logo](https://wiki.eveuniversity.org/images/1/1c/Core_node_hard_red.png ':size=WIDTHxHEIGHT') |The target. The color of it shows the difficulty of the hacking minigame.<br>The difficulty affects the Attack and Coherence of some Defensive Subsystems.<br>Green: Very Easy/Easy  Orange: Medium  Red: Hard|
 
 # 5 Equipment
 
@@ -256,26 +256,27 @@ The equipment here is about the exploration. The most important factors which af
 |![logo](https://images.evetech.net/types/29984/icon ':size=WIDTHxHEIGHT')|10% bonus to Core and Combat Scanner Probe strength \(per skill level)<br>10+ bonus to Relic and Data Analyzer virus strength|
 |300m ISK                                                                 |Advantage: It would not be influenced by the bubbles with the Interdiction Nullifier subsystem. It could also tank the ghost sites, the Mine Room, and The Archive. Scanning and running the escalations is possible too with a proper refit.<br>Disadvantage: High price for the whole fit and lower agility compared with Astero.|
 
-## 5.2	高槽 High Slot
-新人推荐 姐妹会的探针+普通发射器，便宜实用。
-如果点了隐形推荐上T2的，开小白一定要上隐秘行动
+## 5.2 High Power Slot
 
-| 名称                           	| 市价 isk 	| 加成                                                                      	|
-|--------------------------------	|----------	|---------------------------------------------------------------------------	|
-| 探针发射器                     	|          	| 发射探针  （注: 延伸探针发射器也可发射核心针，且强度一样）                	|
-| Core probe launcher I          	| <0.1m    	| 无                                                                        	|
-| Core probe launcher II         	| 3m       	| +5% 探针强度                                                              	|
-| Sister probe launcher          	| 31m      	| +10% 探针强度                                                             	|
-|                                	|          	|                                                                           	|
-| 扫描探针                       	| X16      	| 买16根才能自动装填，洞里掉线也不用怕没针                                  	|
-| Core scanner probe I           	| <0.1m    	| 40探针强度                                                                	|
-| Sister core scanner probe      	| 5.6m     	| 44探针强度                                                                	|
-| RSS core scanner probe         	| 384m     	| 45探针强度                                                                	|
-|                                	|          	|                                                                           	|
-| 隐身装置                       	|          	| 解除隐形有5秒锁定延迟，随技能逐渐减少，隐形后在你2000米范围内有物体会显形 	|
-| Prototype cloaking device I    	| 1.5m     	| 最大速度-90%                                                              	|
-| Improved cloaking device II    	| 3.5m     	| 最大速度-75%                                                              	|
-| Convert Ops cloaking Device II 	| 5.7m     	| 不影响速度，可以隐身跃迁                                                  	|
+Recommended for newbies: SOE probes+T1 Core Probe Launcher, cheap but effective. For cloaking, a T2 cloaking device is recommended. An Astero should always be fitted with the Covert Ops cloaking Device II.
+
+|Name                         |Price in ISK|Bonus|
+|-----------------------------|------------|-----|
+|Core Probe Launcher          |            |Can launch core probes.<br>PS: Extended launchers can also launch the core probes with the same strength.|
+|Core Probe Launcher I        |< 0.1m      |None|
+|Core Probe Launcher II       |3m          |5% bonus to strength of scan probes.|
+|Sisters Core Probe Launcher  |31m         |10% bonus to strength of scan probes.|
+|                             |            |     |
+|Core Scanner Probe           |x16         |Another 8 probes in Cargo Hold for auto-reload. And if you disconnect in WH accidentally, there are always still 8 probes with you.|
+|Core Scanner Probe I         |< 0.1m      |40 Base Sensor Strength|
+|Sisters Core Scanner Probe   |5.6m        |44 Base Sensor Strength|
+|RSS Core Scanner Probe       |384m        |45 Base Sensor Strength|
+|                             |            |     |
+|Cloaking Device              |            |After decloaking, it is unable to lock any target for a while. This Recalibration Time could be decreased with higher skill levels. Anything in the 2000m range would cause decloaking.|
+|Prototype Cloaking Device I  |1.5m        |Maximum velocity -90%|
+|Improved Cloaking Device II  |3.5m        |Maximum velocity -75%|
+|Covert Ops Cloaking Device II|5.7m        |Maximum velocity not affected and the ship could warp while cloaked.|
+
 ## 5.3	中槽 Medium Slot
 挖坟四件套，数据分析，遗迹分析，微型跃迁推进器，货柜扫描。
 如果还有一个位置可以考虑上扫描测距阵列。
