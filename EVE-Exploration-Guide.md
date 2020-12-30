@@ -244,22 +244,22 @@ X = 有可能出现的位置<br>
 |                                 	|          	|                                                  	|
 | 货柜扫描                        	|          	| 可选，提高挖坟效率 推荐                          	|
 | Type-E enduring cargo scanner   	| <0.1m    	| 范围55km,激活时间3.5s                            	|
-| Cargo Scanner II                	| 1.1      	| 范围70km,激活时间3s                              	|
+| Cargo Scanner II                	| 1.1m      	| 范围70km,激活时间3s                              	|
 |                                 	|          	|                                                  	|
 | 数据分析仪                      	|          	| 最优先上T2，需要hacking技能满级                  	|
 | Data analyzer I                 	| <0.1m    	| 40血，20攻                                       	|
-| Data analyze II                 	| 1.7m     	| 60血，30攻                                       	|
+| Data analyzer II                 	| 1.7m     	| 60血，30攻                                       	|
 |                                 	|          	|                                                  	|
 | 遗迹分析仪                      	|          	| 先上数据T2再上遗迹的                             	|
 | Relic analyzer I                	| <0.1m    	| 40血，20攻                                       	|
-| Relic analyze II                	| 2.3m     	| 60血，30攻                                       	|
+| Relic analyzer II                	| 2.3m     	| 60血，30攻                                       	|
 |                                 	|          	|                                                  	|
 | 2合1分析仪                      	|          	| 吃技能双加成，所以血量比T2更多，省下一个中槽位置 	|
 | Ligature integrated analyzer    	| 90m      	| 绷带20血，20攻                                   	|
 | Zeugma integrated analyzer      	| 170m     	| 轭式30血，30攻                                   	|
 |                                 	|          	|                                                  	|
 | 扫描测距阵列                    	|          	| 身上可以带几个，发现强度不够时可以换装扫描       	|
-| Scan rangefinding array         	| <0.1m    	| 探针强度+5%                                      	|
+| Scan rangefinding array I        	| <0.1m    	| 探针强度+5%                                      	|
 ## 5.4	低槽 Low Slot
 对于新人推荐机动性能，双皮球一纳米能在4秒内跳走。
 有空位，可以再加一个信号放大器，扩大扫描范围，配合货柜扫描，增加挖坟效率。

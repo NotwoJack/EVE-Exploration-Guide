@@ -277,33 +277,35 @@ Recommended for newbies: SOE probes+T1 Core Probe Launcher, cheap but effective.
 |Improved Cloaking Device II  |3.5m        |Maximum velocity -75%|
 |Covert Ops Cloaking Device II|5.7m        |Maximum velocity not affected and the ship could warp while cloaked.|
 
-## 5.3	中槽 Medium Slot
-挖坟四件套，数据分析，遗迹分析，微型跃迁推进器，货柜扫描。
-如果还有一个位置可以考虑上扫描测距阵列。
+## 5.3 Medium Power Slot
 
-| 名称                            	| 市价 isk 	| 加成                                             	|
-|---------------------------------	|----------	|--------------------------------------------------	|
-| 推子/微曲                       	|          	| 开了推子以后信号范围会变大，受到的伤害也会变高   	|
-| 5MN Y-T8 compact microwarpdrive 	| 0.5m     	| 速度+505%                                        	|
-|                                 	|          	|                                                  	|
-| 货柜扫描                        	|          	| 可选，提高挖坟效率 推荐                          	|
-| Type-E enduring cargo scanner   	| <0.1m    	| 范围55km,激活时间3.5s                            	|
-| Cargo Scanner II                	| 1.1      	| 范围70km,激活时间3s                              	|
-|                                 	|          	|                                                  	|
-| 数据分析仪                      	|          	| 最优先上T2，需要hacking技能满级                  	|
-| Data analyzer I                 	| <0.1m    	| 40血，20攻                                       	|
-| Data analyze II                 	| 1.7m     	| 60血，30攻                                       	|
-|                                 	|          	|                                                  	|
-| 遗迹分析仪                      	|          	| 先上数据T2再上遗迹的                             	|
-| Relic analyzer I                	| <0.1m    	| 40血，20攻                                       	|
-| Relic analyze II                	| 2.3m     	| 60血，30攻                                       	|
-|                                 	|          	|                                                  	|
-| 2合1分析仪                      	|          	| 吃技能双加成，所以血量比T2更多，省下一个中槽位置 	|
-| Ligature integrated analyzer    	| 90m      	| 绷带20血，20攻                                   	|
-| Zeugma integrated analyzer      	| 170m     	| 轭式30血，30攻                                   	|
-|                                 	|          	|                                                  	|
-| 扫描测距阵列                    	|          	| 身上可以带几个，发现强度不够时可以换装扫描       	|
-| Scan rangefinding array         	| <0.1m    	| 探针强度+5%                                      	|
+The loadout for the exploration: Data Analyzer, Relic Analyzer, Cargo Scanner, and MWD
+If there is still a midslot left, a Scan Rangefinding Array is an option.
+
+|Name                           |Price in ISK|Bonus|
+|-------------------------------|------------|-----|
+|MWD                            |            |When MWD is on, the Signature Radius is increased and you would receive higher damage.|
+|5MN Y-T8 Compact Microwarpdrive|0.5m        |Maximum Speed +505%|
+|                               |            |     |
+|Cargo Scanner                  |            |Optional, could increase the efficiency \(suggested)|
+|Type-E Enduring Cargo Scanner  |< 0.1m      |55km range, 3.5s activation time|
+|Cargo Scanner II               |1.1m        |70km range, 3s activation time|
+|                               |            |     |
+|Data Analyzer                  |            |T2 Data Analyzer has the highest priority \(needs Hacking V).|
+|Data Analyzer I                |< 0.1m      |40 Coherence, 20 Strength|
+|Data Analyze II                |1.7m        |60 Coherence, 30 Strength|
+|                               |            |     |
+|Relic Analyzer                 |            |First T2 Data Analyzer, then T2 Relic|
+|Relic Analyzer I               |< 0.1m      |40 Coherence, 20 Strength|
+|Relic Analyzer II              |2.3m        |60 Coherence, 30 Strength|
+|                               |            |     |
+|Integrated Analyzer            |            |Integrated Analyzers get bonus from both Archaeology and Hacking, so it would actually have more Coherence than T2 analyzers. And it can spare a midslot.|
+|Ligature Integrated Analyzer   |90m         |20 Coherence, 20 Strength|
+|Zeugma Integrated Analyzer     |170m        |30 Coherence, 30 Strength|
+|                               |            |     |
+|Scan Rangefinding Array        |            |A few of them could be taken with in the cargo. Just refit if higher Scan Strength is needed.|
+|Scan Rangefinding Array I      |< 0.1m      |Scan Strength +5%|
+
 ## 5.4	低槽 Low Slot
 对于新人推荐机动性能，双皮球一纳米能在4秒内跳走。
 有空位，可以再加一个信号放大器，扩大扫描范围，配合货柜扫描，增加挖坟效率。
