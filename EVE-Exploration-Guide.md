@@ -275,18 +275,18 @@ X = 有可能出现的位置<br>
 | 惯性稳定器                                	|          	| 信号半径越大，被击中的概率也越大，也越容易被扫描到，减少朝向时间（即起跳时间） 	|
 | Inertial stabilizers I                    	| <0.1m    	| 起跳时间-16.75% 信号半径+10%                                                   	|
 | Inertial stabilizers II                   	| 0.7m     	| 起跳时间-20% 信号半径+11%                                                      	|
-| Type-D restrained Inertial stabilizers II 	| <0.1m    	| 起跳时间-18.5% 信号半径+8%                                                     	|
+| Type-D restrained Inertial stabilizers 	 	| <0.1m    	| 起跳时间-18.5% 信号半径+8%                                                     	|
 |                                           	|          	|                                                                                	|
 | 跃迁核心稳定器                            	|          	| 不能免疫泡泡，极大减少锁定范围                                                 	|
-| Warp core compensation                    	| <0.1m    	| 跃迁干扰强度-1 扫描范围-50%                                                    	|
+| Warp Core Stabilizer I                    	| <0.1m    	| 跃迁干扰强度-1 扫描范围-50%                                                    	|
 |                                           	|          	|                                                                                	|
 | 信号放大器                                	|          	| 增加锁定距离以及锁定速度                                                       	|
 | F-90 compact sensor booster               	| <0.1m    	| 扩大27.5%锁定范围  加快27.5%锁定速度                                           	|
 |                                           	|          	|                                                                                	|
 | 装甲爆炸增强器                            	|          	| 幽灵坟以及超冬雷区必备                                                         	|
-| Armor Explosive Hardener II               	| 2m       	|     +55% 装甲爆炸抗性，需要装甲技能V                                          	|
-| Dark Blood Armor Explosive Hardener       	| 3m       	|     +55% 装甲爆炸抗性                                                          	|
-| Corpus X-Type Armor Explosive Hardener    	| 80m      	|     +64% 装甲爆炸抗性                                                          	|
+| Explosive Armor Hardener II               	| 2m       	|     +44% 装甲爆炸抗性，需要装甲技能V                                          	|
+| Dark Blood Explosive Armor Hardener       	| 3m       	|     +44% 装甲爆炸抗性                                                          	|
+| Corpus X-Type Explosive Armor Hardener    	| 80m      	|     +50.3% 装甲爆炸抗性                                                          	|
 
 ## 5.5	船插 Rigs
 新人扫描强度不够，一定要上2个T1电容器，后期可以考虑换下来上信号集中设备或是喷嘴。

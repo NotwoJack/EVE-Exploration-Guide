@@ -254,7 +254,7 @@ The equipment here is about the exploration. The most important factors which af
 |                                                                         |                              |
 |Tengu                                                                    |Caldari T3 Cruiser            |
 |![logo](https://images.evetech.net/types/29984/icon ':size=WIDTHxHEIGHT')|10% bonus to Core and Combat Scanner Probe strength \(per skill level)<br>10+ bonus to Relic and Data Analyzer virus strength|
-|300m ISK                                                                 |Advantage: It would not be influenced by the bubbles with the Interdiction Nullifier subsystem. It could also tank the ghost sites, the Mine Room, and The Archive. Scanning and running the escalations is possible too with a proper refit.<br>Disadvantage: High price for the whole fit and lower agility compared with Astero.|
+|300m ISK                                                                 |Advantage: It would not be influenced by the bubbles with the Interdiction Nullifier subsystem. It could also tank the ghost sites, the Mine Room, and The Archive. With a proper refit, scanning and running the escalations is possible too.<br>Disadvantage: High price for the whole fit and lower agility compared with Astero.|
 
 ## 5.2 High Power Slot
 
@@ -273,9 +273,9 @@ Recommended for newbies: SOE probes+T1 Core Probe Launcher, cheap but effective.
 |RSS Core Scanner Probe       |384m        |45 Base Sensor Strength|
 |                             |            |     |
 |Cloaking Device              |            |After decloaking, it is unable to lock any target for a while. This Recalibration Time could be decreased with higher skill levels. Anything in the 2000m range would cause decloaking.|
-|Prototype Cloaking Device I  |1.5m        |Maximum velocity -90%|
-|Improved Cloaking Device II  |3.5m        |Maximum velocity -75%|
-|Covert Ops Cloaking Device II|5.7m        |Maximum velocity not affected and the ship could warp while cloaked.|
+|Prototype Cloaking Device I  |1.5m        |Max Velocity -90% while cloaked.|
+|Improved Cloaking Device II  |3.5m        |Max Velocity -75% while cloaked.|
+|Covert Ops Cloaking Device II|5.7m        |Max Velocity not affected and the ship could warp while cloaked.|
 
 ## 5.3 Medium Power Slot
 
@@ -285,7 +285,7 @@ If there is still a midslot left, a Scan Rangefinding Array is an option.
 |Name                           |Price in ISK|Bonus|
 |-------------------------------|------------|-----|
 |MWD                            |            |When MWD is on, the Signature Radius is increased and you would receive higher damage.|
-|5MN Y-T8 Compact Microwarpdrive|0.5m        |Maximum Speed +505%|
+|5MN Y-T8 Compact Microwarpdrive|0.5m        |Max Velocity +505%|
 |                               |            |     |
 |Cargo Scanner                  |            |Optional, could increase the efficiency \(suggested)|
 |Type-E Enduring Cargo Scanner  |< 0.1m      |55km range, 3.5s activation time|
@@ -306,33 +306,32 @@ If there is still a midslot left, a Scan Rangefinding Array is an option.
 |Scan Rangefinding Array        |            |A few of them could be taken with in the cargo. Just refit if higher Scan Strength is needed.|
 |Scan Rangefinding Array I      |< 0.1m      |Scan Strength +5%|
 
-## 5.4	低槽 Low Slot
-对于新人推荐机动性能，双皮球一纳米能在4秒内跳走。
-有空位，可以再加一个信号放大器，扩大扫描范围，配合货柜扫描，增加挖坟效率。
-跑路或是回家时可以换上核心稳定器。
+## 5.4 Low Power Slot
 
-| 名称                                      	| 市价 isk 	| 加成                                                                           	|
-|-------------------------------------------	|----------	|--------------------------------------------------------------------------------	|
-| 纳米纤维内部构架                          	|          	| 增加船只速度  减少朝向时间（即起跳时间）                                       	|
-| Nanofiber internal structure I            	| <0.1m    	| 速度+7.75% 起跳时间-13%                                                        	|
-| Nanofiber internal structure II           	| 3m       	| 速度+9.5% 起跳时间-15.75%                                                      	|
-| Type-D restrained nanofiber structure     	| <0.1m    	| 速度+8.5% 起跳时间-14.5%                                                       	|
-|                                           	|          	|                                                                                	|
-| 惯性稳定器                                	|          	| 信号半径越大，被击中的概率也越大，也越容易被扫描到，减少朝向时间（即起跳时间） 	|
-| Inertial stabilizers I                    	| <0.1m    	| 起跳时间-16.75% 信号半径+10%                                                   	|
-| Inertial stabilizers II                   	| 0.7m     	| 起跳时间-20% 信号半径+11%                                                      	|
-| Type-D restrained Inertial stabilizers II 	| <0.1m    	| 起跳时间-18.5% 信号半径+8%                                                     	|
-|                                           	|          	|                                                                                	|
-| 跃迁核心稳定器                            	|          	| 不能免疫泡泡，极大减少锁定范围                                                 	|
-| Warp core compensation                    	| <0.1m    	| 跃迁干扰强度-1 扫描范围-50%                                                    	|
-|                                           	|          	|                                                                                	|
-| 信号放大器                                	|          	| 增加锁定距离以及锁定速度                                                       	|
-| F-90 compact sensor booster               	| <0.1m    	| 扩大27.5%锁定范围  加快27.5%锁定速度                                           	|
-|                                           	|          	|                                                                                	|
-| 装甲爆炸增强器                            	|          	| 幽灵坟以及超冬雷区必备                                                         	|
-| Armor Explosive Hardener II               	| 2m       	|     +55% 装甲爆炸抗性，需要装甲技能V                                          	|
-| Dark Blood Armor Explosive Hardener       	| 3m       	|     +55% 装甲爆炸抗性                                                          	|
-| Corpus X-Type Armor Explosive Hardener    	| 80m      	|     +64% 装甲爆炸抗性                                                          	|
+For newbies, higher agility is suggested. With two Inertial Stabilizers and one Nanofiber Internal Structure, the align time could be reduced to less than 4s. If there is still a lowslot left, a Sensor Booster is a good option for a further targeting range, which could increase the efficiency. The Warp Core Stabilizers could be refitted for travel.
+
+|Name                                  |Price in ISK|Bonus|
+|--------------------------------------|------------|-----|
+|Nanofiber Internal Structure          |            |Increase the Max Velocity and decrease the Align Time.|
+|Nanofiber Internal Structure I        |< 0.1m      |Velocity Modifier +7.75% Inertia Modifier -13%|
+|Nanofiber Internal Structure II       |3m          |Velocity Modifier +9.5% Inertia Modifier -15.75%|
+|Type-D Restrained Nanofiber Structure |< 0.1m      |Velocity Modifier +8.5% Inertia Modifier -14.5%|
+|                                      |            |     |
+|Inertial Stabilizers                  |            |Decrease the Align Time. The larger the Signature Radius is, the easier the ship would get hit and be scanned.|
+|Inertial Stabilizers I                |< 0.1m      |Inertia Modifier -16.75% Signature Radius +10%|
+|Inertial Stabilizers II               |0.7m        |Inertia Modifier -20% Signature Radius +11%|
+|Type-D Restrained Inertial Stabilizers|< 0.1m      |Inertia Modifier -18.5% Signature Radius +8%|
+|                                      |            |     |
+|Warp Core Stabilizer                  |            |Decrease the Maximum Targeting Range \(not immune to the bubbles).|
+|Warp Core Stabilizer I                |< 0.1m      |Warp Scramble Strength -1 Max Tgt. Range -50%|
+|                                      |            |     |
+|Sensor Booster                        |            |Increase the Scan Resolution and the Max Tgt. Range.|
+|F-90 Compact Sensor Booster           |< 0.1m      |Max Tgt. Range +27.5% Scan Resolution +27.5%|
+|                                      |            |     |
+|Explosive Armor Hardener              |            |Needed for the Mine Room in the Superior Sleeper Cache and the Ghost Sites|
+|Explosive Armor Hardener II           |2m          |Armor EXP Resistance +44% \(Hull Upgrades V needed)|
+|Dark Blood Explosive Armor Hardener   |3m          |Armor EXP Resistance +44%|
+|Corpus X-Type Explosive Armor Hardener|80m         |Armor EXP Resistance +50.3%|
 
 ## 5.5	船插 Rigs
 新人扫描强度不够，一定要上2个T1电容器，后期可以考虑换下来上信号集中设备或是喷嘴。
