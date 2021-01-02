@@ -322,7 +322,7 @@ For newbies, higher agility is suggested. With two Inertial Stabilizers and one 
 |Inertial Stabilizers II               |0.7m        |Inertia Modifier -20% Signature Radius +11%|
 |Type-D Restrained Inertial Stabilizers|< 0.1m      |Inertia Modifier -18.5% Signature Radius +8%|
 |                                      |            |     |
-|Warp Core Stabilizer                  |            |Decrease the Maximum Targeting Range \(not immune to the bubbles).|
+|Warp Core Stabilizer                  |            |Decrease the Max Tgt. Range \(not immune to the bubbles).|
 |Warp Core Stabilizer I                |< 0.1m      |Warp Scramble Strength -1 Max Tgt. Range -50%|
 |                                      |            |     |
 |Sensor Booster                        |            |Increase the Scan Resolution and the Max Tgt. Range.|
@@ -333,31 +333,32 @@ For newbies, higher agility is suggested. With two Inertial Stabilizers and one 
 |Dark Blood Explosive Armor Hardener   |3m          |Armor EXP Resistance +44%|
 |Corpus X-Type Explosive Armor Hardener|80m         |Armor EXP Resistance +50.3%|
 
-## 5.5	船插 Rigs
-新人扫描强度不够，一定要上2个T1电容器，后期可以考虑换下来上信号集中设备或是喷嘴。
-<br>T2的船插一般会消耗更多的校准值，在使用之前请先模拟。
+## 5.5 Rigs
 
-| 名称                                     	| 市价 isk 	| 加成                        	|
-|------------------------------------------	|----------	|-----------------------------	|
-| 小型引力电容器升级                       	|          	| 增加扫描强度                	|
-| Small gravity capacitor upgrade I        	| <0.1m    	| 探针强度+10%                	|
-| Small gravity capacitor upgrade II       	| 2.5m     	| 探针强度+15%                	|
-|                                          	|          	|                             	|
-| 小型离子力场投射器                       	|          	| 增加锁定距离                	|
-| Small Ionic field projector I            	| 0.18m    	| 锁定范围+25%                	|
-| Small Ionic field projector II           	| 4.5m     	| 锁定范围+30%                	|
-|                                          	|          	|                             	|
-| 小型信号集中设备                         	|          	| 增加货柜扫描速度            	|
-| Small Signal Focusing Kit I              	| 0.1m     	| 货柜扫描速度+15%            	|
-| Small Signal Focusing Kit II             	| 2.8m     	| 货柜扫描速度+20%            	|
-|                                          	|          	|                             	|
-| 小型低摩擦喷嘴接口                       	|          	| 加快朝向速度 （即起跳时间） 	|
-| Small Low Friction Nozzle Joints I       	| 0.16m    	| 起跳时间-11.7% 装甲量-10%   	|
-| Small Low Friction Nozzle Joints II      	| 4m       	| 起跳时间-14% 装甲量-10%     	|
-|                                          	|          	|                             	|
-| 小型超空间速度调节器                     	|          	| 加快跃迁速度(跑路更快)      	|
-| Small Hyperspatial Velocity Optimizer I  	| 0.25m    	| 跃迁飞行速度+20%            	|
-| Small Hyperspatial Velocity Optimizer II 	| 3.5m     	| 跃迁飞行速度+25%            	|
+Normally, newbies don’t have enough Scan Strength, so two or more T1 Gravity Capacitor Upgrades shall be fitted. After enough skills have been trained, those Gravity Capacitor Upgrades could be changed into Signal Focusing Kit or Low Friction Nozzle Joints or any other rigs (e.g. Hyperspatial Velocity Optimizer).
+<br>T2 Rigs need normally more Calibration, so simulate first before fitting the Rigs.
+
+|Name                                    |Price in ISK|Bonus|
+|----------------------------------------|------------|-----|
+|Small Gravity Capacitor Upgrade         |            |Increase the Scan Strength.|
+|Small Gravity Capacitor Upgrade I       |< 0.1m      |Scan Strength +10%|
+|Small Gravity Capacitor Upgrade II      |2.5m        |Scan Strength +15%|
+|                                        |            |     |
+|Small Ionic Field Projector             |            |Increase the Max Tgt. Range.|
+|Small Ionic Field Projector I           |0.18m       |Max Tgt. Range +25%|
+|Small Ionic Field Projector II          |4.5m        |Max Tgt. Range +30%|
+|                                        |            |     |
+|Small Signal Focusing Kit               |            |Increase the scanners' Scan Speed \(Cargo/Ship/Survey Scanner).|
+|Small Signal Focusing Kit I             |0.1m        |Scan Speed +15%|
+|Small Signal Focusing Kit II            |2.8m        |Scan Speed +20%|
+|                                        |            |     |
+|Small Low Friction Nozzle Joints        |            |Decrease the Align Time.|
+|Small Low Friction Nozzle Joints I      |0.16m       |Inertia Modifier -11.7% armor amount -10%|
+|Small Low Friction Nozzle Joints II     |4m          |Inertia Modifier -14% armor amount -10%|
+|                                        |            |     |
+|Small Hyperspatial Velocity Optimizer   |            |Increase the Warp Speed.|
+|Small Hyperspatial Velocity Optimizer I |0.25m       |Warp Speed +20%|
+|Small Hyperspatial Velocity Optimizer II|3.5m        |Warp Speed +25%|
 
 ## 5.6	脑插 Implants
 | 名称                                                         	| 市价 isk      	| 加成                                            	|
