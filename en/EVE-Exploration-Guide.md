@@ -33,7 +33,7 @@ Communication group (QQ): 226771995
 
 2.	If you didn't train any skills in the category “Scanning”, the suggestion is \(buying one Large Skill Injector, but only if possible) training all 7 skills in this category to III, and also another skill to III——\[Empire Faction] Frigate.
 
-3.	Buy an \[Empire Faction] Frigate (Suggestion: Heron) and fit it with [the recommended fit——Heron, Newbie exploration](Heron配置链接). Now you should have 75+ probe strength and you can begin exploring!
+3.	Buy an \[Empire Faction] Frigate (Suggestion: Heron) and fit it with [the recommended fit——Heron, Newbie exploration](Heron配置链接). Now you should have 75+ probe strength and you can begin exploring.
 
 **Terminal stage**
     
@@ -201,7 +201,7 @@ In the Drone Regions, there are no Relic Sites and all Ghost Sites appear as Lev
 
 The image above is from a hacking minigame. Coherence is your HP and Strength is your Attack. Based on the fit [Heron, Newbie exploration](对应链接) from the chapter 3 Quick Guide, there should be 70 Coherence and 25 Strength. Except those most difficult hacking minigames with red System Core, the other minigames should be relatively easy now.
 
-Every node will display a number from 1-5 when you click it. This number means the distance to the nearest safe node \(a Utility Subsystem, Data Cache, or System Core). When the distance is above 5 the node will still display 5. If a node in a corner displays 5 then you shall change the direction, because there are no useful nodes nearby. When your Strength is low, the route along the edge is suggested. Though a comparatively longer time is needed for hacking in this case, but you could find another way easily and won’t be stuck somewhere. When your Strength is high, choosing the midpoints of the hexagons on the way is suggested, because the safe nodes could be detected easier.
+Every node will display a number from 1 to 5 when you click it. This number means the distance to the nearest safe node \(a Utility Subsystem, Data Cache, or System Core). When the distance is above 5 the node will still display 5. If a node in a corner displays 5 then you shall change the direction, because there are no useful nodes nearby. When your Strength is low, the route along the edge is suggested. Though a comparatively longer time is needed for hacking in this case, but you could find another way easily and won’t be stuck somewhere. When your Strength is high, choosing the midpoints of the hexagons on the way is suggested, because the safe nodes could be detected easier.
 
 **Hacking strategy:** There is a high possibility that the System Core appears at the opposite angle, so two strategies are recommended. The first one is going straight \(diagonal) to the opposite angle like the red line in the image below. It needs a high Strength and you can use this strategy immediately after you have confirmed the difficulty of the minigame. The second one is going along the edge like the green line. This strategy is suitable for the normal sites without the time limit. If a Defensive Subsystem appears, it is not necessary to disable it immediately, because you could change a direction and continue hacking. This strategy has also another advantage when the System Core is not at the opposite angle but at one of the two angles near the start point. When you get a Self Repair, use it ASAP because there is no limit for Coherence. The other Utility Subsystems shall be kept and used according to the table below.
 
@@ -335,7 +335,7 @@ For newbies, higher agility is suggested. With two Inertial Stabilizers and one 
 
 ## 5.5 Rigs
 
-Normally, newbies don’t have enough Scan Strength, so two or more T1 Gravity Capacitor Upgrades shall be fitted. After enough skills have been trained, those Gravity Capacitor Upgrades could be changed into Signal Focusing Kit or Low Friction Nozzle Joints or any other rigs (e.g. Hyperspatial Velocity Optimizer).
+Normally, newbies don’t have enough Scan Strength, so two or more T1 Gravity Capacitor Upgrades shall be fitted. After enough skills have been trained, those Gravity Capacitor Upgrades could be changed into Signal Focusing Kit or Low Friction Nozzle Joints or any other Rigs (e.g. Hyperspatial Velocity Optimizer).
 <br>T2 Rigs need normally more Calibration, so simulate first before fitting the Rigs.
 
 |Name                                    |Price in ISK|Bonus|
@@ -360,23 +360,25 @@ Normally, newbies don’t have enough Scan Strength, so two or more T1 Gravity C
 |Small Hyperspatial Velocity Optimizer I |0.25m       |Warp Speed +20%|
 |Small Hyperspatial Velocity Optimizer II|3.5m        |Warp Speed +25%|
 
-## 5.6	脑插 Implants
-| 名称                                                         	| 市价 isk      	| 加成                                            	|
-|--------------------------------------------------------------	|---------------	|-------------------------------------------------	|
-| 中低美德一套                                                 	|               	|                                                 	|
-| Low-grade virtue alpha-omega                                 	| 1000m+        	| 探针强度+20.03% 各属性+2                        	|
-| Mid-grade virtue alpha-omega                                 	| 2000m+        	| 探针强度+33.83%  各属性+3                       	|
-| 高统一套                                                     	|               	|                                                 	|
-| High-grade Ascendancy alpha-omega                            	| 2000m + 6000m 	| 跃迁速度+62.17% 各属性+4                        	|
-| Eifyr and Co. 'Rogue' Warp Drive Speed WS-618                	| 600m+         	| 如果觉得高统6号太贵，可以用这个替代，差别非常小 	|
-| 7号技能插                                                    	|               	|                                                 	|
-| Poteque 'Prospector' Astrometric Acquisition AQ-702/706/710  	|               	| 扫描速度+2%/6%/10%                              	|
-| 8号技能插                                                    	|               	| 新人可以戴个802/806                             	|
-| Poteque 'Prospector' Astrometric Rangefinding AR-802/806/810 	|               	| 探针强度+2%/6%/10%                              	|
-| 9号技能插 ‘黑镜’                                             	|               	| 配合轭式双加成，挖坟终极套装，能达到60攻        	|
-| Neural Lace 'Blackglass' Net Intrusion 920-40                	| 75m           	| 数据分析仪 攻+20，血-40  需要控制论V级          	|
-| 10号技能插                                                   	|               	| 配合轭式分析仪能+10血量                         	|
-| Poteque 'Prospector' Environmental Analysis EY-1005          	| 28m           	| 数据和遗迹分析仪血量各+5                        	|
+## 5.6 Implants
+
+|Name                                                        |Price in ISK|Bonus|
+|------------------------------------------------------------|------------|-----|
+|Low/Mid-grade Virtue                                        |            |     |
+|Low-grade Virtue Alpha-Omega                                |1b+         |Scan Strength +20.03% all Attributes +2|
+|Mid-grade Virtue Alpha-Omega                                |2b+         |Scan Strength +33.83% all Attributes +3|
+|High-grade Ascendancy                                       |            |     |
+|High-grade Ascendancy Alpha-Omega                           |2b + 6b     |Warp Speed +62.17% all Attributes +4|
+|Eifyr and Co. 'Rogue' Warp Drive Speed WS-618               |600m+       |If High-grade Ascendancy Omega is too expensive, WS-618 could be used as a replacement. There is only a small difference.|
+|Slot 7                                                      |            |     |
+|Poteque 'Prospector' Astrometric Acquisition AQ-702/706/710 |            |2%/6%/10% reduction in probe scanning time.|
+|Slot 8                                                      |            |AR-802/806 are suggested for the newbies.|
+|Poteque 'Prospector' Astrometric Rangefinding AR-802/806/810|            |Scan Strength +2%/6%/10%|
+|Slot 9 'Blackglass'                                         |            |The end loadout for exploration: Zeugma and Blackglass \(60 Strength could be achieved)|
+|Neural Lace 'Blackglass' Net Intrusion 920-40               |75m         |Data Analyzer +20 Strength -40 Coherence \(Cybernetics V needed)|
+|Slot 10                                                     |            |     |
+|Poteque 'Prospector' Environmental Analysis EY-1005         |28m         |+5 Coherence for Data and Relic Analyzers \(+10 for Zeugma)|
+
 ## 5.7	其他 Others
 
 |     名称              	|     市价 isk    	|     加成                                                                                                     	|

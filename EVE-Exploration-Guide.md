@@ -318,10 +318,10 @@ X = 有可能出现的位置<br>
 | 名称                                                         	| 市价 isk      	| 加成                                            	|
 |--------------------------------------------------------------	|---------------	|-------------------------------------------------	|
 | 中低美德一套                                                 	|               	|                                                 	|
-| Low-grade virtue alpha-omega                                 	| 1000m+        	| 探针强度+20.03% 各属性+2                        	|
-| Mid-grade virtue alpha-omega                                 	| 2000m+        	| 探针强度+33.83%  各属性+3                       	|
+| Low-grade virtue alpha-omega                                 	| 1b+     		   	| 探针强度+20.03% 各属性+2                        	|
+| Mid-grade virtue alpha-omega                                 	| 2b+     		   	| 探针强度+33.83%  各属性+3                       	|
 | 高统一套                                                     	|               	|                                                 	|
-| High-grade Ascendancy alpha-omega                            	| 2000m + 6000m 	| 跃迁速度+62.17% 各属性+4                        	|
+| High-grade Ascendancy alpha-omega                            	| 2b + 6b 			| 跃迁速度+62.17% 各属性+4                        	|
 | Eifyr and Co. 'Rogue' Warp Drive Speed WS-618                	| 600m+         	| 如果觉得高统6号太贵，可以用这个替代，差别非常小 	|
 | 7号技能插                                                    	|               	|                                                 	|
 | Poteque 'Prospector' Astrometric Acquisition AQ-702/706/710  	|               	| 扫描速度+2%/6%/10%                              	|
