@@ -379,32 +379,32 @@ Normally, newbies don’t have enough Scan Strength, so two or more T1 Gravity C
 |Slot 10                                                     |            |     |
 |Poteque 'Prospector' Environmental Analysis EY-1005         |28m         |+5 Coherence for Data and Relic Analyzers \(+10 for Zeugma)|
 
-## 5.7	其他 Others
+## 5.7 Others
 
-|     名称              	|     市价 isk    	|     加成                                                                                                     	|
-|-----------------------	|-----------------	|--------------------------------------------------------------------------------------------------------------	|
-|     移动机库          	|                 	|     极其推荐带上，回家时换上2个核心稳定器两个皮球，不怕抓。遇到危险可以把身上货物放入，保存位置，减少损失    	|
-|     Mobile depot      	|     1.3m        	|     一分钟锚定，提供换装，储存服务，可回收，只能自己使用，48h有效期                                           	|
-|     无人机            	|                 	|                                                                                                              	|
-|     Hornet EC-300     	|     <0.1m       	|     ECM无人机，一定几率使敌方丢失锁定。推荐，被抓可反抗，拼人品                                              	|
+|Name         |Price in ISK|Bonus|
+|-------------|------------|-----|
+|Mobile Depot |            |Highly recommended to take one. On the way back, two Warp Core Stabilizers and two Inertial Stabilizers could be refitted, and tackling you would be hard. When you are in danger, cargo could be stored in the Depot. The loss could be decreased by saving the location and taking back the cargo later.|
+|Mobile Depot |1.3m        |It takes 1min to activate. With an activated Depot, you could refit your ship and store things inside. Only yourself can use it and it could be retrieved. Lifetime: 30 days|
+|Drones       |            |     |
+|Hornet EC-300|< 0.1m      |Light ECM Drones which have the ability to jam. Recommended to take some, and when you are tackled, they could be used for the last attempt \(with some luck).|
 
-## 5.8	技能 Skills
+## 5.8 Skills
 
-|     基础技能                       	|                                                                 	|
-|------------------------------------	|-----------------------------------------------------------------	|
-|     Archaeology                    	|     每级增加10点遗迹分析仪的血量                                	|
-|     Astrometric   Acquisition      	|     每级增加5%扫描速度                                          	|
-|     Astrometric   Pinpointing      	|     每级增加5%扫描精确度                                        	|
-|     Astrometric   Rangefinding     	|     每级增加5%扫描强度                                          	|
-|     Astrometrics                   	|     每级增加5%扫描强度、精确度、速度                            	|
-|     Hacking                        	|     每级增加10点数据分析仪的血量                                	|
-|     Survey                         	|     每级增加5%货柜扫描速度                                      	|
-|     <center>**相关技能**</center>                       	|                                                                 	|
-|     Cybernetics                    	|     IV级解锁+4脑插，V级解锁黑镜和10%强度插                      	|
-|     Spaceship   Command            	|     每级减少2%起跳时间                                          	|
-|     Evasive   Maneuvering          	|     每级减少5%起跳时间                                          	|
-|     Target   Management            	|     每级增加一个锁定目标上限，直到船只上限      小白IV级就够    	|
-|     Long Range   Targeting         	|     每级提升5%锁定距离                                          	|
-|     Amarr Frigate                  	|     每级提升小白 4%的装甲抗性                                   	|
-|     Armor   Layering               	|     每级减少5%钢附甲板对起跳速度的影响                          	|
-|     Armor   Compensation           	|     每级增加5%薄膜的抗性                                        	|
+|Basic skills                       |     |
+|-----------------------------------|-----|
+|Archaeology                        |+10 Coherence of relic analyzers per level|
+|Astrometric Acquisition            |-5% scan probe scan time per level|
+|Astrometric Pinpointing            |-5% maximum scan deviation per level|
+|Astrometric Rangefinding           |+5% scan probe strength per level|
+|Astrometrics                       |+5% scan strength per level<br>-5% max scan deviation per level<br>-5% scan probe scan time per level|
+|Hacking                            |+10 Coherence of data analyzers per level|
+|Survey                             |+5% scan speeds of the ship, cargo, and survey scanners per level|
+|<center>**Related skills**</center>|     |
+|Cybernetics                        |IV unlocks +4 Implants. V unlocks Blackglass and AR-810.|
+|Spaceship Command                  |+2% agility per level|
+|Evasive Maneuvering                |+5% agility per level|
+|Target Management                  |+1 extra target per level, up to the ship's maximum allowed number of targets locked \(IV is enough for Astero).|
+|Long Range Targeting               |+5% Max Tgt. Range per level|
+|Amarr Frigate                      |+4% all armor resistances per level \(for Astero)|
+|Armor Layering                     |-5% armor plate mass penalty per level|
+|\[Damage type] Armor Compensation  |+5% \[Damage type] resistance per level for Armor Coatings and Energized Platings|
