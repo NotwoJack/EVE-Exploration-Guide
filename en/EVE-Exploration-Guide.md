@@ -256,7 +256,7 @@ The equipment here is about the exploration. The most important factors which af
 |![logo](https://images.evetech.net/types/29984/icon ':size=WIDTHxHEIGHT')|10% bonus to Core and Combat Scanner Probe strength \(per skill level)<br>10+ bonus to Relic and Data Analyzer virus strength|
 |300m ISK                                                                 |Advantage: It would not be influenced by the bubbles with the Interdiction Nullifier subsystem. It could also tank the ghost sites, the Mine Room, and The Archive. With a proper refit, scanning and running the escalations is possible too.<br>Disadvantage: High price for the whole fit and lower agility compared with Astero.|
 
-## 5.2 High Power Slot
+## 5.2 High Slot
 
 Recommended for newbies: SOE probes+T1 Core Probe Launcher, cheap but effective. For cloaking, a T2 cloaking device is recommended. An Astero should always be fitted with the Covert Ops cloaking Device II.
 
@@ -277,7 +277,7 @@ Recommended for newbies: SOE probes+T1 Core Probe Launcher, cheap but effective.
 |Improved Cloaking Device II  |3.5m        |Max Velocity -75% while cloaked.|
 |Covert Ops Cloaking Device II|5.7m        |Max Velocity not affected and the ship could warp while cloaked.|
 
-## 5.3 Medium Power Slot
+## 5.3 Medium Slot
 
 The loadout for the exploration: Data Analyzer, Relic Analyzer, Cargo Scanner, and MWD
 If there is still a midslot left, a Scan Rangefinding Array is an option.
@@ -306,7 +306,7 @@ If there is still a midslot left, a Scan Rangefinding Array is an option.
 |Scan Rangefinding Array        |            |A few of them could be taken with in the cargo. Just refit if higher Scan Strength is needed.|
 |Scan Rangefinding Array I      |< 0.1m      |Scan Strength +5%|
 
-## 5.4 Low Power Slot
+## 5.4 Low Slot
 
 For newbies, higher agility is suggested. With two Inertial Stabilizers and one Nanofiber Internal Structure, the align time could be reduced to less than 4s. If there is still a lowslot left, a Sensor Booster is a good option for a further targeting range, which could increase the efficiency. The Warp Core Stabilizers could be refitted for travel.
 
@@ -408,3 +408,31 @@ Normally, newbies don’t have enough Scan Strength, so two or more T1 Gravity C
 |Amarr Frigate                      |+4% all armor resistances per level \(for Astero)|
 |Armor Layering                     |-5% armor plate mass penalty per level|
 |\[Damage type] Armor Compensation  |+5% \[Damage type] resistance per level for Armor Coatings and Energized Platings|
+
+# 6 Survival
+
+## 6.1 Setting
+
+1.	Overview: After joining the channel "南北派专家组", you would see the MOTD. Click "南北派总览" and the Overview would be loaded automatically.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.1-1.png)
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.1-2.png)
+
+\(Left: MOTD Right: Overview)
+
+2.	Set the default orbit distance to 2100m: Click any entity and right-click the orbit icon \(on the Selected Item window). Now you could set default orbit distance. 
+<br>PS: Orbiting at the default orbit distance is only possible by giving the orbit command by the Selected Item window or the Radial Menu, but not by the Context Menu.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.1-3.png)
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.1-4.png)
+
+3. Set the shortcuts: Click top left, open the Settings window, and click the subcategory "Shortcuts". Then set the common used commands and modules to convenient keys \(e.g. Cloaking Device, prop. module, probe scanning and Dscan. One day it may let you survive at a critical moment.)
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.1-5.png)
+
+4.	Set Dscan: Press Alt+D to open the Dscan window and pin it at a good place. Set the Angle to 360°.
+<br>PS: The filter of the Dscan is according to your own overview, but it also could be set individually.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.1-6.png)
+
+## 6.2 Tips & Tricks
