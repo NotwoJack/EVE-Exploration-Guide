@@ -232,7 +232,7 @@ X = 有可能出现的位置<br>
 | 隐身装置                       	|          	| 解除隐形有5秒锁定延迟，随技能逐渐减少，隐形后在你2000米范围内有物体会显形 	|
 | Prototype cloaking device I    	| 1.5m     	| 最大速度-90%                                                              	|
 | Improved cloaking device II    	| 3.5m     	| 最大速度-75%                                                              	|
-| Convert Ops cloaking Device II 	| 5.7m     	| 不影响速度，可以隐身跃迁                                                  	|
+| Covert Ops cloaking Device II 	| 5.7m     	| 不影响速度，可以隐身跃迁                                                  	|
 ## 5.3	中槽 Medium Slot
 挖坟四件套，数据分析，遗迹分析，微型跃迁推进器，货柜扫描。
 如果还有一个位置可以考虑上扫描测距阵列。
@@ -244,22 +244,22 @@ X = 有可能出现的位置<br>
 |                                 	|          	|                                                  	|
 | 货柜扫描                        	|          	| 可选，提高挖坟效率 推荐                          	|
 | Type-E enduring cargo scanner   	| <0.1m    	| 范围55km,激活时间3.5s                            	|
-| Cargo Scanner II                	| 1.1      	| 范围70km,激活时间3s                              	|
+| Cargo Scanner II                	| 1.1m      	| 范围70km,激活时间3s                              	|
 |                                 	|          	|                                                  	|
 | 数据分析仪                      	|          	| 最优先上T2，需要hacking技能满级                  	|
 | Data analyzer I                 	| <0.1m    	| 40血，20攻                                       	|
-| Data analyze II                 	| 1.7m     	| 60血，30攻                                       	|
+| Data analyzer II                 	| 1.7m     	| 60血，30攻                                       	|
 |                                 	|          	|                                                  	|
 | 遗迹分析仪                      	|          	| 先上数据T2再上遗迹的                             	|
 | Relic analyzer I                	| <0.1m    	| 40血，20攻                                       	|
-| Relic analyze II                	| 2.3m     	| 60血，30攻                                       	|
+| Relic analyzer II                	| 2.3m     	| 60血，30攻                                       	|
 |                                 	|          	|                                                  	|
 | 2合1分析仪                      	|          	| 吃技能双加成，所以血量比T2更多，省下一个中槽位置 	|
 | Ligature integrated analyzer    	| 90m      	| 绷带20血，20攻                                   	|
 | Zeugma integrated analyzer      	| 170m     	| 轭式30血，30攻                                   	|
 |                                 	|          	|                                                  	|
 | 扫描测距阵列                    	|          	| 身上可以带几个，发现强度不够时可以换装扫描       	|
-| Scan rangefinding array         	| <0.1m    	| 探针强度+5%                                      	|
+| Scan rangefinding array I        	| <0.1m    	| 探针强度+5%                                      	|
 ## 5.4	低槽 Low Slot
 对于新人推荐机动性能，双皮球一纳米能在4秒内跳走。
 有空位，可以再加一个信号放大器，扩大扫描范围，配合货柜扫描，增加挖坟效率。
@@ -275,18 +275,18 @@ X = 有可能出现的位置<br>
 | 惯性稳定器                                	|          	| 信号半径越大，被击中的概率也越大，也越容易被扫描到，减少朝向时间（即起跳时间） 	|
 | Inertial stabilizers I                    	| <0.1m    	| 起跳时间-16.75% 信号半径+10%                                                   	|
 | Inertial stabilizers II                   	| 0.7m     	| 起跳时间-20% 信号半径+11%                                                      	|
-| Type-D restrained Inertial stabilizers II 	| <0.1m    	| 起跳时间-18.5% 信号半径+8%                                                     	|
+| Type-D restrained Inertial stabilizers 	 	| <0.1m    	| 起跳时间-18.5% 信号半径+8%                                                     	|
 |                                           	|          	|                                                                                	|
 | 跃迁核心稳定器                            	|          	| 不能免疫泡泡，极大减少锁定范围                                                 	|
-| Warp core compensation                    	| <0.1m    	| 跃迁干扰强度-1 扫描范围-50%                                                    	|
+| Warp Core Stabilizer I                    	| <0.1m    	| 跃迁干扰强度-1 扫描范围-50%                                                    	|
 |                                           	|          	|                                                                                	|
 | 信号放大器                                	|          	| 增加锁定距离以及锁定速度                                                       	|
 | F-90 compact sensor booster               	| <0.1m    	| 扩大27.5%锁定范围  加快27.5%锁定速度                                           	|
 |                                           	|          	|                                                                                	|
 | 装甲爆炸增强器                            	|          	| 幽灵坟以及超冬雷区必备                                                         	|
-| Armor Explosive Hardener II               	| 2m       	|     +55% 装甲爆炸抗性，需要装甲技能V                                          	|
-| Dark Blood Armor Explosive Hardener       	| 3m       	|     +55% 装甲爆炸抗性                                                          	|
-| Corpus X-Type Armor Explosive Hardener    	| 80m      	|     +64% 装甲爆炸抗性                                                          	|
+| Explosive Armor Hardener II               	| 2m       	|     +44% 装甲爆炸抗性，需要装甲技能V                                          	|
+| Dark Blood Explosive Armor Hardener       	| 3m       	|     +44% 装甲爆炸抗性                                                          	|
+| Corpus X-Type Explosive Armor Hardener    	| 80m      	|     +50.3% 装甲爆炸抗性                                                          	|
 
 ## 5.5	船插 Rigs
 新人扫描强度不够，一定要上2个T1电容器，后期可以考虑换下来上信号集中设备或是喷嘴。
@@ -318,10 +318,10 @@ X = 有可能出现的位置<br>
 | 名称                                                         	| 市价 isk      	| 加成                                            	|
 |--------------------------------------------------------------	|---------------	|-------------------------------------------------	|
 | 中低美德一套                                                 	|               	|                                                 	|
-| Low-grade virtue alpha-omega                                 	| 1000m+        	| 探针强度+20.03% 各属性+2                        	|
-| Mid-grade virtue alpha-omega                                 	| 2000m+        	| 探针强度+33.83%  各属性+3                       	|
+| Low-grade virtue alpha-omega                                 	| 1b+     		   	| 探针强度+20.03% 各属性+2                        	|
+| Mid-grade virtue alpha-omega                                 	| 2b+     		   	| 探针强度+33.83%  各属性+3                       	|
 | 高统一套                                                     	|               	|                                                 	|
-| High-grade Ascendancy alpha-omega                            	| 2000m + 6000m 	| 跃迁速度+62.17% 各属性+4                        	|
+| High-grade Ascendancy alpha-omega                            	| 2b + 6b 			| 跃迁速度+62.17% 各属性+4                        	|
 | Eifyr and Co. 'Rogue' Warp Drive Speed WS-618                	| 600m+         	| 如果觉得高统6号太贵，可以用这个替代，差别非常小 	|
 | 7号技能插                                                    	|               	|                                                 	|
 | Poteque 'Prospector' Astrometric Acquisition AQ-702/706/710  	|               	| 扫描速度+2%/6%/10%                              	|
@@ -337,7 +337,7 @@ X = 有可能出现的位置<br>
 |     名称              	|     市价 isk    	|     加成                                                                                                     	|
 |-----------------------	|-----------------	|--------------------------------------------------------------------------------------------------------------	|
 |     移动机库          	|                 	|     极其推荐带上，回家时换上2个核心稳定器两个皮球，不怕抓。遇到危险可以把身上货物放入，保存位置，减少损失    	|
-|     Mobile depot      	|     1.3m        	|     一分钟锚定，提供换装，储存服务，可回收，只能自己使用，48h有效期                                           	|
+|     Mobile depot      	|     1.3m        	|     一分钟锚定，提供换装，储存服务，可回收，只能自己使用，30天有效期                                           	|
 |     无人机            	|                 	|                                                                                                              	|
 |     Hornet EC-300     	|     <0.1m       	|     ECM无人机，一定几率使敌方丢失锁定。推荐，被抓可反抗，拼人品                                              	|
 

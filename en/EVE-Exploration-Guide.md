@@ -33,7 +33,7 @@ Communication group (QQ): 226771995
 
 2.	If you didn't train any skills in the category “Scanning”, the suggestion is \(buying one Large Skill Injector, but only if possible) training all 7 skills in this category to III, and also another skill to III——\[Empire Faction] Frigate.
 
-3.	Buy an \[Empire Faction] Frigate (Suggestion: Heron) and fit it with [the recommended fit——Heron, Newbie exploration](Heron配置链接). Now you should have 75+ probe strength and you can begin exploring!
+3.	Buy an \[Empire Faction] Frigate (Suggestion: Heron) and fit it with [the recommended fit——Heron, Newbie exploration](Heron配置链接). Now you should have 75+ probe strength and you can begin exploring.
 
 **Terminal stage**
     
@@ -181,7 +181,7 @@ Or compare the description of the wormhole with the following tables for basic i
 
 ### 4.3.2 Drone Regions
 
-The Drone Regions are on the top right of the Map [Map in Appendix](对应链接) and consist of the following 8 regions:<br>
+The Drone Regions are on the top right of the Map \([Map in Appendix](对应链接)) and consist of the following 8 regions:<br>
 Cobalt Edge<br>
 Etherium Reach<br>
 Malpais<br>
@@ -201,7 +201,7 @@ In the Drone Regions, there are no Relic Sites and all Ghost Sites appear as Lev
 
 The image above is from a hacking minigame. Coherence is your HP and Strength is your Attack. Based on the fit [Heron, Newbie exploration](对应链接) from the chapter 3 Quick Guide, there should be 70 Coherence and 25 Strength. Except those most difficult hacking minigames with red System Core, the other minigames should be relatively easy now.
 
-Every node will display a number from 1-5 when you click it. This number means the distance to the nearest safe node \(a Utility Subsystem, Data Cache, or System Core). When the distance is above 5 the node will still display 5. If a node in a corner displays 5 then you shall change the direction, because there are no useful nodes nearby. When your Strength is low, the route along the edge is suggested. Though a comparatively longer time is needed for hacking in this case, but you could find another way easily and won’t be stuck somewhere. When your Strength is high, choosing the midpoints of the hexagons on the way is suggested, because the safe nodes could be detected easier.
+Every node will display a number from 1 to 5 when you click it. This number means the distance to the nearest safe node \(a Utility Subsystem, Data Cache, or System Core). When the distance is above 5 the node will still display 5. If a node in a corner displays 5 then you shall change the direction, because there are no useful nodes nearby. When your Strength is low, the route along the edge is suggested. Though a comparatively longer time is needed for hacking in this case, but you could find another way easily and won’t be stuck somewhere. When your Strength is high, choosing the midpoints of the hexagons on the way is suggested, because the safe nodes could be detected easier.
 
 **Hacking strategy:** There is a high possibility that the System Core appears at the opposite angle, so two strategies are recommended. The first one is going straight \(diagonal) to the opposite angle like the red line in the image below. It needs a high Strength and you can use this strategy immediately after you have confirmed the difficulty of the minigame. The second one is going along the edge like the green line. This strategy is suitable for the normal sites without the time limit. If a Defensive Subsystem appears, it is not necessary to disable it immediately, because you could change a direction and continue hacking. This strategy has also another advantage when the System Core is not at the opposite angle but at one of the two angles near the start point. When you get a Self Repair, use it ASAP because there is no limit for Coherence. The other Utility Subsystems shall be kept and used according to the table below.
 
@@ -217,185 +217,194 @@ Using this rule could decently increase hacking efficiency. The midpoints of the
 
 **Nodes**
 
-|Name                   |Icon                                                                       |Function|
-|-----------------------|---------------------------------------------------------------------------|--------|
-|Data Cache             |![logo](https://wiki.eveuniversity.org/images/0/02/Data_cache2.png)        |A node with hidden content. Both kinds of Subsystems could appear. Do not click anyone until there are no other choices.|
-|**Utility Subsystem**  |                                                                           |        |
-|Self Repair            |![logo](https://wiki.eveuniversity.org/images/4/46/Self_repair2.png)       |Restore 4 - 10 Coherence per action, lasts 3 actions. Coherence has no limit, so it shall be used ASAP.|
-|Kernel Rot             |![logo](https://wiki.eveuniversity.org/images/f/fe/Kernel_rot2.png)        |Halve the Coherence of the target.|
-|Polymorphic Shield     |![logo](https://wiki.eveuniversity.org/images/d/d8/Polymorphic_shield.png) |Prevent twice the damage. If you disable the subsystem first, the effect will be kept.|
-|Secondary Vector       |![logo](https://wiki.eveuniversity.org/images/1/1d/Secondary_vector2.png)  |Reduce 20 Coherence of the target per action, lasts 3 actions. It is not counted as an attack, and could reduce the Coherence while clicking other nodes. To use it, click first the Secondary Vector, then click the target Defensive Subsystem and at the end click somewhere else twice.|
-|**Defensive Subsystem**|                                                                           |        |
-|Firewall               |![logo](https://wiki.eveuniversity.org/images/a/a5/Firewall_node.png)      |Normal Defensive Subsystem.|
-|Antivirus              |![logo](https://wiki.eveuniversity.org/images/9/94/Antivirus_node.png)     |Defensive Subsystem with high Attack. Shall be disabled by using the Polymorphic Shield at the same time.|
-|Restoration Node       |![logo](https://wiki.eveuniversity.org/images/3/3d/Restorer_node.png)      |Restore 20 Coherence on random Defensive Subsystem per action \(including picking up a Utility Subsystem). It will not restore itself and the System Core. Once it has appeared, disable it ASAP.|
-|Virus Suppressor       |![logo](https://wiki.eveuniversity.org/images/5/52/Supressor_node.png)     |Decrease 15 Attack, could be added by multiple Virus Suppressors until only 10 Attack left. If there are only 25 Attack and 70 Coherence at the beginning, disabling it could be very hard, so keep well the Secondary Vector and Kernel Rot.|
-|System Core            |![logo](https://wiki.eveuniversity.org/images/1/1c/Core_node_hard_red.png) |The target. The color of it shows the difficulty of the hacking minigame.<br>The difficulty affects the Attack and Coherence of some Defensive Subsystems.<br>Green: Very Easy/Easy  Orange: Medium  Red: Hard|
+|Name                   |Icon                                                                                            |Function|
+|-----------------------|------------------------------------------------------------------------------------------------|--------|
+|Data Cache             |![logo](https://wiki.eveuniversity.org/images/0/02/Data_cache2.png ':size=WIDTHxHEIGHT')        |A node with hidden content. Both kinds of Subsystems could appear. Do not click anyone until there are no other choices.|
+|**Utility Subsystem**  |                                                                                                |        |
+|Self Repair            |![logo](https://wiki.eveuniversity.org/images/4/46/Self_repair2.png ':size=WIDTHxHEIGHT')       |Restore 4 - 10 Coherence per action, lasts 3 actions. Coherence has no limit, so it shall be used ASAP.|
+|Kernel Rot             |![logo](https://wiki.eveuniversity.org/images/f/fe/Kernel_rot2.png ':size=WIDTHxHEIGHT')        |Halve the Coherence of the target.|
+|Polymorphic Shield     |![logo](https://wiki.eveuniversity.org/images/d/d8/Polymorphic_shield.png ':size=WIDTHxHEIGHT') |Prevent twice the damage. If you disable the subsystem first, the effect will be kept.|
+|Secondary Vector       |![logo](https://wiki.eveuniversity.org/images/1/1d/Secondary_vector2.png ':size=WIDTHxHEIGHT')  |Reduce 20 Coherence of the target per action, lasts 3 actions. It is not counted as an attack, and could reduce the Coherence while clicking other nodes. To use it, click first the Secondary Vector, then click the target Defensive Subsystem and at the end click somewhere else twice.|
+|**Defensive Subsystem**|                                                                                                |        |
+|Firewall               |![logo](https://wiki.eveuniversity.org/images/a/a5/Firewall_node.png ':size=WIDTHxHEIGHT')      |Normal Defensive Subsystem.|
+|Antivirus              |![logo](https://wiki.eveuniversity.org/images/9/94/Antivirus_node.png ':size=WIDTHxHEIGHT')     |Defensive Subsystem with high Attack. Shall be disabled by using the Polymorphic Shield at the same time.|
+|Restoration Node       |![logo](https://wiki.eveuniversity.org/images/3/3d/Restorer_node.png ':size=WIDTHxHEIGHT')      |Restore 20 Coherence on random Defensive Subsystem per action \(including picking up a Utility Subsystem). It will not restore itself and the System Core. Once it has appeared, disable it ASAP.|
+|Virus Suppressor       |![logo](https://wiki.eveuniversity.org/images/5/52/Supressor_node.png ':size=WIDTHxHEIGHT')     |Decrease 15 Attack, could be added by multiple Virus Suppressors until only 10 Attack left. If there are only 25 Attack and 70 Coherence at the beginning, disabling it could be very hard, so keep well the Secondary Vector and Kernel Rot.|
+|System Core            |![logo](https://wiki.eveuniversity.org/images/1/1c/Core_node_hard_red.png ':size=WIDTHxHEIGHT') |The target. The color of it shows the difficulty of the hacking minigame.<br>The difficulty affects the Attack and Coherence of some Defensive Subsystems.<br>Green: Very Easy/Easy  Orange: Medium  Red: Hard|
 
-# 5 装备Equipment
-这里列举了和挖坟有关的装备，影响扫描的主要是探针强度和破解攻击力当然还有一些逃生用的装备，配合移动机库可以随时换装弥补技能点不足的短板。
-## 5.1	飞船 Ships
-| 名称         	| 加成                                                                                                                                         	|
-|--------------	|----------------------------------------------------------------------------------------------------------------------------------------------	|
-| Heron 苍鹭   	| T1护卫                                                                                                                                       	|
-|              	| 破解 攻击和血量各+5<br> 每级技能加成：探针强度+7.5%                                                                                          	|
-| 0.4m isk     	| 优点：因为比其他族T1多一个中槽，可以带信号加强，非常便宜爆了不心疼。                                                                         	|
-|              	|                                                                                                                                              	|
-| Astero 小白  	| 姐妹会护卫                                                                                                                                   	|
-|              	| 破解 攻击和血量各+10<br> 探针强度+37.5%                                                                                                      	|
-| 60m isk      	| 优点：不需要很高的技能就能使用，能够搭载隐蔽行动，穿上钢板能打能挖，是考古的最佳选择。<br> 缺点：对比苍鹭价格略高，校准值比种族护卫低50点 。 	|
-|              	|                                                                                                                                              	|
-| Stratios 中白 	| 姐妹会巡洋                                                                                                                                   	|
-|              	| 破解 攻击和血量各+10<br> 探针强度+37.5%                                                                                                      	|
-| 190m isk     	| 优点：上个钢板不需要堆爆抗也能抗雷区和幽灵坟，超冬3层前2波也能硬吃。还能顺带打高安死亡。<br> 缺点：全套价格高，对比小白动作迟缓。            	|
-|              	|                                                                                                                                              	|
-| Tengu 金鹏    	| C族T3巡洋                                                                                                                                    	|
-|              	| 破解 攻击和血量各+10<br> 子系统V级 探针强度+50%                                                                                              	|
-| 300m isk     	| 优点：拦截湮灭子系统不怕00的泡泡，幽灵坟，超冬雷区及3层也能抗着挖。顺道扫死亡换装就能打。<br> 缺点：全套价格高，对比小白动作迟缓 。          	|
-## 5.2	高槽 High Slot
-新人推荐 姐妹会的探针+普通发射器，便宜实用。
-如果点了隐形推荐上T2的，开小白一定要上隐秘行动
+# 5 Equipment
 
-| 名称                           	| 市价 isk 	| 加成                                                                      	|
-|--------------------------------	|----------	|---------------------------------------------------------------------------	|
-| 探针发射器                     	|          	| 发射探针  （注: 延伸探针发射器也可发射核心针，且强度一样）                	|
-| Core probe launcher I          	| <0.1m    	| 无                                                                        	|
-| Core probe launcher II         	| 3m       	| +5% 探针强度                                                              	|
-| Sister probe launcher          	| 31m      	| +10% 探针强度                                                             	|
-|                                	|          	|                                                                           	|
-| 扫描探针                       	| X16      	| 买16根才能自动装填，洞里掉线也不用怕没针                                  	|
-| Core scanner probe I           	| <0.1m    	| 40探针强度                                                                	|
-| Sister core scanner probe      	| 5.6m     	| 44探针强度                                                                	|
-| RSS core scanner probe         	| 384m     	| 45探针强度                                                                	|
-|                                	|          	|                                                                           	|
-| 隐身装置                       	|          	| 解除隐形有5秒锁定延迟，随技能逐渐减少，隐形后在你2000米范围内有物体会显形 	|
-| Prototype cloaking device I    	| 1.5m     	| 最大速度-90%                                                              	|
-| Improved cloaking device II    	| 3.5m     	| 最大速度-75%                                                              	|
-| Convert Ops cloaking Device II 	| 5.7m     	| 不影响速度，可以隐身跃迁                                                  	|
-## 5.3	中槽 Medium Slot
-挖坟四件套，数据分析，遗迹分析，微型跃迁推进器，货柜扫描。
-如果还有一个位置可以考虑上扫描测距阵列。
+The equipment here is about the exploration. The most important factors which affect the exploration are the scanner strength and the Attack. Of course, the equipment for the escape is also important. With a Mobile Depot, the equipment on the ship could be changed anywhere at any time. This can make up the lack of skill points.
 
-| 名称                            	| 市价 isk 	| 加成                                             	|
-|---------------------------------	|----------	|--------------------------------------------------	|
-| 推子/微曲                       	|          	| 开了推子以后信号范围会变大，受到的伤害也会变高   	|
-| 5MN Y-T8 compact microwarpdrive 	| 0.5m     	| 速度+505%                                        	|
-|                                 	|          	|                                                  	|
-| 货柜扫描                        	|          	| 可选，提高挖坟效率 推荐                          	|
-| Type-E enduring cargo scanner   	| <0.1m    	| 范围55km,激活时间3.5s                            	|
-| Cargo Scanner II                	| 1.1      	| 范围70km,激活时间3s                              	|
-|                                 	|          	|                                                  	|
-| 数据分析仪                      	|          	| 最优先上T2，需要hacking技能满级                  	|
-| Data analyzer I                 	| <0.1m    	| 40血，20攻                                       	|
-| Data analyze II                 	| 1.7m     	| 60血，30攻                                       	|
-|                                 	|          	|                                                  	|
-| 遗迹分析仪                      	|          	| 先上数据T2再上遗迹的                             	|
-| Relic analyzer I                	| <0.1m    	| 40血，20攻                                       	|
-| Relic analyze II                	| 2.3m     	| 60血，30攻                                       	|
-|                                 	|          	|                                                  	|
-| 2合1分析仪                      	|          	| 吃技能双加成，所以血量比T2更多，省下一个中槽位置 	|
-| Ligature integrated analyzer    	| 90m      	| 绷带20血，20攻                                   	|
-| Zeugma integrated analyzer      	| 170m     	| 轭式30血，30攻                                   	|
-|                                 	|          	|                                                  	|
-| 扫描测距阵列                    	|          	| 身上可以带几个，发现强度不够时可以换装扫描       	|
-| Scan rangefinding array         	| <0.1m    	| 探针强度+5%                                      	|
-## 5.4	低槽 Low Slot
-对于新人推荐机动性能，双皮球一纳米能在4秒内跳走。
-有空位，可以再加一个信号放大器，扩大扫描范围，配合货柜扫描，增加挖坟效率。
-跑路或是回家时可以换上核心稳定器。
+## 5.1 Ships
 
-| 名称                                      	| 市价 isk 	| 加成                                                                           	|
-|-------------------------------------------	|----------	|--------------------------------------------------------------------------------	|
-| 纳米纤维内部构架                          	|          	| 增加船只速度  减少朝向时间（即起跳时间）                                       	|
-| Nanofiber internal structure I            	| <0.1m    	| 速度+7.75% 起跳时间-13%                                                        	|
-| Nanofiber internal structure II           	| 3m       	| 速度+9.5% 起跳时间-15.75%                                                      	|
-| Type-D restrained nanofiber structure     	| <0.1m    	| 速度+8.5% 起跳时间-14.5%                                                       	|
-|                                           	|          	|                                                                                	|
-| 惯性稳定器                                	|          	| 信号半径越大，被击中的概率也越大，也越容易被扫描到，减少朝向时间（即起跳时间） 	|
-| Inertial stabilizers I                    	| <0.1m    	| 起跳时间-16.75% 信号半径+10%                                                   	|
-| Inertial stabilizers II                   	| 0.7m     	| 起跳时间-20% 信号半径+11%                                                      	|
-| Type-D restrained Inertial stabilizers II 	| <0.1m    	| 起跳时间-18.5% 信号半径+8%                                                     	|
-|                                           	|          	|                                                                                	|
-| 跃迁核心稳定器                            	|          	| 不能免疫泡泡，极大减少锁定范围                                                 	|
-| Warp core compensation                    	| <0.1m    	| 跃迁干扰强度-1 扫描范围-50%                                                    	|
-|                                           	|          	|                                                                                	|
-| 信号放大器                                	|          	| 增加锁定距离以及锁定速度                                                       	|
-| F-90 compact sensor booster               	| <0.1m    	| 扩大27.5%锁定范围  加快27.5%锁定速度                                           	|
-|                                           	|          	|                                                                                	|
-| 装甲爆炸增强器                            	|          	| 幽灵坟以及超冬雷区必备                                                         	|
-| Armor Explosive Hardener II               	| 2m       	|     +55% 装甲爆炸抗性，需要装甲技能V                                          	|
-| Dark Blood Armor Explosive Hardener       	| 3m       	|     +55% 装甲爆炸抗性                                                          	|
-| Corpus X-Type Armor Explosive Hardener    	| 80m      	|     +64% 装甲爆炸抗性                                                          	|
+|Name                                                                     |Bonus \(about the exploration)|
+|-------------------------------------------------------------------------|------------------------------|
+|Heron                                                                    |T1 Frigate                    |
+|![logo](https://images.evetech.net/types/605/icon ':size=WIDTHxHEIGHT')  |7.5% bonus to Core and Combat Scanner Probe strength \(per skill level)<br>5+ bonus to Relic and Data Analyzer virus strength|
+|0.4m ISK                                                                 |Advantage: Heron has 5 midslots, so it could be fitted with an extra Scan Rangefinding Array. It is also very cheap.|
+|                                                                         |                              |
+|Astero                                                                   |SOE Frigate                   |
+|![logo](https://images.evetech.net/types/33468/icon ':size=WIDTHxHEIGHT')|37.5% bonus to Core and Combat Scanner Probe strength<br>10+ bonus to Relic and Data Analyzer virus strength                 |
+|60m ISK                                                                  |Advantage: Low skill requirement and could be fitted with Covert Ops Cloaking Device II. With the armor plate, it can not only explore but also do a little bit of PVP. It’s almost the best choice for the exploration.<br>Disadvantage: Higher price and 50 Calibration less than Heron.|
+|                                                                         |                              |
+|Stratios                                                                 |SOE Cruiser                   |
+|![logo](https://images.evetech.net/types/33470/icon ':size=WIDTHxHEIGHT')|37.5% bonus to Core and Combat Scanner Probe strength<br>10+ bonus to Relic and Data Analyzer virus strength                 |
+|190m ISK                                                                 |Advantage: With an armor plate, it could tank the ghost sites, the Mine Room, and the first two waves in The Archive without any extra explosion resistance equipment. It could also run the escalations in Highsec.<br>Disadvantage: High price for the whole fit and lower agility compared with Astero.|
+|                                                                         |                              |
+|Tengu                                                                    |Caldari T3 Cruiser            |
+|![logo](https://images.evetech.net/types/29984/icon ':size=WIDTHxHEIGHT')|10% bonus to Core and Combat Scanner Probe strength \(per skill level)<br>10+ bonus to Relic and Data Analyzer virus strength|
+|300m ISK                                                                 |Advantage: It would not be influenced by the bubbles with the Interdiction Nullifier subsystem. It could also tank the ghost sites, the Mine Room, and The Archive. With a proper refit, scanning and running the escalations is possible too.<br>Disadvantage: High price for the whole fit and lower agility compared with Astero.|
 
-## 5.5	船插 Rigs
-新人扫描强度不够，一定要上2个T1电容器，后期可以考虑换下来上信号集中设备或是喷嘴。
-<br>T2的船插一般会消耗更多的校准值，在使用之前请先模拟。
+## 5.2 High Power Slot
 
-| 名称                                     	| 市价 isk 	| 加成                        	|
-|------------------------------------------	|----------	|-----------------------------	|
-| 小型引力电容器升级                       	|          	| 增加扫描强度                	|
-| Small gravity capacitor upgrade I        	| <0.1m    	| 探针强度+10%                	|
-| Small gravity capacitor upgrade II       	| 2.5m     	| 探针强度+15%                	|
-|                                          	|          	|                             	|
-| 小型离子力场投射器                       	|          	| 增加锁定距离                	|
-| Small Ionic field projector I            	| 0.18m    	| 锁定范围+25%                	|
-| Small Ionic field projector II           	| 4.5m     	| 锁定范围+30%                	|
-|                                          	|          	|                             	|
-| 小型信号集中设备                         	|          	| 增加货柜扫描速度            	|
-| Small Signal Focusing Kit I              	| 0.1m     	| 货柜扫描速度+15%            	|
-| Small Signal Focusing Kit II             	| 2.8m     	| 货柜扫描速度+20%            	|
-|                                          	|          	|                             	|
-| 小型低摩擦喷嘴接口                       	|          	| 加快朝向速度 （即起跳时间） 	|
-| Small Low Friction Nozzle Joints I       	| 0.16m    	| 起跳时间-11.7% 装甲量-10%   	|
-| Small Low Friction Nozzle Joints II      	| 4m       	| 起跳时间-14% 装甲量-10%     	|
-|                                          	|          	|                             	|
-| 小型超空间速度调节器                     	|          	| 加快跃迁速度(跑路更快)      	|
-| Small Hyperspatial Velocity Optimizer I  	| 0.25m    	| 跃迁飞行速度+20%            	|
-| Small Hyperspatial Velocity Optimizer II 	| 3.5m     	| 跃迁飞行速度+25%            	|
+Recommended for newbies: SOE probes+T1 Core Probe Launcher, cheap but effective. For cloaking, a T2 cloaking device is recommended. An Astero should always be fitted with the Covert Ops cloaking Device II.
 
-## 5.6	脑插 Implants
-| 名称                                                         	| 市价 isk      	| 加成                                            	|
-|--------------------------------------------------------------	|---------------	|-------------------------------------------------	|
-| 中低美德一套                                                 	|               	|                                                 	|
-| Low-grade virtue alpha-omega                                 	| 1000m+        	| 探针强度+20.03% 各属性+2                        	|
-| Mid-grade virtue alpha-omega                                 	| 2000m+        	| 探针强度+33.83%  各属性+3                       	|
-| 高统一套                                                     	|               	|                                                 	|
-| High-grade Ascendancy alpha-omega                            	| 2000m + 6000m 	| 跃迁速度+62.17% 各属性+4                        	|
-| Eifyr and Co. 'Rogue' Warp Drive Speed WS-618                	| 600m+         	| 如果觉得高统6号太贵，可以用这个替代，差别非常小 	|
-| 7号技能插                                                    	|               	|                                                 	|
-| Poteque 'Prospector' Astrometric Acquisition AQ-702/706/710  	|               	| 扫描速度+2%/6%/10%                              	|
-| 8号技能插                                                    	|               	| 新人可以戴个802/806                             	|
-| Poteque 'Prospector' Astrometric Rangefinding AR-802/806/810 	|               	| 探针强度+2%/6%/10%                              	|
-| 9号技能插 ‘黑镜’                                             	|               	| 配合轭式双加成，挖坟终极套装，能达到60攻        	|
-| Neural Lace 'Blackglass' Net Intrusion 920-40                	| 75m           	| 数据分析仪 攻+20，血-40  需要控制论V级          	|
-| 10号技能插                                                   	|               	| 配合轭式分析仪能+10血量                         	|
-| Poteque 'Prospector' Environmental Analysis EY-1005          	| 28m           	| 数据和遗迹分析仪血量各+5                        	|
-## 5.7	其他 Others
+|Name                         |Price in ISK|Bonus|
+|-----------------------------|------------|-----|
+|Core Probe Launcher          |            |Can launch core probes.<br>PS: Extended launchers can also launch the core probes with the same strength.|
+|Core Probe Launcher I        |< 0.1m      |None|
+|Core Probe Launcher II       |3m          |5% bonus to strength of scan probes.|
+|Sisters Core Probe Launcher  |31m         |10% bonus to strength of scan probes.|
+|                             |            |     |
+|Core Scanner Probe           |x16         |Another 8 probes in Cargo Hold for auto-reload. And if you disconnect in WH accidentally, there are always still 8 probes with you.|
+|Core Scanner Probe I         |< 0.1m      |40 Base Sensor Strength|
+|Sisters Core Scanner Probe   |5.6m        |44 Base Sensor Strength|
+|RSS Core Scanner Probe       |384m        |45 Base Sensor Strength|
+|                             |            |     |
+|Cloaking Device              |            |After decloaking, it is unable to lock any target for a while. This Recalibration Time could be decreased with higher skill levels. Anything in the 2000m range would cause decloaking.|
+|Prototype Cloaking Device I  |1.5m        |Max Velocity -90% while cloaked.|
+|Improved Cloaking Device II  |3.5m        |Max Velocity -75% while cloaked.|
+|Covert Ops Cloaking Device II|5.7m        |Max Velocity not affected and the ship could warp while cloaked.|
 
-|     名称              	|     市价 isk    	|     加成                                                                                                     	|
-|-----------------------	|-----------------	|--------------------------------------------------------------------------------------------------------------	|
-|     移动机库          	|                 	|     极其推荐带上，回家时换上2个核心稳定器两个皮球，不怕抓。遇到危险可以把身上货物放入，保存位置，减少损失    	|
-|     Mobile depot      	|     1.3m        	|     一分钟锚定，提供换装，储存服务，可回收，只能自己使用，48h有效期                                           	|
-|     无人机            	|                 	|                                                                                                              	|
-|     Hornet EC-300     	|     <0.1m       	|     ECM无人机，一定几率使敌方丢失锁定。推荐，被抓可反抗，拼人品                                              	|
+## 5.3 Medium Power Slot
 
-## 5.8	技能 Skills
+The loadout for the exploration: Data Analyzer, Relic Analyzer, Cargo Scanner, and MWD
+If there is still a midslot left, a Scan Rangefinding Array is an option.
 
-|     基础技能                       	|                                                                 	|
-|------------------------------------	|-----------------------------------------------------------------	|
-|     Archaeology                    	|     每级增加10点遗迹分析仪的血量                                	|
-|     Astrometric   Acquisition      	|     每级增加5%扫描速度                                          	|
-|     Astrometric   Pinpointing      	|     每级增加5%扫描精确度                                        	|
-|     Astrometric   Rangefinding     	|     每级增加5%扫描强度                                          	|
-|     Astrometrics                   	|     每级增加5%扫描强度、精确度、速度                            	|
-|     Hacking                        	|     每级增加10点数据分析仪的血量                                	|
-|     Survey                         	|     每级增加5%货柜扫描速度                                      	|
-|     <center>**相关技能**</center>                       	|                                                                 	|
-|     Cybernetics                    	|     IV级解锁+4脑插，V级解锁黑镜和10%强度插                      	|
-|     Spaceship   Command            	|     每级减少2%起跳时间                                          	|
-|     Evasive   Maneuvering          	|     每级减少5%起跳时间                                          	|
-|     Target   Management            	|     每级增加一个锁定目标上限，直到船只上限      小白IV级就够    	|
-|     Long Range   Targeting         	|     每级提升5%锁定距离                                          	|
-|     Amarr Frigate                  	|     每级提升小白 4%的装甲抗性                                   	|
-|     Armor   Layering               	|     每级减少5%钢附甲板对起跳速度的影响                          	|
-|     Armor   Compensation           	|     每级增加5%薄膜的抗性                                        	|
+|Name                           |Price in ISK|Bonus|
+|-------------------------------|------------|-----|
+|MWD                            |            |When MWD is on, the Signature Radius is increased and you would receive higher damage.|
+|5MN Y-T8 Compact Microwarpdrive|0.5m        |Max Velocity +505%|
+|                               |            |     |
+|Cargo Scanner                  |            |Optional, could increase the efficiency \(suggested)|
+|Type-E Enduring Cargo Scanner  |< 0.1m      |55km range, 3.5s activation time|
+|Cargo Scanner II               |1.1m        |70km range, 3s activation time|
+|                               |            |     |
+|Data Analyzer                  |            |T2 Data Analyzer has the highest priority \(needs Hacking V).|
+|Data Analyzer I                |< 0.1m      |40 Coherence, 20 Strength|
+|Data Analyze II                |1.7m        |60 Coherence, 30 Strength|
+|                               |            |     |
+|Relic Analyzer                 |            |First T2 Data Analyzer, then T2 Relic|
+|Relic Analyzer I               |< 0.1m      |40 Coherence, 20 Strength|
+|Relic Analyzer II              |2.3m        |60 Coherence, 30 Strength|
+|                               |            |     |
+|Integrated Analyzer            |            |Integrated Analyzers get bonus from both Archaeology and Hacking, so it would actually have more Coherence than T2 analyzers. And it can spare a midslot.|
+|Ligature Integrated Analyzer   |90m         |20 Coherence, 20 Strength|
+|Zeugma Integrated Analyzer     |170m        |30 Coherence, 30 Strength|
+|                               |            |     |
+|Scan Rangefinding Array        |            |A few of them could be taken with in the cargo. Just refit if higher Scan Strength is needed.|
+|Scan Rangefinding Array I      |< 0.1m      |Scan Strength +5%|
+
+## 5.4 Low Power Slot
+
+For newbies, higher agility is suggested. With two Inertial Stabilizers and one Nanofiber Internal Structure, the align time could be reduced to less than 4s. If there is still a lowslot left, a Sensor Booster is a good option for a further targeting range, which could increase the efficiency. The Warp Core Stabilizers could be refitted for travel.
+
+|Name                                  |Price in ISK|Bonus|
+|--------------------------------------|------------|-----|
+|Nanofiber Internal Structure          |            |Increase the Max Velocity and decrease the Align Time.|
+|Nanofiber Internal Structure I        |< 0.1m      |Velocity Modifier +7.75% Inertia Modifier -13%|
+|Nanofiber Internal Structure II       |3m          |Velocity Modifier +9.5% Inertia Modifier -15.75%|
+|Type-D Restrained Nanofiber Structure |< 0.1m      |Velocity Modifier +8.5% Inertia Modifier -14.5%|
+|                                      |            |     |
+|Inertial Stabilizers                  |            |Decrease the Align Time. The larger the Signature Radius is, the easier the ship would get hit and be scanned.|
+|Inertial Stabilizers I                |< 0.1m      |Inertia Modifier -16.75% Signature Radius +10%|
+|Inertial Stabilizers II               |0.7m        |Inertia Modifier -20% Signature Radius +11%|
+|Type-D Restrained Inertial Stabilizers|< 0.1m      |Inertia Modifier -18.5% Signature Radius +8%|
+|                                      |            |     |
+|Warp Core Stabilizer                  |            |Decrease the Max Tgt. Range \(not immune to the bubbles).|
+|Warp Core Stabilizer I                |< 0.1m      |Warp Scramble Strength -1 Max Tgt. Range -50%|
+|                                      |            |     |
+|Sensor Booster                        |            |Increase the Scan Resolution and the Max Tgt. Range.|
+|F-90 Compact Sensor Booster           |< 0.1m      |Max Tgt. Range +27.5% Scan Resolution +27.5%|
+|                                      |            |     |
+|Explosive Armor Hardener              |            |Needed for the Mine Room in the Superior Sleeper Cache and the Ghost Sites|
+|Explosive Armor Hardener II           |2m          |Armor EXP Resistance +44% \(Hull Upgrades V needed)|
+|Dark Blood Explosive Armor Hardener   |3m          |Armor EXP Resistance +44%|
+|Corpus X-Type Explosive Armor Hardener|80m         |Armor EXP Resistance +50.3%|
+
+## 5.5 Rigs
+
+Normally, newbies don’t have enough Scan Strength, so two or more T1 Gravity Capacitor Upgrades shall be fitted. After enough skills have been trained, those Gravity Capacitor Upgrades could be changed into Signal Focusing Kit or Low Friction Nozzle Joints or any other Rigs (e.g. Hyperspatial Velocity Optimizer).
+<br>T2 Rigs need normally more Calibration, so simulate first before fitting the Rigs.
+
+|Name                                    |Price in ISK|Bonus|
+|----------------------------------------|------------|-----|
+|Small Gravity Capacitor Upgrade         |            |Increase the Scan Strength.|
+|Small Gravity Capacitor Upgrade I       |< 0.1m      |Scan Strength +10%|
+|Small Gravity Capacitor Upgrade II      |2.5m        |Scan Strength +15%|
+|                                        |            |     |
+|Small Ionic Field Projector             |            |Increase the Max Tgt. Range.|
+|Small Ionic Field Projector I           |0.18m       |Max Tgt. Range +25%|
+|Small Ionic Field Projector II          |4.5m        |Max Tgt. Range +30%|
+|                                        |            |     |
+|Small Signal Focusing Kit               |            |Increase the scanners' Scan Speed \(Cargo/Ship/Survey Scanner).|
+|Small Signal Focusing Kit I             |0.1m        |Scan Speed +15%|
+|Small Signal Focusing Kit II            |2.8m        |Scan Speed +20%|
+|                                        |            |     |
+|Small Low Friction Nozzle Joints        |            |Decrease the Align Time.|
+|Small Low Friction Nozzle Joints I      |0.16m       |Inertia Modifier -11.7% armor amount -10%|
+|Small Low Friction Nozzle Joints II     |4m          |Inertia Modifier -14% armor amount -10%|
+|                                        |            |     |
+|Small Hyperspatial Velocity Optimizer   |            |Increase the Warp Speed.|
+|Small Hyperspatial Velocity Optimizer I |0.25m       |Warp Speed +20%|
+|Small Hyperspatial Velocity Optimizer II|3.5m        |Warp Speed +25%|
+
+## 5.6 Implants
+
+|Name                                                        |Price in ISK|Bonus|
+|------------------------------------------------------------|------------|-----|
+|Low/Mid-grade Virtue                                        |            |     |
+|Low-grade Virtue Alpha-Omega                                |1b+         |Scan Strength +20.03% all Attributes +2|
+|Mid-grade Virtue Alpha-Omega                                |2b+         |Scan Strength +33.83% all Attributes +3|
+|High-grade Ascendancy                                       |            |     |
+|High-grade Ascendancy Alpha-Omega                           |2b + 6b     |Warp Speed +62.17% all Attributes +4|
+|Eifyr and Co. 'Rogue' Warp Drive Speed WS-618               |600m+       |If High-grade Ascendancy Omega is too expensive, WS-618 could be used as a replacement. There is only a small difference.|
+|Slot 7                                                      |            |     |
+|Poteque 'Prospector' Astrometric Acquisition AQ-702/706/710 |            |2%/6%/10% reduction in probe scanning time.|
+|Slot 8                                                      |            |AR-802/806 are suggested for the newbies.|
+|Poteque 'Prospector' Astrometric Rangefinding AR-802/806/810|            |Scan Strength +2%/6%/10%|
+|Slot 9 'Blackglass'                                         |            |The end loadout for exploration: Zeugma and Blackglass \(60 Strength could be achieved)|
+|Neural Lace 'Blackglass' Net Intrusion 920-40               |75m         |Data Analyzer +20 Strength -40 Coherence \(Cybernetics V needed)|
+|Slot 10                                                     |            |     |
+|Poteque 'Prospector' Environmental Analysis EY-1005         |28m         |+5 Coherence for Data and Relic Analyzers \(+10 for Zeugma)|
+
+## 5.7 Others
+
+|Name         |Price in ISK|Bonus|
+|-------------|------------|-----|
+|Mobile Depot |            |Highly recommended to take one. On the way back, two Warp Core Stabilizers and two Inertial Stabilizers could be refitted, and tackling you would be hard. When you are in danger, cargo could be stored in the Depot. The loss could be decreased by saving the location and taking back the cargo later.|
+|Mobile Depot |1.3m        |It takes 1min to activate. With an activated Depot, you could refit your ship and store things inside. Only yourself can use it and it could be retrieved. Lifetime: 30 days|
+|Drones       |            |     |
+|Hornet EC-300|< 0.1m      |Light ECM Drones which have the ability to jam. Recommended to take some, and when you are tackled, they could be used for the last attempt \(with some luck).|
+
+## 5.8 Skills
+
+|Basic skills                       |     |
+|-----------------------------------|-----|
+|Archaeology                        |+10 Coherence of relic analyzers per level|
+|Astrometric Acquisition            |-5% scan probe scan time per level|
+|Astrometric Pinpointing            |-5% maximum scan deviation per level|
+|Astrometric Rangefinding           |+5% scan probe strength per level|
+|Astrometrics                       |+5% scan strength per level<br>-5% max scan deviation per level<br>-5% scan probe scan time per level|
+|Hacking                            |+10 Coherence of data analyzers per level|
+|Survey                             |+5% scan speeds of the ship, cargo, and survey scanners per level|
+|<center>**Related skills**</center>|     |
+|Cybernetics                        |IV unlocks +4 Implants. V unlocks Blackglass and AR-810.|
+|Spaceship Command                  |+2% agility per level|
+|Evasive Maneuvering                |+5% agility per level|
+|Target Management                  |+1 extra target per level, up to the ship's maximum allowed number of targets locked \(IV is enough for Astero).|
+|Long Range Targeting               |+5% Max Tgt. Range per level|
+|Amarr Frigate                      |+4% all armor resistances per level \(for Astero)|
+|Armor Layering                     |-5% armor plate mass penalty per level|
+|\[Damage type] Armor Compensation  |+5% \[Damage type] resistance per level for Armor Coatings and Energized Platings|
