@@ -1283,29 +1283,18 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-2.png ':size=WIDTHxHEIGHT')
 
 ---------------------------
-[Heron, 新人挖坟]
-
-Inertial Stabilizers I
-
-Inertial Stabilizers I
-
-5MN Microwarpdrive I
-
-Type-E Enduring Cargo Scanner
-
-Relic Analyzer I
-
-Data Analyzer I
-
-Prototype Cloaking Device I
-
-Core Probe Launcher I
-
-Small Gravity Capacitor Upgrade I
-
-Small Gravity Capacitor Upgrade I
-
-Hobgoblin I x7
+[Heron, 新人挖坟]  
+Inertial Stabilizers I  
+Inertial Stabilizers I  
+5MN Microwarpdrive I  
+Type-E Enduring Cargo Scanner  
+Relic Analyzer I  
+Data Analyzer I  
+Prototype Cloaking Device I  
+Core Probe Launcher I  
+Small Gravity Capacitor Upgrade I  
+Small Gravity Capacitor Upgrade I  
+Hobgoblin I x7  
 
 ---------------------------
 合计：3.7m
@@ -1319,37 +1308,22 @@ Hobgoblin I x7
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-3.png ':size=WIDTHxHEIGHT')
 
 -----------------------------
-[Astero, 钢板小白]
-
-Damage Control II
-
-Shadow Serpentis Energized Adaptive Nano Membrane
-
-Imperial Navy 200mm Steel Plates
-
-Small Ancillary Armor Repairer
-
-5MN Y-T8 Compact Microwarpdrive
-
-Cargo Scanner II
-
-Data Analyzer II
-
-Relic Analyzer II
-
-Covert Ops Cloaking Device II
-
-Sisters Core Probe Launcher
-
-Small Trimark Armor Pump II
-
-Small Gravity Capacitor Upgrade I
-
-Small Ionic Field Projector II
-
-Hornet EC-300 x5
-
-'Integrated' Hobgoblin x5
+[Astero, 钢板小白]  
+    Damage Control II  
+  Shadow Serpentis Energized Adaptive Nano Membrane  
+  Imperial Navy 200mm Steel Plates  
+  Small Ancillary Armor Repairer  
+  5MN Y-T8 Compact Microwarpdrive  
+  Cargo Scanner II  
+  Data Analyzer II  
+  Relic Analyzer II  
+  Covert Ops Cloaking Device II  
+  Sisters Core Probe Launcher  
+  Small Trimark Armor Pump II  
+  Small Gravity Capacitor Upgrade I  
+  Small Ionic Field Projector II  
+  Hornet EC-300 x5  
+  'Integrated' Hobgoblin x5  
 
 -----------------------------
 不包含脑插 合计：160m
@@ -1361,42 +1335,24 @@ Hornet EC-300 x5
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-4.png ':size=WIDTHxHEIGHT')
 
 -----------------------------
-[Astero, T2钢板小白]
-
-Small Armor Repairer II
-
-Energized Adaptive Nano Membrane II
-
-Armor Explosive Hardener II
-
-200mm Steel Plates II
-
-Data Analyzer II
-
-Cargo Scanner II
-
-Relic Analyzer II
-
-5MN Quad LiF Restrained Microwarpdrive
-
-Covert Ops Cloaking Device II
-
-Core Probe Launcher II
-
-Small Trimark Armor Pump II
-
-Small Hyperspatial Velocity Optimizer II
-
-Small Hyperspatial Velocity Optimizer II
-
-Hobgoblin II x5
-
-Hornet EC-300 x5
-
-Sisters Core Scanner Probe x16
-
+[Astero, T2钢板小白]  
+  Small Armor Repairer II  
+  Energized Adaptive Nano Membrane II  
+  Armor Explosive Hardener II  
+  200mm Steel Plates II  
+  Data Analyzer II  
+  Cargo Scanner II  
+  Relic Analyzer II  
+  5MN Quad LiF Restrained Microwarpdrive  
+  Covert Ops Cloaking Device II  
+  Core Probe Launcher II  
+  Small Trimark Armor Pump II  
+  Small Hyperspatial Velocity Optimizer II  
+  Small Hyperspatial Velocity Optimizer II  
+  Hobgoblin II x5  
+  Hornet EC-300 x5  
+  Sisters Core Scanner Probe x16
 -----------------------------
-
 合计：95m
 
 需要较高的技能，和终极小白相同用法只是不能抗超冬冲击波，开隐秘需要超载爆抗。注甲可以换小修，两个超空间船插可以自行调整。
@@ -1404,53 +1360,30 @@ Sisters Core Scanner Probe x16
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-5.png ':size=WIDTHxHEIGHT')
 
 -----------------------------
-[Astero, 终极小白]
-
-Centii A-Type Small Armor Repairer
-
-Federation Navy 200mm Steel Plates
-
-Imperial Navy Energized Adaptive Nano Membrane
-
-Corpus X-Type Armor Explosive Hardener
-
-Cargo Scanner II
-
-Coreli A-Type 5MN Microwarpdrive
-
-Cap Recharger II
-
-Zeugma Integrated Analyzer
-
-Sisters Core Probe Launcher
-
-Covert Ops Cloaking Device II
-
-Small Trimark Armor Pump II
-
-Small Hyperspatial Velocity Optimizer II
-
-Small Hyperspatial Velocity Optimizer II
-
-Hobgoblin II x5
-
-Warrior II x5
-
-Hornet EC-300 x5
-
+[Astero, 终极小白]  
+Centii A-Type Small Armor Repairer  
+Federation Navy 200mm Steel Plates  
+Imperial Navy Energized Adaptive Nano Membrane  
+Corpus X-Type Armor Explosive Hardener  
+Cargo Scanner II  
+Coreli A-Type 5MN Microwarpdrive  
+Cap Recharger II  
+Zeugma Integrated Analyzer  
+Sisters Core Probe Launcher  
+Covert Ops Cloaking Device II  
+Small Trimark Armor Pump II  
+Small Hyperspatial Velocity Optimizer II  
+Small Hyperspatial Velocity Optimizer II  
+Hobgoblin II x5  
+Warrior II x5  
+Hornet EC-300 x5  
+Sisters Core Scanner Probe x24  
+Damage Control II x1  
+'Chainmail' 200mm Steel Plates x1  
+Republic Fleet Small Shield Extender x1  
 Sisters Core Scanner Probe x24
-
-Damage Control II x1
-
-'Chainmail' 200mm Steel Plates x1
-
-Republic Fleet Small Shield Extender x1
-
-Sisters Core Scanner Probe x24
-
-合计：650m
-
 -----------------------------
+合计：650m
 
 很贵，适用高安开冬眠
 
