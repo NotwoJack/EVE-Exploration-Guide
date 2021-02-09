@@ -775,7 +775,7 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 5.	待所有炮塔都消失后，再过去开那9个盒子
 6.	（电离室有一个箱子可以无风险开）
       
-    可选
+    以下可选
 
 7.	回到电厂，放下移动机库把货舱东西全部放入以及姐妹会的发射器，换上爆抗，别忘了带上甲修材料，并保存位置
 8.	前往远点破解修正单元，回到中点前往地雷区，起跳之前启用爆抗
@@ -806,21 +806,22 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.5.3-1.png ':size=WIDTHxHEIGHT')
 
-|     名称                             |     注解        |     成功                                                                           |     失败      |   |
-|--------------------------------------|-----------------|------------------------------------------------------------------------------------|---------------|---|
-|     近点                             |                 |                                                                                    |               |   |
-|  Solar Grammar Alignment Unit        |     盒子        |     对应放入Modulate Disc                                                          |               |   |
-|  Spatial Rift                        |     近点轨道    |     前往‘炮塔层’                                                                   |               |   |
-|     中点                             |                 |                                                                                    |               |   |
-|     Dented storage depot             |     箱子        |     冬眠信号消失，离开站或是隐身2分钟后，这个坟会消失                              |     无惩罚    |   |
-|     Solray Observational Unit        |     需要打开    |     获得任意一个Modulate Discs Infrared/Radio/Gamma                                |     无惩罚    |   |
-|     Solray Grammar Infrared Unit      |     盒子        |     对应放入Infrared Modulate Disc                                                 |               |   |
-|     Spatial Rift                     |     中点轨道    |     前往远点     远点校准后：前往‘地雷区’                                          |               |   |
-|     6x Storage Depot                 |     箱子        |     放入对应的Alignment Discs后毒雾伤害减低至 25/s，范围13-17KM，破解失败无惩罚    |               |   |
-|     远点                             |                 |                                                                                    |               |   |
-|     Solar   Radio Alignment Unit    | 盒子            |     对应放入Radio Modulate Disc                                                    |               |   |
-|     Remote Reroute Unit              |                 |     校准中点轨道Spatial Rift                                                       |     无惩罚    |   |
-|     Spatial Rift                     | 远点轨道        | 校对单元成功：回到中点，校对单元失败：到达炮塔层中心，触发炮塔                     |               |   |
+|                              |     介绍    |     完成度                                                                  |        |
+|------------------------------|-------------|-----------------------------------------------------------------------------|--------|
+|             名称             |     注解    |                                     成功                                    |  失败  |
+| 近点                         |             |                                                                             |        |
+| Solar Grammar Alignment Unit | 盒子        | 对应放入Modulate Disc                                                       |        |
+| Spatial Rift                 | 近点轨道    | 前往‘炮塔层’                                                                |        |
+| 中点                         |             |                                                                             |        |
+| Dented storage depot         | 箱子        | 冬眠信号消失，离开站或是隐身2分钟后，这个坟会消失                           | 无惩罚 |
+| Solray Observational Unit    | 需要打开    | 获得任意一个Modulate Discs Infrared/Radio/Gamma                             | 无惩罚 |
+| Solray Grammar Infrared Unit | 盒子        | 对应放入Infrared Modulate Disc                                              |        |
+| Spatial Rift                 | 中点轨道    | 前往远点 远点校准后：前往‘地雷区’                                           |        |
+| 6x Storage Depot             | 箱子        | 放入对应的Alignment Discs后毒雾伤害减低至 25/s，范围13-17KM，破解失败无惩罚 |        |
+| 远点                         |             |                                                                             |        |
+| Solar Radio Alignment Unit   | 盒子        | 对应放入Radio Modulate Disc                                                 |        |
+| Remote Reroute Unit          |             | 校准中点轨道Spatial Rift                                                    | 无惩罚 |
+| Spatial Rift                 | 远点轨道    | 校对单元成功：回到中点，校对单元失败：到达炮塔层中心，触发炮塔              |        |
 
 ### 7.5.4	炮塔层 Sentries on Duty
 
@@ -828,16 +829,16 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.5.4-1.png ':size=WIDTHxHEIGHT')
 
-|                   名称                   |             注解             |                                        成功                                        |                              失败                             |   |
-|:----------------------------------------:|:----------------------------:|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------:|---|
-| Spatial Rift                             |              　              | 回到电厂中点                                                                       |                                                               |   |
-| 2xWakeful+Vigilant+Restless Sentry Tower | 　                           | 不要超过防御单元与维修单元之间的红线就不会攻击你。单炮塔伤害400-700，暴击会到1500+ |                                                               |   |
-| Remote Defense Grid Unit                 | 这个开失败了炮塔层就只能放弃 | 离你最近的炮塔会变成友方帮你打其他炮塔,这个炮塔只能被维修单元修，不能被玩家修      | 本地显示45s倒计时，时间到后会刷16个炮台，无论是否再次破解成功 |   |
-| Sentry Repair Station                    | 可以不破解                   | 为友方炮塔维修。                                                                   | 无惩罚                                                        |   |
-| 9x Storage Depot                         | 　                           | 顺利打开                                                                           | 无惩罚                                                        |   |
-| 3x Unstable Plasma Chambers              | 蓝圈                         | 被攻击会爆炸，为轨道充能。100000点爆炸伤害，爆炸后还会产生毒云，并在60s后刷炮台    |                                                               |   |
-| Hyperfluct Generator                     | 位于盒子中间                 | 1.出现前往‘电离室’的轨道  2.无法开启，轨道需要充能。引爆那3个罐子为轨道充能        | 无惩罚                                                        |   |
-| Vessel Rejuvenation Battery              | 蓝圈                         | 为你提供10s的无敌，配合攻击引爆罐子，充能轨道                                      | 无惩罚                                                        |   |
+| 名称                                     | 注解                         | 成功                                                                               | 失败                                                          |
+|------------------------------------------|------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| Spatial Rift                             |                              | 回到电厂中点                                                                       |                                                               |
+| 2xWakeful+Vigilant+Restless Sentry Tower |                              | 不要超过防御单元与维修单元之间的红线就不会攻击你。单炮塔伤害400-700，暴击会到1500+ |                                                               |
+| Remote Defense Grid Unit                 | 这个开失败了炮塔层就只能放弃 | 离你最近的炮塔会变成友方帮你打其他炮塔,这个炮塔只能被维修单元修，不能被玩家修      | 本地显示45s倒计时，时间到后会刷16个炮台，无论是否再次破解成功 |
+| Sentry Repair Station                    | 可以不破解                   | 为友方炮塔维修。                                                                   | 无惩罚                                                        |
+| 9x Storage Depot                         |                              | 顺利打开                                                                           | 无惩罚                                                        |
+| 3x Unstable Plasma Chambers              | 蓝圈                         | 被攻击会爆炸，为轨道充能。100000点爆炸伤害，爆炸后还会产生毒云，并在60s后刷炮台    |                                                               |
+| Hyperfluct Generator                     | 位于盒子中间                 | 1.出现前往‘电离室’的轨道 2.无法开启，轨道需要充能。引爆那3个罐子为轨道充能         | 无惩罚                                                        |
+| Vessel Rejuvenation Battery              | 蓝圈                         | 为你提供10s的无敌，配合攻击引爆罐子，充能轨道                                      | 无惩罚                                                        |
 
 备注：炮塔层有且仅在开了防御单元后，过线会触发‘过线警报’，刷出10个炮塔，这个和普通的警报是不同。防御单元破解失败，主动攻击炮塔，炸了罐子，这3种情况都会触发普通警报，这个警报是会刷出16个炮塔。
 
@@ -861,11 +862,10 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 
 靠近地雷10km内会触发爆炸，单颗伤害分为2000，3000，4500，5500，6000，7500这几种，纯爆炸伤害，一次触发会引爆1-3颗地雷，速度过快的情况下，会出现连续触发2次的情况（4颗雷），钢板小白保持88+的爆抗，一般不会被炸死。3个箱子的位置如后图所示，以信标为原点，手动控制飞船就能把箱子撞出来。
 
-|     名称                        |     注解          |     成功                               |     失败                   |   |
-|---------------------------------|-------------------|----------------------------------------|----------------------------|---|
-|     Remote Defense Grid Unit    |     10km内出现    |     显示1-3个盒子，显示部分地雷位置    |     引爆所有地雷20-25颗    |   |
-|     3xStorage Depot             |                   |     顺利打开                           |     无惩罚                 |   |
-
+|           名称           |    注解    |               成功              |         失败        |
+|:------------------------:|:----------:|:-------------------------------:|:-------------------:|
+| Remote Defense Grid Unit | 10km内出现 | 显示1-3个盒子，显示部分地雷位置 | 引爆所有地雷20-25颗 |
+| 3xStorage Depot          |            | 顺利打开                        | 无惩罚              |
 **地雷区攻略方法：**
 
 无伤雷区路线（流程视频）：
@@ -888,7 +888,7 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.5.5-1.png ':size=WIDTHxHEIGHT')
 
-小白抗地雷方法
+**小白抗地雷方法**
 
 注意：技能不足的情况下55爆抗只能超载4轮，如果装备双64爆抗，不需要超载。全部使用保持距离。被雷炸到后马上停船维修好血量再前进。
 
@@ -918,6 +918,7 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 |     3xVessel Rejuvenation Battery       |             |     顺利打开, 刷90s的恢复云，1s修满                                              |     无惩罚    |               |
 
 **电离室的机制：**
+
 在Cerebrum激活之后，就会开始倒计时，90s后第一波冲击到达，往后随着逗留时间越长，冲击波出现时间越加频繁，每次冲击波持续5s，除了第一波冲击波是本地提示出现90s后到达，后续的冲击波时间间隔都不确定（前几波20-40s），可能会出现多波冲击波（最多3波）同时到达的情况，前3波大几率是单冲击波。激活6m30s后会出现colossal wave是普通冲击波3倍的伤害。普通冲击波每秒造成300*2的四个属性伤害，合计为2400/s，5秒共计12000的伤害。
 
 激活后会逐渐刷出箱子，半分钟后9个箱子全部出现，激活同时也会出现恢复单元，一共有3个恢复单元，第二个恢复单元大概在2m20s出现，第三个大概在4m30s出现，单元破解成功后会提供90s的无敌，但是范围只有5000m。**目前资料显示只有区域①的恢复单元有效**
@@ -1013,7 +1014,7 @@ by 十月
 
 信号强度在2%以下，为冬眠者储藏站信号
 
-如果碰上两点，则*2计算，碰上圆圈*4，碰上球形，看强度1%以下就重新扫描定位一下。
+如果碰上两点，则x2计算，碰上圆圈x4，碰上球形，看强度1%以下就重新扫描定位一下。
 
 我们常见的信号
 
@@ -1047,11 +1048,11 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 
 ### 7.6.2	快捷键设置 Shortcut
 
-这里罗列了挖坟常用的快捷键，并提供了推荐键位。熟练使用快捷键是高效挖坟的保证，也是小白挖穿超冬三层的必要前提。大部分快捷键是按住以后再用鼠标选择目标才能发挥作用
+这里罗列了挖坟常用的快捷键，并提供了推荐键位。熟练使用快捷键是高效挖坟的保证，也是小白挖穿超冬三层的必要前提。大部分快捷键是按住以后再用鼠标选择目标才能发挥作用。
 
 |     名称                                   |     功能                                          |     推荐键位      |
 |--------------------------------------------|---------------------------------------------------|-------------------|
-|     Combat                                 |                                                   |                   |
+|     **Combat**                                 |                                                   |                   |
 |     Approach                               |     靠近                                          |     无            |
 |     Directional Scan                       |     舰载扫描                                      |     X             |
 |     Dock/Jump/Activate gate                |     停泊/跃迁/激活星门                            |     Alt           |
@@ -1062,10 +1063,10 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 |     Refresh Probe Scan                     |     使用探针扫描，没探针会自动放                  |     Z             |
 |     Tag item from sequence: 1 through 9    |     标记目标从数字1-9     顺序标记，需要开舰队    |     1             |
 |     Tag item as: A                         |     标记目标为A，排除不值钱箱子                   |     2             |
-|     Navigation                             |                                                   |                   |
+|     **Navigation**                             |                                                   |                   |
 |     Save Location                          |     保存位置                                      |     Ctrl-B        |
 |     Stop Ship                              |     停船                                          |     Ctrl-Space    |
-|     Modules                                |                                                   |                   |
+|     **Modules**                                |                                                   |                   |
 |     Activate Medium High Slot 1            |     启用高槽1，隐身                               |     Q             |
 |     Activate Medium Power Slot 1           |     启用中槽1，推子                               |     Space         |
 |     Activate Medium Power Slot 2           |     启用中槽2，货柜扫描                           |     A             |
@@ -1283,42 +1284,73 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 
 ---------------------------
 [Heron, 新人挖坟]
+
 Inertial Stabilizers I
+
 Inertial Stabilizers I
+
 5MN Microwarpdrive I
+
 Type-E Enduring Cargo Scanner
+
 Relic Analyzer I
+
 Data Analyzer I
+
 Prototype Cloaking Device I
+
 Core Probe Launcher I
+
 Small Gravity Capacitor Upgrade I
+
 Small Gravity Capacitor Upgrade I
+
 Hobgoblin I x7
+
 ---------------------------
 合计：3.7m
+
 新人可以先不使用姐妹会针和隐身
+
 扫描强度不够换上3个扫描阵列
+
 跑路回家换上2个稳定
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-3.png ':size=WIDTHxHEIGHT')
 
 -----------------------------
 [Astero, 钢板小白]
+
 Damage Control II
+
 Shadow Serpentis Energized Adaptive Nano Membrane
+
 Imperial Navy 200mm Steel Plates
+
 Small Ancillary Armor Repairer
+
 5MN Y-T8 Compact Microwarpdrive
+
 Cargo Scanner II
+
 Data Analyzer II
+
 Relic Analyzer II
+
 Covert Ops Cloaking Device II
+
 Sisters Core Probe Launcher
+
 Small Trimark Armor Pump II
+
 Small Gravity Capacitor Upgrade I
+
 Small Ionic Field Projector II
+
 Hornet EC-300 x5
+
 'Integrated' Hobgoblin x5
+
 -----------------------------
 不包含脑插 合计：160m
 
@@ -1330,23 +1362,41 @@ Hornet EC-300 x5
 
 -----------------------------
 [Astero, T2钢板小白]
+
 Small Armor Repairer II
+
 Energized Adaptive Nano Membrane II
+
 Armor Explosive Hardener II
+
 200mm Steel Plates II
+
 Data Analyzer II
+
 Cargo Scanner II
+
 Relic Analyzer II
+
 5MN Quad LiF Restrained Microwarpdrive
+
 Covert Ops Cloaking Device II
+
 Core Probe Launcher II
+
 Small Trimark Armor Pump II
+
 Small Hyperspatial Velocity Optimizer II
+
 Small Hyperspatial Velocity Optimizer II
+
 Hobgoblin II x5
+
 Hornet EC-300 x5
+
 Sisters Core Scanner Probe x16
+
 -----------------------------
+
 合计：95m
 
 需要较高的技能，和终极小白相同用法只是不能抗超冬冲击波，开隐秘需要超载爆抗。注甲可以换小修，两个超空间船插可以自行调整。
@@ -1355,29 +1405,53 @@ Sisters Core Scanner Probe x16
 
 -----------------------------
 [Astero, 终极小白]
+
 Centii A-Type Small Armor Repairer
+
 Federation Navy 200mm Steel Plates
+
 Imperial Navy Energized Adaptive Nano Membrane
+
 Corpus X-Type Armor Explosive Hardener
+
 Cargo Scanner II
+
 Coreli A-Type 5MN Microwarpdrive
+
 Cap Recharger II
+
 Zeugma Integrated Analyzer
+
 Sisters Core Probe Launcher
+
 Covert Ops Cloaking Device II
+
 Small Trimark Armor Pump II
+
 Small Hyperspatial Velocity Optimizer II
+
 Small Hyperspatial Velocity Optimizer II
+
 Hobgoblin II x5
+
 Warrior II x5
+
 Hornet EC-300 x5
+
 Sisters Core Scanner Probe x24
+
 Damage Control II x1
+
 'Chainmail' 200mm Steel Plates x1
+
 Republic Fleet Small Shield Extender x1
+
 Sisters Core Scanner Probe x24
+
 合计：650m
+
 -----------------------------
+
 很贵，适用高安开冬眠
 
 廉价低配，请看之前‘T2钢板小白’
@@ -1421,7 +1495,6 @@ Sisters Core Scanner Probe x24
 |     Watcher       |                      |     52    |     86     |            |
 
 备注：
-
 1.	Sentry（1点反跳），Watcher（-60%网子）
 2.	萨莎伤害为炮台+导弹，古斯塔斯伤害为导弹，其他均为炮台
 3.	天使的反跳和网子怪互换一下
@@ -1446,36 +1519,36 @@ Sisters Core Scanner Probe x24
 ## 8.6	气云星座 Gas Cloud Regions
 
 Blue Pill – Amber
-	Low security space (hot-spot constellation – region): Mivora – The Forge
-	No security space(hot-spot constellation – region): E-8CSQ – Vale of the Silent
+-	Low security space (hot-spot constellation – region): Mivora – The Forge
+-	No security space(hot-spot constellation – region): E-8CSQ – Vale of the Silent
 
 Crash – Golden
-	Low security space (hot-spot constellation – region): Umamon – Lonetrek
-	No security space(hot-spot constellation – region): 09-4XW – Tenal
+-	Low security space (hot-spot constellation – region): Umamon – Lonetrek
+-	No security space(hot-spot constellation – region): 09-4XW – Tenal
 
 Drop – Viridian
-	Low security space (hot-spot constellation – region): Amevync – Placid
-	No security space(hot-spot constellation – region): Assilot – Cloud Ring
+-	Low security space (hot-spot constellation – region): Amevync – Placid
+-	No security space(hot-spot constellation – region): Assilot – Cloud Ring
 
 Exile – Celadon
-	Low security space (hot-spot constellation – region): Elerelle – Solitude
-	No security space(hot-spot constellation – region): Pegasus – Fountain
+-	Low security space (hot-spot constellation – region): Elerelle – Solitude
+-	No security space(hot-spot constellation – region): Pegasus – Fountain
 
 Frentix - Lime
-	Low security space (hot-spot constellation – region): Joas – Derelik
-	No security space(hot-spot constellation – region): 9HXQ-G – Catch
+-	Low security space (hot-spot constellation – region): Joas – Derelik
+-	No security space(hot-spot constellation – region): 9HXQ-G – Catch
 
 Mindflood – Malachite
-	Low security space (hot-spot constellation – region): Fabai – Aridia
-	No security space(hot-spot constellation – region): OK-FEM – Delve
+-	Low security space (hot-spot constellation – region): Fabai – Aridia
+-	No security space(hot-spot constellation – region): OK-FEM – Delve
 
 Sooth Sayer – Azure
-	Low security space (hot-spot constellation – region): Tartatven – Molden Heath
+-	Low security space (hot-spot constellation – region): Tartatven – Molden Heath
+-	No security space(hot-spot constellation – region): 760-9C – Wicked Creek
 
-	No security space(hot-spot constellation – region): 760-9C – Wicked Creek
 X-instinct – Vermillion
-	Low security space (hot-spot constellation – region): Hed – Heimatar
-	No security space(hot-spot constellation – region): I-3ODK – Feythabolis
+-	Low security space (hot-spot constellation – region): Hed – Heimatar
+-	No security space(hot-spot constellation – region): I-3ODK – Feythabolis
 
 ## 8.7	挖坟成就 Achievements
 
