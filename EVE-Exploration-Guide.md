@@ -766,7 +766,7 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 
 流程视频:
 
-<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&page=10" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&cid=54293508&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 1.	破解超浪发生器，无论落在哪个位置都回电厂近点开始
 2.	破解中点的Solray Observational Unit，将获得的盘子放到对应名字的盒子里
@@ -846,7 +846,7 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 
 **三层轨道充能（视频攻略）：**
 
-<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&page=10" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&cid=54290881&page=9" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 先放出无人机，这边破解恢复单元，点出核心别急着点掉，让无人机去攻击罐子，在飞到半路时点掉核心。充能轨道后，这时你只有60s时间去重新破解超浪轨道，成功与否60s后都会刷出16个炮台。
 这个维护打开后会大幅减低罐子的伤害至400点左右，无法用来炸别人船。
@@ -870,7 +870,7 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 
 无伤雷区路线（流程视频）：
 
-<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&page=10" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&cid=72490091&page=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 **该方法是基于1080p分辨率，及标准UI缩放，其他分辨率玩家请自行寻找合适位置。**
 
@@ -951,7 +951,11 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 
 风险提示：确保你在激活之前，把身上所有值钱的东西都保存到移动机库中。如果本地出现15s倒计时，没时间去开维护，请果断离开。
 
-1.只开2-3个最值钱的（风险系数中，流程视频）：在激活之后，开一轮推子靠近区域①的箱子，保持距离即可（如果新刷了炮塔，请环绕），同时扫描区域①的箱子，并开掉最值钱的那个，然后破解维护单元，不急着点掉核心，此时扫描剩下的箱子标记2个值钱的，本地出现冲击波提示后点掉核心，等待冲击波结束后马上靠近标记的盒子开掉，注意本地的冲击波提示，开掉后返回区域①的维护单元，待第二波冲击波过去后，再去开另一个盒子。
+1.只开2-3个最值钱的（风险系数中）：在激活之后，开一轮推子靠近区域①的箱子，保持距离即可（如果新刷了炮塔，请环绕），同时扫描区域①的箱子，并开掉最值钱的那个，然后破解维护单元，不急着点掉核心，此时扫描剩下的箱子标记2个值钱的，本地出现冲击波提示后点掉核心，等待冲击波结束后马上靠近标记的盒子开掉，注意本地的冲击波提示，开掉后返回区域①的维护单元，待第二波冲击波过去后，再去开另一个盒子。
+
+流程视频：
+
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&cid=70979977&page=11" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 **抗冲击波开**
 
@@ -967,7 +971,11 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 
 从激活到第五个冲击波提示一般时间在250s - 300s，你要开掉共计10个箱子。
 
-4.金鹏全开（有效抗视频）：
+4.金鹏全开：
+
+有效抗视频：
+
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&cid=56550854&page=12" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 有效抗：核心思路是在6分30秒的大冲击波来之前挖光，而在此之前的冲击波总数基本不会超过8个，所以将船只的有效堆到10W以上，就能硬抗大冲击波之前的所有冲击波。
 
@@ -989,7 +997,7 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 
 **超冬被人开过后怎么处理**
 
-请不要盲目进入轨道可能被秒，前往这里查询你所在的星系，看这3天有没有人被炮塔击毁，如果有显然是炮塔层被开爆了，看情况二。极小可能有人开爆炮塔层后幸存，最保险的方法就是在维护以后再进入。
+请不要盲目进入轨道可能被秒，前往[这里](https://zkillboard.com/)查询你所在的星系，看这3天有没有人被炮塔击毁，如果有显然是炮塔层被开爆了，看情况二。极小可能有人开爆炮塔层后幸存，最保险的方法就是在维护以后再进入。
 
 1.	电厂被人开错了：
       萌新可能会搞错对应盘子的位置，检查一下3个放盘子的盒子，如果名字都为Unaligned那么就是盘子被放错了，小白只能放弃，或者用中白顶着毒云开
@@ -1154,8 +1162,6 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 
 备注：如果追求最极限，可以把那个甲插也换成超空间，把联邦钢板换成深渊的，需要720+甲和-0.2以上的PG即可，然后把货柜扫描换成盾扩，在A护卫V的技能下应该有12050以上的有效。
 
-![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.5-1.png ':size=WIDTHxHEIGHT')
-
 # 8	附录Appendix
 
 ## 8.1	网站 Websites
@@ -1230,7 +1236,7 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 |     Mid-grade Ascendancy Gamma - Epsilon Blueprint     中级统御3-5号 蓝图                                                                                        |     Secure Lab     10m-50m                                 |
 |     High-grade Ascendancy Alpha - Beta Blueprint     Mid-grade Ascendancy Omega Blueprint     高级统御1-2号 蓝图，中级统御6号 蓝图                               |     Secure Databank     10m                                |
 |     High-grade Ascendancy Gamma - Epsilon Blueprint     高级统御3-5号 蓝图                                                                                       |     Secure   Mainframe     30m/130m/600m                   |
-|     High-grade Ascendancy Omega Blueprint     高级统御6号 蓝图                                                                                                   |     Secure   Vault超隐     4000m                           |
+|     High-grade Ascendancy Omega Blueprint     高级统御6号 蓝图                                                                                                   |     Secure   Vault（超隐）    4000m                           |
 |                                                                                                                                                                  |                                                            |
 |     冬眠坟                                                                                                                                                       |                                                            |
 |                冬眠者组件                                                                                                                                        |     请卖给NPC     Jita   2跳Hirtamon                       |
@@ -1389,9 +1395,7 @@ Sisters Core Scanner Probe x24
 
 廉价低配，请看之前‘T2钢板小白’
 
-具体使用说明请看章节7.6.5
-
-![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-6.png ':size=WIDTHxHEIGHT')
+具体使用说明请看[章节7.6.5](https://notwojack.github.io/EVE-Exploration-Guide/#/EVE-Exploration-Guide?id=_765-%e7%bb%88%e6%9e%81%e5%b0%8f%e7%99%bd-the-ultimate-astero)
 
 ## 8.5	伤害数据库 Damage Data Base
 
@@ -1401,12 +1405,12 @@ Sisters Core Scanner Probe x24
 |-------------------|----------------------|-----------|------------|------------|
 |     名称          |     DPS              |           |            |            |
 |                   |     电               |     动    |     热     |     爆     |
-|                   |     Angel            |           |            |            |
+|     Angel              |                 |           |            |            |
 |     Lookout       |                      |     27    |            |     80     |
 |     Sentry        |                      |     35    |            |     103    |
 |     Warden        |                      |     9     |            |     27     |
 |     Watcher       |                      |     49    |            |     145    |
-|                   |     Sanshas          |           |            |            |
+|     Sanshas              |               |           |            |            |
 |     Lookout       |     39+9             |           |     39     |            |
 |     Sentry        |     70+9             |           |     70     |            |
 |     Warden        |     13+9             |           |     13     |            |
@@ -1416,12 +1420,12 @@ Sisters Core Scanner Probe x24
 |     Sentry        |     99               |           |     99     |            |
 |     Warden        |     18               |           |     18     |            |
 |     Watcher       |     71               |           |     71     |            |
-|                   |     Guristas         |           |            |            |
+|     Guristas              |              |           |            |            |
 |     Lookout       |                      |           |     117    |            |
 |     Sentry        |                      |           |     212    |            |
 |     Warden        |                      |           |     39     |            |
 |     Watcher       |                      |           |     151    |            |
-|                   |     Serpentis        |           |            |            |
+|      Serpentis             |             |           |            |            |
 |     Lookout       |                      |     40    |     66     |            |
 |     Sentry        |                      |     72    |     120    |            |
 |     Warden        |                      |     14    |     22     |            |
