@@ -117,7 +117,7 @@
 X = 有可能出现的位置<br>
 
 ### 4.3.1	虫洞 Wormhole
-在这里简要介绍一下虫洞，详细内容请浏览这里（英文）
+在这里简要介绍一下虫洞，详细内容请浏览[这里（英文）](https://wiki.eveuniversity.org/Wormhole)
 <p>虫洞简单理解就是一个可以通向虫洞空间或是其他任意位置的一个星门，虫洞空间分为1-6级，在1-3级洞内会刷普通势力坟，而且数量多于高低安00地区，不要去碰洞内的冬眠坟，有怪容易被秒。虫洞内部本地不显示玩家，意味着你需要时刻使用ALT+D舰载扫描来确认敌人，并做好逃跑准备。
 <p>当你靠近虫洞时能看到它们的名称，如果显示为K162，那么表示这个虫洞是从对面被打开的。 
 <p>破碎洞的识别方法，随便点击一个星球如果显示是破碎的，那么这个洞即为破碎洞，破碎洞内可能会出现任意种类的信号，不受地区限制。
@@ -457,7 +457,7 @@ X = 有可能出现的位置<br>
 
 以下所有操作均基于附录的钢板小白配置，进坟之前可以把值钱的东西都放到移动机库内并保存坐标，不小心爆船了后记得保存残骸坐标，这样还能回收部分值钱的装备。如果你驾驶中白或者T3，参考下方提供的所有数据，你能够发现别的方法。
 
-主要产出请看[附录8.3](/EVE-Exploration-Guide?id=_4-%e5%85%a5%e9%97%a8%e6%8e%a2%e7%b4%a2-basic-exploration)。注意冬眠坟出的东西卖给NPC，打开市场就能查到最近的位置，最好回家之前就顺路卖掉。
+主要产出请看[附录8.3](/EVE-Exploration-Guide?id=_83-%e6%8c%96%e5%9d%9f%e4%ba%a7%e5%87%ba-loot)。注意冬眠坟出的东西卖给NPC，打开市场就能查到最近的位置，最好回家之前就顺路卖掉。
 
 所有进阶坟挖坟流程，[配套视频合集地址](https://www.bilibili.com/video/BV1NW411Z7Cq)
 
@@ -481,7 +481,7 @@ Lesser/Standard/Improved/Superior（虫洞）+ 势力 + Covert Research Facility
 1.	把所有物资包括姐妹会发射器放进移动机库（把甲修覆膜和损控换成爆抗）
 2.	隐身状态下起跳，在总览出现箱子的时候解除隐身，落地正好可以锁定（没有隐秘行动时，跃迁至离坟点最近的点，把飞船朝向坟点，再跃迁）
 3.	观察总览里四个箱子的名称，先靠近（不需要环绕，保持距离2100m）名字不一样的那个箱子，记得开一轮推子
-4.	在靠近的这段时间内，先启用3个爆抗，然后锁定所有的箱子并使用货柜扫描，确定最值钱的那个，请先在‘[挖坟产出]’记下隐秘坟值钱的物品
+4.	在靠近的这段时间内，先启用3个爆抗，然后锁定所有的箱子并使用货柜扫描，确定最值钱的那个，请先在‘[挖坟产出](/EVE-Exploration-Guide?id=_83-挖坟产出-loot)’记下隐秘坟值钱的物品
 5.	破解完成以后，听背景音乐，如果变得急促了请马上离开回到安全点。爆抗小白可以无视这个音乐，直到刷怪
 6.	刷怪以后，爆抗小白必须马上点隐身然后离开，中白这类有效高的船可以把当前的箱子开完再离开
 
@@ -508,7 +508,7 @@ Lesser/Standard/Improved/Superior（虫洞）+ 势力 + Covert Research Facility
 |     Secure Mainframe                        	|                          	|             	|     1        	|     3        	|
 |     Secure Vault                            	|                          	|             	|              	|     1        	|
 |                                             	|                          	|             	|              	|              	|
-|     刷怪数量，种类随机，伤害看[附录8.5]    	|     4                    	|     6       	|     8        	|     10       	|
+|     刷怪数量，种类随机，伤害看[附录8.5](/EVE-Exploration-Guide?id=_85-伤害数据库-damage-data-base)    	|     4                    	|     6       	|     8        	|     10       	|
 
 爆伤计算公式：
 
@@ -522,7 +522,7 @@ Lesser/Standard/Improved/Superior（虫洞）+ 势力 + Covert Research Facility
 
 ## 7.2 气云考古 Gas Sites
 
-部分低安与00区域（看[附录]，热点星系大概率出现气云信号，全星域会小概率出现气云信号，附录之外的其他星域一定找不到气云信号）会出现增效剂对应的气云采集和战斗站点，一般情况下是应该清怪后再开箱子，但是因为箱子不上锁，所以可以做到拉怪去开，主要收益是开出技能书和药丸图。低安的用钢板小白可以不拉怪，直接跳进去开，00区域必须拉怪。
+部分低安与00区域（看[附录](/EVE-Exploration-Guide?id=_86-气云星座-gas-cloud-regions)，热点星系大概率出现气云信号，全星域会小概率出现气云信号，附录之外的其他星域一定找不到气云信号）会出现增效剂对应的气云采集和战斗站点，一般情况下是应该清怪后再开箱子，但是因为箱子不上锁，所以可以做到拉怪去开，主要收益是开出技能书和药丸图。低安的用钢板小白可以不拉怪，直接跳进去开，00区域必须拉怪。
 
 流程视频:
 <iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
@@ -536,13 +536,13 @@ Lesser/Standard/Improved/Superior（虫洞）+ 势力 + Covert Research Facility
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2-1.png ':size=WIDTHxHEIGHT')
 
-Gas Processing Site	
+**Gas Processing Site**	
 
 III级信号
 
 出产技能书，脑插，标准图，普通反应配方，小概率加强图和加强配方
 
-Chemical Lab 
+**Chemical Lab** 
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2-2.png ':size=WIDTHxHEIGHT')
 
@@ -550,7 +550,7 @@ III级信号
 
 出产技能书，脑插，标准图，普通反应配方，小概率加强图和加强配方
 
-Distribution Base
+**Distribution Base**
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2-3.png ':size=WIDTHxHEIGHT')
 
@@ -564,7 +564,7 @@ IV级信号
 
 00区域
 
-Production Facility	
+**Production Facility**	
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2-5.png ':size=WIDTHxHEIGHT')
 
@@ -866,6 +866,7 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 |:------------------------:|:----------:|:-------------------------------:|:-------------------:|
 | Remote Defense Grid Unit | 10km内出现 | 显示1-3个盒子，显示部分地雷位置 | 引爆所有地雷20-25颗 |
 | 3xStorage Depot          |            | 顺利打开                        | 无惩罚              |
+
 **地雷区攻略方法：**
 
 无伤雷区路线（流程视频）：
@@ -908,14 +909,14 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 
 电离室分布着很多残骸，残骸被毒云包裹靠近会造成伤害（全伤4x100/s），可能会出现暴击800伤害，小白不要靠近，直线前往Defense Targeting Augmentation不会碰到废墟毒云。
 
-|     名称                                |     注解    |     成功                                                                         |               |     失败      |
-|-----------------------------------------|-------------|----------------------------------------------------------------------------------|---------------|---------------|
-|     Defense Targeting Augmentation      |             |     大幅降低炮塔的命中率                                                         |               |     刷炮塔    |
-|     3X Cerebrum Maintenance Chambers    |             |     顺利打开                                                                     |               |     刷炮塔    |
-|     4x Impaired Archive Sentry Tower    |             |     出现条件：1.破解失败 2.激活Cerebrum 后     每个炮塔伤害在700左右，12s一轮    |               |               |
-|     Central Archive Cerebrum            |             |     放入3个Intravenous Oscillation Fluid激活     建议先放入另两种物品各3份       |               |               |
-|     10x Storage Depot                   |             |     顺利打开                                                                     |     无惩罚    |               |
-|     3xVessel Rejuvenation Battery       |             |     顺利打开, 刷90s的恢复云，1s修满                                              |     无惩罚    |               |
+|     名称                                |     注解    |     成功                                                                         |                    失败      |
+|-----------------------------------------|-------------|----------------------------------------------------------------------------------|------------------------------|
+|     Defense Targeting Augmentation      |             |     大幅降低炮塔的命中率                                                         |                    刷炮塔    |
+|     3X Cerebrum Maintenance Chambers    |             |     顺利打开                                                                     |                    刷炮塔    |
+|     4x Impaired Archive Sentry Tower    |             |     出现条件：1.破解失败 2.激活Cerebrum 后     每个炮塔伤害在700左右，12s一轮    |                            |
+|     Central Archive Cerebrum            |             |     放入3个Intravenous Oscillation Fluid激活     建议先放入另两种物品各3份       |                              |
+|     10x Storage Depot                   |             |     顺利打开                                                                     |              无惩罚          |
+|     3xVessel Rejuvenation Battery       |             |     顺利打开, 刷90s的恢复云，1s修满                                              |              无惩罚          |
 
 **电离室的机制：**
 
@@ -1052,7 +1053,7 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 
 两种方法都可以清除不需要的结果。
 
-![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.6-2.png ':size=WIDTHxHEIGHT')
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.1-2.png ':size=WIDTHxHEIGHT')
 
 ### 7.6.2	快捷键设置 Shortcut
 
@@ -1088,23 +1089,16 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 上图是我推荐的标准挖坟界面布置图，基于1080p分辨率显示器，如果是768p分辨率可以把左侧的聊天框去掉，并把仪表盘移走。所有的窗口设置完成后，再次打开还会保存在固定的位置。
 
 要点
-1.把锁定目标栏移动到下方的仪表盘上部，找到右图所示的圆点，即可拖动调整位置
-2.把舰扫和探针扫描窗口拿出来，找到右图这个正方形，点击后就会把这个窗口放在主界面上，然后点击边上的pin按钮，将其固定。
-3.把物品选择栏移动到一个位置，使那一排的按钮正好位于锁定栏的上方，破解界面的下方，看前图，方便破解后快速开箱捡取物品。
-
-![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-2.png ':size=WIDTHxHEIGHT')
-
-![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-3.png ':size=WIDTHxHEIGHT')
+1.  把锁定目标栏移动到下方的仪表盘上部，找到右图所示的圆点，即可拖动调整位置![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-2.png ':size=WIDTHxHEIGHT')
+2.  把舰扫和探针扫描窗口拿出来，找到右图这个正方形，点击后就会把这个窗口放在主界面上，然后点击边上的pin按钮，将其固定。![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-3.png ':size=WIDTHxHEIGHT')
+3.  把物品选择栏移动到一个位置，使那一排的按钮正好位于锁定栏的上方，破解界面的下方，看前图，方便破解后快速开箱捡取物品。
 
 **快速捡取箱子设置**
 
-先打开背包，点击左上的小齿轮，勾选右图的这个选项，这样每次点开箱子不会自动打开背包。
+先打开背包，点击左上的小齿轮，勾选右图的这个选项，这样每次点开箱子不会自动打开背包。![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-4.png ':size=WIDTHxHEIGHT')
 
-然后把打开的箱子的界面调整位置到右图所示，并把Loot All 的按钮覆盖在，物品选择栏的‘打开箱子’按钮上，这样就能做到开箱秒拿物品，而且拿完后这个窗口会自动关闭。
+然后把打开的箱子的界面调整位置到右图所示，并把Loot All 的按钮覆盖在，物品选择栏的‘打开箱子’按钮上，这样就能做到开箱秒拿物品，而且拿完后这个窗口会自动关闭。![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-5.png ':size=WIDTHxHEIGHT')
 
-![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-4.png ':size=WIDTHxHEIGHT')
-
-![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-5.png ':size=WIDTHxHEIGHT')
 
 ### 7.6.4	总览设置 Overview
 
@@ -1184,7 +1178,7 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 
 ## 8.2	海盗势力图 Factional Influence Map
 
-![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.2-1.png ':size=WIDTHxHEIGHT')
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.2-1.jpg ':size=WIDTHxHEIGHT')
 
 ## 8.3	挖坟产出 Loot
 
@@ -1282,9 +1276,7 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 
 ## 8.4	推荐配装 Fittings
 
-使用方法：直接复制配装截图左侧的文字，然后在装配界面从剪切板导入配装，探针和纳米材料以及货舱中的装备和脑插请手动购买。
-
-![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-1.png ':size=WIDTHxHEIGHT')
+使用方法：直接复制配装截图左侧的文字，然后在装配界面从剪切板导入配装，探针和纳米材料以及货舱中的装备和脑插请手动购买。![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-1.png ':size=WIDTHxHEIGHT')
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-2.png ':size=WIDTHxHEIGHT')
 
@@ -1405,27 +1397,27 @@ Sisters Core Scanner Probe x24
 |-------------------|----------------------|-----------|------------|------------|
 |     名称          |     DPS              |           |            |            |
 |                   |     电               |     动    |     热     |     爆     |
-|     Angel              |                 |           |            |            |
+|     **Angel**              |                 |           |            |            |
 |     Lookout       |                      |     27    |            |     80     |
 |     Sentry        |                      |     35    |            |     103    |
 |     Warden        |                      |     9     |            |     27     |
 |     Watcher       |                      |     49    |            |     145    |
-|     Sanshas              |               |           |            |            |
+|     **Sanshas**              |               |           |            |            |
 |     Lookout       |     39+9             |           |     39     |            |
 |     Sentry        |     70+9             |           |     70     |            |
 |     Warden        |     13+9             |           |     13     |            |
 |     Watcher       |     50+9             |           |     50     |            |
-|                   |     Blood Raiders    |           |            |            |
+|     **Blood Raiders**               |        |           |            |            |
 |     Lookout       |     54               |           |     54     |            |
 |     Sentry        |     99               |           |     99     |            |
 |     Warden        |     18               |           |     18     |            |
 |     Watcher       |     71               |           |     71     |            |
-|     Guristas              |              |           |            |            |
+|     **Guristas**              |              |           |            |            |
 |     Lookout       |                      |           |     117    |            |
 |     Sentry        |                      |           |     212    |            |
 |     Warden        |                      |           |     39     |            |
 |     Watcher       |                      |           |     151    |            |
-|      Serpentis             |             |           |            |            |
+|     **Serpentis**             |             |           |            |            |
 |     Lookout       |                      |     40    |     66     |            |
 |     Sentry        |                      |     72    |     120    |            |
 |     Warden        |                      |     14    |     22     |            |
@@ -1448,9 +1440,8 @@ Sisters Core Scanner Probe x24
 
 备注：游戏内的炮塔均存在一个BUG，当周围有一个破解过的箱子（箱子或是防御单元之类的），并且炮塔已经锁定你了，此时你跃迁出去，会发现所有炮塔转而开始攻击那个破解过的箱子，且不会转火。
 
-|     环境伤害        |                                    |                                 |                             |                                     |
+|      环境伤害       |     标冬毒雾                       |     超冬电厂     毒云（EM）     |     超冬3层     废墟        |     超冬3层     冲击波              |
 |---------------------|------------------------------------|---------------------------------|-----------------------------|-------------------------------------|
-|                     |     标冬毒雾                       |     超冬电厂     毒云（EM）     |     超冬3层     废墟        |     超冬3层     冲击波              |
 |     伤害，全伤/s    |     扩散前4x100     扩散后4x250    |     稳定前600     稳定后 25     |     4x100     有暴击800     |     普通4x2x300     大4x10250/9s    |
 
 ## 8.6	气云星座 Gas Cloud Regions
