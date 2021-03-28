@@ -13,7 +13,7 @@ All contents are based on Tranquility client and English names are used for accu
 
 The guide contains basic and advanced parts. A new player needs only a few days and low SP for basic exploration. For the advanced parts, about one and a half months and more than 2.5m SP would be needed.
 
-If you are a new player, please finish the Career Paths for learning the EVE gaming mechanics (referred to the other guides) before you read the following contents.
+If you are a new player, please finish the Career Paths for learning the EVE gaming mechanics \(referred to the other guides) before you read the following contents.
 
 # 2 Introduction
 
@@ -23,7 +23,7 @@ Fly between systems, fight with the pirates of the whole universe, experience th
 
 We are neutral and do not have any ingame organization. Our only purpose is to help new players integrate better and faster into the game. 
 
-Communication group (QQ): 226771995
+Communication group \(QQ): 226771995
 
 # 3 Quick Guide
 
@@ -33,7 +33,7 @@ Communication group (QQ): 226771995
 
 2.	If you didn't train any skills in the category “Scanning”, the suggestion is \(buying one Large Skill Injector, but only if possible) training all 7 skills in this category to III, and also another skill to III——\[Empire Faction] Frigate.
 
-3.	Buy an \[Empire Faction] Frigate (Suggestion: Heron) and fit it with [the recommended fit——Heron, Newbie exploration](Heron配置链接). Now you should have 75+ probe strength and you can begin exploring.
+3.	Buy an \[Empire Faction] Frigate \(Suggestion: Heron) and fit it with [the recommended fit——Heron, Newbie exploration](Heron配置链接). Now you should have 75+ probe strength and you can begin exploring.
 
 **Terminal stage**
     
@@ -436,3 +436,76 @@ Normally, newbies don’t have enough Scan Strength, so two or more T1 Gravity C
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.1-6.png)
 
 ## 6.2 Tips & Tricks
+
+**Cloak trick by 784 fvtr**
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.2-1.png)
+
+After jumping through a stargate, double-click anywhere in space \(e.g. arrow 1). Pay attention to the cloak icon in the top left corner if it disappears \(the arrow 2). Once the cloak icon has disappeared, Cloaking Device shall be activated immediately \(e.g. arrow 3) and then activate the MWD \(e.g. arrow 4). When the process above is completed, double-click elsewhere in space.
+<br>\(70% of the current max speed and the aligning are the requirements for entering warp. The right time point for warping shall be decided by your own intuition.)
+
+Advance
+
+1.	There are three kinds of cloak tricks. The first one is the text above and it is the basic one.
+2.	The second kind of cloak trick is similar to the first one. The nuance is, that MWD is first activated and then the cloaking device.
+3.	The third kind of cloak trick. First align to a moon, then activate MWD, after that activate the cloaking device. Wait until the MWD circle is about at 3/4, then decloak and warp to 0m of the moon.
+4.	Any object within 2000m will prevent ships from cloaking and cause cloaked ships to decloak.
+5.	The first and second kinds of cloak tricks could be used for gate camp in Nullsec \(e.g. case 1). The first one shall be chosen when the internet connection is not good. Otherwise, the second one shall be chosen. The third one could be used in a case without any bubble \(e.g. case 2).
+6.	In case 1, after completing the cloak trick successfully, decloaking is not suggested when the hostile ships are not leaving. You shall leave the bubble first and have at least 45km+ distance to the hostile ships, then align first, and at the end decloak and warp away.
+
+**How to use D-scan**
+
+Clicking this icon![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.2-2.png ':size=WIDTHxHEIGHT')on the D-scan window<br>could show the current D-scan area. Clicking the default shortcut D could scan and show all uncloaked objects in the range. The approximate location of the hostiles could be found out by d-scanning repeatedly with different angles and ranges.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.2-3.png)
+
+**Safe spots / Deep safes**
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.2-4.png ':size=WIDTHxHEIGHT')
+
+Warp to a planet, save the location with Ctrl+B while warping \(e.g. the red dot).
+PS: The location of the saved bookmark is determined when "Submit" is clicked, so get ready beforehand.
+The safe spots got by the method above are mostly near the center of the system, so they are probably still in the enemy Dscan range. A deep space spot would be safer. When you find a site or wormhole on the outside of the system, it could be a good deep space spot and shall be saved. In the terminal stage you should have at least one deep space spot per system in the area where you explore often.
+Tactical bookmarks near the stargates are also necessary, especially for the systems, where the distance between the stargates are >14.3AU. In such a system you can not dscan immediately the enemies camping at another stargate after jumping. A tactical bookmark 150km+ away from the stargate is suggested.
+
+## 6.3 Escape
+
+The operations in the following three cases are all based on T1 frig with a Cloaking Device. It would be easier for Astero. <p>
+Before entering the dangerous zones, you could first store the things with high value in an NPC station. In Personal Assets in Neocom you could find where these things are.
+
+**Before jumping**
+
+When you worry about a bubble or someone waiting at the gate, you should first warp to somewhere in 14.3AU from the gate, so that you could dscan the gate. If there is any bubble or many ships there \(>5), trying to warp to there for approaching the gate and jumping is not suggested \(always take some Jump Filaments). If there are only a few ships \(1-2), trying to jump is worth.
+
+**After jumping**
+
+Don’t be nervous if you are in a bubble. Now you are cloaked for 60s. Switch to the tactical camera and find out where are the ships and where is open. Align \(double click) to where is open and activate the MWD and cloaking device at the same time \(hotkeys are better than the mouse). Hopefully, you get out of the bubble after the only cycle of MWD. Now you can jump, or wait for a while and watch what the hostile ships are going to do.
+Or you don’t try to warp, but approach the gate (overload and activate the MWD).
+If there are only a few ships, you could use [the third operation of the cloak trick](对应链接).
+If there is any Interdictor, the method is the same as above.
+
+**In the system**
+
+Check the local before exploring. If there is someone else in the local, dscan the sites first. If only dscan cannot judge the danger, you could warp first to 70km and explore, after confirming that nobody is waiting there. Check the local all the time when you are exploring \(switch to PVP/警戒, adjust the UI of the Overview so that you can check it all the time. Dscan every 15s. If the align time of your ship is lower than 4s, you don’t have to dscan, but you still need to check the overview.) If any ship shows up, warp immediately to your safe spot and cloak.
+
+**Reacted too slowly**
+
+When the hostile is already in 30km and is locking you, align to the opposite and cloak immediately \(make sure nothing is in 2km). Now use [the third operation of the cloak trick](对应链接), activate the MWD and the cloaking device at the same time \(the enemy will lose you). But you need to align and be ready for warping before the 3/4 of the only cycle of MWD.
+
+**Worst case**
+
+When the hostile is already on you \(in 2km) and you can even not make the cloak trick. Overload the MWD and align to the opposite. Try to activate the Cloaking Device. If you make it, operate the same as above. If you are locked and tackled by disruptor and webbed, you still stand a chance of holding the damage and getting out of the range. Warp immediately when it is possible.
+If you are tackled by scrambler, engage the hostile with your ECM drones and hope they will work. Don’t give up trying to warp. At least you can save your pod.
+
+**Introduction of the equipment**  
+
+![logo](https://wiki.eveuniversity.org/images/3/35/Icon_warp_disruptor_i.png ':size=WIDTHxHEIGHT')
+**Warp Disruptor:** The warpcore disabling strength for the disruptors is 1 point. Disruptors can prevent you from warping but cannot shut down your MWD. T2 Disruptor has 24km basic range \(overloaded 28km). It’s not hard to escape while being tackled by it. Overload the MWD, align to the opposite, and warp immediately when it’s possible. 
+
+![logo](https://wiki.eveuniversity.org/images/b/b3/Icon_warp_scrambler_i.png ':size=WIDTHxHEIGHT')
+**Warp Scrambler:** The warpcore disabling strength for the scramblers is 2 points \(faction modules have 3 points). Scramblers can prevent warping and shut down the MWD. T2 Scrambler has 9km basic range \(overloaded 10.8km). For an Astero with MWD, being scrambled means normally a new KM.
+However, if your ship has Warp Core Stabilizers \(normally 2-3, at least 2), warping being tackled is possible, but only when your warp core strengths are more than disabling strengths. The Stabilizer decreases a lot of lock range, which decreases your efficiency of exploration. And it cannot protect the MWD from the Scrambler.
+
+![logo](https://wiki.eveuniversity.org/images/2/27/Icon_stasis_webifier_i.png ':size=WIDTHxHEIGHT')
+**Stasis Webifier:** The T2 version decreases 60% of the max speed \(10km range, 13km when overheated). Normally, an Astero has only less than 200m/s speed when it’s webbed and scrambled.
+Normally a Sabre would use 200mm/220mm/280mm Projectile Turrets. So try to hang on in their optimal range and run away from them, but it is hard to survive if you have already been tackled. Your ship is possibly destroyed after two cycles of their turrets. However, if you have ECM drones, the possibility of surviving is bigger though it is hard to ECM a ship with ECM drones.
