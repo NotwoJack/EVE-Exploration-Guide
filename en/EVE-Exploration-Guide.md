@@ -475,7 +475,7 @@ Before entering the dangerous zones, you could first store the things with high 
 
 **Before jumping**
 
-When you worry about a bubble or someone waiting at the gate, you should first warp to somewhere in 14.3AU from the gate, so that you could dscan the gate. If there is any bubble or many ships there \(>5), trying to warp to there for approaching the gate and jumping is not suggested \(always take some Jump Filaments). If there are only a few ships \(1-2), trying to jump is worth.
+When you worry about a bubble or someone waiting at the gate, you should first warp to somewhere in 14.3AU from the gate, so that you could dscan the gate. If there is any bubble or many ships there \(>5), trying to warp to there for approaching the gate and jumping is not suggested. If there are only a few ships \(1-2), trying to jump is worth.
 
 **After jumping**
 
@@ -509,3 +509,61 @@ However, if your ship has Warp Core Stabilizers \(normally 2-3, at least 2), war
 ![logo](https://wiki.eveuniversity.org/images/2/27/Icon_stasis_webifier_i.png ':size=WIDTHxHEIGHT')
 **Stasis Webifier:** The T2 version decreases 60% of the max speed \(10km range, 13km when overheated). Normally, an Astero has only less than 200m/s speed when it’s webbed and scrambled.
 Normally a Sabre would use 200mm/220mm/280mm Projectile Turrets. So try to hang on in their optimal range and run away from them, but it is hard to survive if you have already been tackled. Your ship is possibly destroyed after two cycles of their turrets. However, if you have ECM drones, the possibility of surviving is bigger though it is hard to ECM a ship with ECM drones.
+
+# 7 Advance
+
+All the following operations are based on the fit [T2 Steel Plates Astero](对应链接) in the Appendix. The valuable things could be stored in a Mobile Depot before the exploration in the advanced sites. Remember to save the location of the wreck after a loss, so that some valuable things could still be looted back. If you are using Stratios or T3C, refer to the data below and other ways could be found. For the main loot pls read [Loot](对应链接). Sell those blue loots from the Sleeper Caches to the NPC. In the ingame market, the nearest NPC order could be found. Sell them at best on the way home directly.
+All videos for the advanced sites: [Here](https://www.bilibili.com/video/BV1NW411Z7Cq)
+
+## 7.1 Ghost Sites
+
+There are 4 kinds of ghost sites, all of them are level III Data Sites. Expect in the eight drone regions, they are level I Combat Sites. The superior Ghost Site only exists in WH space.
+Lesser/Standard/Improved/Superior + Faction + Covert Research Facility
+There are four cans in total and are arranged as a square or a half-circle. There is a hidden timer from 60 to 240s \(time is random), which starts when “warp” is clicked. The timer will not start if you warp cloaked, but the recalibration for locking lasts at least 5s. So you should estimate the time and decloak before landing..
+When the timer ends, the NPC ships will warp into the site and tackle you absolutely. When the background music becomes hurried, the timer left is less than 30s. In the hacking minigame, there is no background music. In the improved and superior ghost sites, there are no background music changes as the cue.
+The can will explode and cause explosion damage when it gets any damage or the first hacking fails. In more difficult Ghost Sites, the cans also cause higher damage. For tanking the can explosion, high explosion resistance and enough EHP are needed. Except for the cans in superior, the others don’t have hard hacking minigames \(basically with green/yellow system core). A T2 data analyzer is suggested. The Ghost Sites are dangerous so the newbies shall use a cheap hull and fit \(e.g. Heron) and store the expensive stuff somewhere safe \(e.g. in the Mobile Depot).
+
+Online video:
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&page=6" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
+
+Attention: Warp while hacking a can is counted as the hacking is failed and then triggers the explosion of the can you were hacking. Do not orbit while your propulsion module is on, because the ship could fly out of the range of the analyzer \(6000m) and the hacking is also failed.
+
+1.	Put everything else into the Mobile Depot \(included the SOE launcher)\(and refit the low slot with three armor explosive hardeners and one 200mm Steel Plates).
+2.	Warp cloaked, decloak when the cans appear on the overview so that they could be locked immediately on contact \(Without Covert Ops Cloaking Device: warp first to the nearest location to the ghost site, align to it and then warp)
+3.	Find out the can with a different name from four and approach it first \(don’t need to orbit, keep distance 2100m). Turn on the propulsion module for one cycle.
+4.	While you are approaching, turn on the three explosive hardeners, lock all cans, scan them with cargo scanners and confirm the most valuable one. Pls first remember the [valuable loots](对应链接) in the ghost sites.
+5.	After the hacking, listen to the background music, once it becomes hurried then leave immediately. The Astero with explosive hardener can ignore this music until the NPC ships appear on the overview.
+6.	Once the NPC ships appear, the explosive hardener Astero must cloak and leave immediately. A ship with high EHP like Stratios could leave after finishing the current can.
+
+You have about 8s to warp out after the rats have shown on the Overview. Generally, the box will explode after 15s rats landed, and rats will warp out after 30s they landed.
+
+Tips：
+1.	An Astero refitted with 3x Explosive Armor Hardener II in low slot will be able to tank once can explosion from an Improved Ghost Site. When rats show up on the grid, cloak first and then warp out. 
+2.	You could launch a drone. The NPC ships would first fire on the drone so that you could have a little bit more time.
+3.	You could warp to within 10km and would be nearer to a can.
+
+**Ghost Sites datasheet**
+
+|                                    |Lesser |Standard|Improved|Superior|
+|:----------------------------------:|:-----:|:------:|:------:|:------:|
+|                                    |       |        |        |        |
+|**Region**                          |Highsec|Lowsec  |Nullsec |WH      |
+|                                    |       |        |        |        |
+|**Explosive damage \(radius 10km)** |6000   |8000    |10000   |12000   |
+|                                    |       |        |        |        |
+|**The types of the cans and number**|Loot: [Appendix 8.3](对应链接)| | | |
+|Secure Depot                        |3      |        |        |        |
+|Secure Lab                          |1      |3       |        |        |
+|Secure Databank                     |       |1       |3       |        |
+|Secure Mainframe                    |       |        |1       |3       |
+|Secure Vault                        |       |        |        |1       |
+|                                    |       |        |        |        |
+|**Rats' number, the type is random**<br>Damage: [Appendix 8.5](对应链接)| 4 | 6 | 8 | 10 |
+
+Can explosion damage formula：
+Real damage = Can explosion damage X \(1 - explosion resistance)
+Exp.：A can in Improved explodes and the ship is an Astero with 88% explosion resistance from armor
+Received damage = 10000 X（1 - 0.88）= 1200
+It means if the astero has more than 1200 armor, then it won't be destroyed by the explosion. \(Shield and Structure could also be counted in.)
+
+## 7.2 Gas Sites
