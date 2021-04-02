@@ -528,6 +528,8 @@ Online video:
 
 Attention: Warp while hacking a can is counted as the hacking is failed and then triggers the explosion of the can you were hacking. Do not orbit while your propulsion module is on, because the ship could fly out of the range of the analyzer \(6000m) and the hacking is also failed.
 
+**The concrete process**
+
 1.	Put everything else into the Mobile Depot \(included the SOE launcher)\(and refit the low slot with three armor explosive hardeners and one 200mm Steel Plates).
 2.	Warp cloaked, decloak when the cans appear on the overview so that they could be locked immediately on contact \(Without Covert Ops Cloaking Device: warp first to the nearest location to the ghost site, align to it and then warp)
 3.	Find out the can with a different name from four and approach it first \(don’t need to orbit, keep distance 2100m). Turn on the propulsion module for one cycle.
@@ -567,3 +569,109 @@ Received damage = 10000 X（1 - 0.88）= 1200
 It means if the astero has more than 1200 armor, then it won't be destroyed by the explosion. \(Shield and Structure could also be counted in.)
 
 ## 7.2 Gas Sites
+
+In some Regions from Lowsec and Nullsec \(Read [Appendix](对应链接). In the hot-spot Constellations, there is a high possibility that the Gas Sites appear. The possibility of the appearance in the whole Region is lower. In the other Regions, the gas sites will never appear.), the Gas Sites with the region-specific type of nebula and Combat Gas Sites will appear.
+Normally the NPC ships should be cleaned first before hacking any can, but the cans are not locked \(which means they could be hacked without destroying all NPC ships there), so if the NPC ships are drawn away, hacking cans directly is possible. The main income is from the Skill Books and BPC of Boosters. In Lowsec, the NPC ships do not always have to be drawn away, if you explore with [T2 Steel Plates Astero](对应链接). Just warp in and hack the cans. In Nullsec the NPC ships have to be drawn away.
+
+Online video:
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
+
+**The concrete process**
+
+1.	Warp to 0m, save the location when about 2000-8000km distance left.
+2.	After warping, scan and mark the valuable cans. \(In Nullsec, align immediately to the saved bookmark in 1 after warping, then scan and mark the cans and draw the NPC ships >40km away from the cans.)
+3.	Warp to the saved bookmark in 1, wait until your armor is fully repaired. Now warp again to the can \(0m) and begin hacking.
+4.	Repeat 3, until all marked cans are hacked.
+
+**Lowsec:**
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2-1.png ':size=WIDTHxHEIGHT')
+
+Gas Processing Site	
+
+Level III cosmic signature
+
+Loot: Skill Books, Implants, Standard Booster BPC, and Reaction Formula \(small possibility: Improved Booster BPC and Reaction Formula) 
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2-2.png ':size=WIDTHxHEIGHT')
+
+Chemical Lab
+
+Level III cosmic signature
+
+Loot: Skill books, Implants, Standard Booster BPC, and Reaction Formula \(small possibility: Improved BPC and Reaction Formula)
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2-3.png ':size=WIDTHxHEIGHT')
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2-4.png ':size=WIDTHxHEIGHT')
+
+Distribution Base
+
+Level IV cosmic signature
+
+3-9 cans inside. When cloaked, some of them are hidden.
+In this signature, the cans are all located near the structures, so it is easy to get stuck in the structure and get destroyed. Because of this, adjust your position first after landing. Then orbit 500m and begin hacking after you confirmed that you won’t be stuck there.
+Sometimes two Industrials could appear inside the signature, they may drop BPC. \(They could be scanned with cargo scanner.)
+
+Loot: Skill Books, Implants, Standard/Improved Booster BPC, and Reaction Formula \(small possibility: Strong BPC and Reaction Formula)
+
+**Nullsec:**
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2-5.png ':size=WIDTHxHEIGHT')
+
+Production Facility	
+
+Level IV cosmic signature \(could be a combat sig)
+
+3-9 cans inside. Two neut towers inside \(50km range). An Astero would lose immediately all cap and NPC elite frigs would tackle, so always draw the NPC ships first away. \(Cycle the prop module and draw them >50km away from the cans.)
+Sometimes a boss with a unique name could appear \(cruiser or battleship), may drop BPC with 50-200 runs. \(Some could be scanned by cargo scanner, some not because they are immune to EWAR.)
+
+Digital "Site"
+
+Level III/IV cosmic signature \(could be a combat sig)
+
+A combat gas site with the name beginning with "Digital", which includes many cans and acceleration gates. The difficulty of them is about the same as 6/10, a Gila could clear the whole site.
+There is a detailed introduction about them in 7.2.1.
+
+The Level III nebulas and combat gas sites will disappear in 1 hour after any can inside has been hacked. But the Level IV combat gas sites could exist for three days. All cans inside would be refreshed after DT, so they could be farmed. Scan and save their locations before DT and explore them after DT immediately. It is an easy way to earn ISK for the new players, but some luck is also important. Looking for the skill books in the whole region but finding nothing at the end is possible.
+
+### 7.2.1 Combat Gas Sites
+
+Combat Gas Sites' names and regions
+
+|Name                |Region            |
+|:------------------:|:----------------:|
+|Digital Matrix      |Feythabolis       |
+|Digital Network     |Wicked Creek      |
+|Digital Complex     |Delve             |
+|Digital Plexus      |Vale of the Silent|
+|Digital Convolution |Tenal             |
+|Digital Circuitry   |Catch             |
+|Digital Compound    |Fountain          |
+|Digital Tessellation|Cloud Ring        |
+
+The structures of the “Digital” sites in different regions are similar. Here is an example of Digital Convolution in Tenal. This introduction is about how to explore the “Digital” sites with an Astero. Thank EVO 3016 and 784 fvtr for the information.
+The difficulty is about the same as 6/10. A Gila could clear the whole site and T3C could finish the site without clearing it.
+
+**1st pocket**
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2.1-1.png ':size=WIDTHxHEIGHT')
+
+After taking the acceleration gate, there are two gates in the 1st pocket. The gate on the left side leads to the 2nd pocket and the another one on the right side leads to the 3rd pocket. The loots in the 2nd pocket are the skill books. The loots in the 3rd pocket are the standard booster BPCs. Just cycle the prop module and approach the gate to the 2nd pocket. If you are afraid of being destroyed, you could activate the prop module and cloak, then approach patiently. Watch out the entities, align once somewhere else first for avoiding them before approaching the gate.
+
+**2nd pocket**
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2.1-2.png ':size=WIDTHxHEIGHT')
+
+After landing, orbit the cans inside the red circle and scan them quickly. On the left and the right side of the circle, there are two cans. There are NPC ships protecting them and would fire on you if you hack them (DPS about the same as the Gas Sites in LS.) Watch out the Local because the NPC reinforcements may appear (4 tackle frigs and 4 battlecruisers). Astero could destroy the frigs with drones but needs to warp out of the site and come back, then only four battlecruisers would fire on you. The gate to the 3rd pocket could be ignored. Instead of it, going to the 3rd pocket with the gate in the 1st pocket is suggested.
+If the site is in an area of Blue Pill or Exile or Mindflood, exploring the 3rd pocket is meaningful. In other areas, exploring the 1st and 2nd pockets is enough.
+
+**3rd pocket**
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2.1-3.png ':size=WIDTHxHEIGHT')
+
+After landing you would see many NPC ships near you. Cycle your prop module and align to the opposite immediately. The frigs in this pocket also have tackle modules. Draw most NPC ships >30km away from the landing point, then warp out of the site and come back. Cycle the prop module and approach the cans. Scan them first and hack them. If the site is in an area of Blue Pill or Exile or Mindflood, going to the 4th pocket is suggested (Strong booster BPC mostly appear in loot.), but activating the gate to the 4th pocket needs you to destroy all NPC ships in 3rd pocket first. The amount of NPC ships in the 4th pocket is similar to 3rd pocket. There are also frigs with tackle modules.
+
+PS: The cosmic signature disappears after I have had hacked the cans for one hour.  The destroyed NPC ships will not be refreshed before DT, so it could be farmed.
+
+## 7.3 Limited Sleeper Caches
