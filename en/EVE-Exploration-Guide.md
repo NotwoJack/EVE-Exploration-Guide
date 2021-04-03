@@ -675,3 +675,22 @@ After landing you would see many NPC ships near you. Cycle your prop module and 
 PS: The cosmic signature disappears after I have had hacked the cans for one hour.  The destroyed NPC ships will not be refreshed before DT, so it could be farmed.
 
 ## 7.3 Limited Sleeper Caches
+
+Limited Sleeper Cache is a level IV Data Site. It needs 85+ Probe strength and most hacking minigames are red-difficulty. The loot value is around 20m. Only the frigate class ships could enter the site. The whole site is not very hard.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.3-1.png ':size=WIDTHxHEIGHT')
+
+The image above is a planform of Limited Sleeper Caches. The green and yellow clouds would damage the ship (100DPS with 0% resistance). The force field at the bottom left stops your ship from approaching the cans.
+
+|Name                        |Note         |Success                                              |Failure                                                |
+|:---------------------------|:------------|:----------------------------------------------------|:------------------------------------------------------|
+|Remote Defense Grid Unit    |In the middle|Close the force field                                |1. Nothing happens <br> 2. Explode and deal 1225 damage|
+|Remote Pressure Control Unit|Beside you   |Shut down the damage of the yellow cloud for 2-3 mins|Deal 200 damage                                        |
+|2x Unstable Plasma Chambers |It looks like a jar. Could explode and deal 500 damage if you approach them 7-10 km at high speed (>100m/s). Spawn a new cloud after exploding.| | |
+
+Online video:
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
+
+Just be careful.
+
+## 7.4 Standard Sleeper Caches
