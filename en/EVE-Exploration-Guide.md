@@ -663,34 +663,196 @@ After taking the acceleration gate, there are two gates in the 1st pocket. The g
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2.1-2.png ':size=WIDTHxHEIGHT')
 
-After landing, orbit the cans inside the red circle and scan them quickly. On the left and the right side of the circle, there are two cans. There are NPC ships protecting them and would fire on you if you hack them (DPS about the same as the Gas Sites in LS.) Watch out the Local because the NPC reinforcements may appear (4 tackle frigs and 4 battlecruisers). Astero could destroy the frigs with drones but needs to warp out of the site and come back, then only four battlecruisers would fire on you. The gate to the 3rd pocket could be ignored. Instead of it, going to the 3rd pocket with the gate in the 1st pocket is suggested.
+After landing, orbit the cans inside the red circle and scan them quickly. On the left and the right side of the circle, there are two cans. There are NPC ships protecting them and would fire on you if you hack them \(DPS about the same as the Gas Sites in LS.) Watch out the Local because the NPC reinforcements may appear \(4 tackle frigs and 4 battlecruisers). Astero could destroy the frigs with drones but needs to warp out of the site and come back, then only four battlecruisers would fire on you. The gate to the 3rd pocket could be ignored. Instead of it, going to the 3rd pocket with the gate in the 1st pocket is suggested.
 If the site is in an area of Blue Pill or Exile or Mindflood, exploring the 3rd pocket is meaningful. In other areas, exploring the 1st and 2nd pockets is enough.
 
 **3rd pocket**
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2.1-3.png ':size=WIDTHxHEIGHT')
 
-After landing you would see many NPC ships near you. Cycle your prop module and align to the opposite immediately. The frigs in this pocket also have tackle modules. Draw most NPC ships >30km away from the landing point, then warp out of the site and come back. Cycle the prop module and approach the cans. Scan them first and hack them. If the site is in an area of Blue Pill or Exile or Mindflood, going to the 4th pocket is suggested (Strong booster BPC mostly appear in loot.), but activating the gate to the 4th pocket needs you to destroy all NPC ships in 3rd pocket first. The amount of NPC ships in the 4th pocket is similar to 3rd pocket. There are also frigs with tackle modules.
+After landing you would see many NPC ships near you. Cycle your prop module and align to the opposite immediately. The frigs in this pocket also have tackle modules. Draw most NPC ships >30km away from the landing point, then warp out of the site and come back. Cycle the prop module and approach the cans. Scan them first and hack them. If the site is in an area of Blue Pill or Exile or Mindflood, going to the 4th pocket is suggested \(Strong booster BPC mostly appear in loot.), but activating the gate to the 4th pocket needs you to destroy all NPC ships in 3rd pocket first. The amount of NPC ships in the 4th pocket is similar to 3rd pocket. There are also frigs with tackle modules.
 
-PS: The cosmic signature disappears after I have had hacked the cans for one hour.  The destroyed NPC ships will not be refreshed before DT, so it could be farmed.
+PS: The cosmic signature disappears after I have had hacked the cans for one hour. The destroyed NPC ships will not be refreshed before DT, so it could be farmed.
 
-## 7.3 Limited Sleeper Caches
+## 7.3 Limited Sleeper Cache
 
-Limited Sleeper Cache is a level IV Data Site. It needs 85+ Probe strength and most hacking minigames are red-difficulty. The loot value is around 20m. Only the frigate class ships could enter the site. The whole site is not very hard.
+Limited Sleeper Cache is a level IV Data Site. It needs 85+ Probe strength and most hacking minigames inside are red-difficulty. The loot value is around 20m. Only the frigate class ships could enter the site. The whole site is not very hard.
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.3-1.png ':size=WIDTHxHEIGHT')
 
-The image above is a planform of Limited Sleeper Caches. The green and yellow clouds would damage the ship (100DPS with 0% resistance). The force field at the bottom left stops your ship from approaching the cans.
+The image above is a planform of a Limited Sleeper Cache. The green and yellow clouds would damage the ship \(100DPS with 0% resistance). The force field at the bottom left stops your ship from approaching the cans.
 
 |Name                        |Note         |Success                                              |Failure                                                |
 |:---------------------------|:------------|:----------------------------------------------------|:------------------------------------------------------|
 |Remote Defense Grid Unit    |In the middle|Close the force field                                |1. Nothing happens <br> 2. Explode and deal 1225 damage|
 |Remote Pressure Control Unit|Beside you   |Shut down the damage of the yellow cloud for 2-3 mins|Deal 200 damage                                        |
-|2x Unstable Plasma Chambers |It looks like a jar. Could explode and deal 500 damage if you approach them 7-10 km at high speed (>100m/s). Spawn a new cloud after exploding.| | |
+|2x Unstable Plasma Chambers |It looks like a jar. Could explode and deal 500 damage if you approach them 7-10 km at high speed \(>100m/s). Spawn a new cloud after exploding.| | |
 
 Online video:
 <iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
 
 Just be careful.
 
-## 7.4 Standard Sleeper Caches
+## 7.4 Standard Sleeper Cache
+
+Standard Sleeper Cache is a level IV Data Site. It needs 95+ probe strength and has about 60m-200m loot value. Most hacking minigames are red-difficulty. Except the cans with loot inside, the other containers need data analyzer. T2 analyzers are suggested. How to deal with an explored Standard Sleeper Cache would be introduced at the end of this chapter.
+
+### 7.4.1 Basic Guide
+
+Online video:
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
+
+1.	Hack the Hyperfluct Generator, and scan the three cans after warping. Hack and take the things in them \(except the furthest can) if the loot inside are valuable. Then hack the Remote Defense Grid Unit, a Sentry Tower would be moved.
+
+2.	Hack those three Coordinate Plotting Devices. Put the Calibration Coordinates into Remote Calibration Device - High Power. Activate the Rift and warp to the Sleeper Enclave area.
+
+3.	After landing, orbit and hack the Remote Defense Grid Unit nearby. After hacking successfully, launch the drones and destroy the Sentry Tower. Then hack the cans.
+
+4.	Save your location now, then warp out of the site and come back to the Logistic area. Hack the the furthest can called Mangled Storage Depot, then hack the new spawned Defense Alarm Unit near it.
+    > If succeed: Hack the new spawned Pristine Storage Depot and go to the Tractor Beam area.
+    > If fail: Cycle your prop module and align vertically downwards until 120km distance, where the Guardian does not exist. Then go to the Rift near the Immobile Tractor Beam while avoiding the Guardian and enter the 2nd pocket. \(Jump to step 6)
+
+5.	Approach the Sentry Tower in the Tractor Beam area manually with enough angular velocity and destroy it with the drones. Hack the Remote Defense Grid Unit and fail the hacking minigame manually until the Guardian is activated. Align vertically downwards and cycle your prop module until 80km distance. Enter the 2nd pocket after the Rift appears.
+
+6.	After arriving at the 2nd pocket, approach the Beacon until the Remote Defense Grid Unit \(10km away) appears. Hack it and scan the four cans spawned. Hack the two most valuable cans first, then hack the Self-Destruct Unit. After hacking this Unit successfully, go on hacking the other two cans.
+
+### 7.4.2 Sections Introduction
+
+**Pls read it carefully with the Basic Guide together.**
+
+**Entry**
+Hyperfluct Generator
+Requirement: Data Analyzer
+Success: the Rift appears
+Failure: 2mins long timer. If the Generator is still not being hacked successfully before the timer ends, it will self destruct \(without damage).
+
+Before entering the 1st pocket, the alarm mechanism is first introduced here.
+**Alarm level:** One alarm level would be raised by once failure from hacking. There are five levels in total and at every level the Guardian could appear. At level 5 the Guardian will always appear.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.4.2-1.png ':size=WIDTHxHEIGHT')
+
+**Guardian:** Not NPC ships, but a kind of cloud with AOE damage. Before the appearance, it would be indicated in the local channel. Once the 30s long timer begins \(the red text in the image above), cycle your prop module and align vertically downwards immediately. At first the range of Guardian is only 30km, after 30s it will spread out until about 70km \(DPS before spreading: 400/s, 100 per damage type) \(DPS after spreading: 1000/s, 250 per damage type). Attacking the structure Sleeper Enclave would trigger the 30s alarm immediately. After the appearance of the Guardian \(with any method), the Rift to the second pocket would appear at the Tractor Beam. And the entrance location of the first pocket would be moved to another beacon, which is outside of the Guardian and near that new Rift.
+
+**1st pocket**
+three areas: 1. Logistic area	2. Tractor Beam area	3. Sleeper Enclave area
+ 
+**Logistic area**
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.4.2-2.png ':size=WIDTHxHEIGHT')
+
+Red circle: three Coordinate Plotting Devices
+Blue circle: Remote Calibration Device - High/Low Power
+The furthest can at the bottom right is Mangled Storage Depot.
+
+|Name                                  |Note|Success|Failure|
+|:-------------------------------------|:---|:------|:------|
+|Mangled Storage Depot                 | At the bottom right \(on the image) <br> Suggestion: hack it before going to the second pocket | A Defense Alarm Unit spawns. It must be hacked successfully in 1min, or the Guardian will appear. After hacking this Depot, the calibrated Rift is no longer able to be used. | Nothing |
+|Defense Alarm Unit                    | 1min long timer | A new Depot spawns.|Trigger the alarm and the Guardian |
+|Mangled Storage Depot                 |    | Is able to be opened | Nothing |
+|Dented Storage Depot                  |    | The cosmic sig disappears. After leaving the site or cloaking in it for 2mins, the site will disappear. | Nothing |
+|Remote Defense Grid Unit              |    | A Sentry Tower in Sleeper Enclave area would be closed and another one in Tractor Beam area would be activated. | Raise one alarm level |
+|3x Coordinate Plotting Devices        | Coordinate cans. Don’t need to open it after hacking them successfully. | ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.4.2-3.png ':size=WIDTHxHEIGHT') | Could raise one alarm level |
+|Remote Calibration Device - Low Power | Open and put three coordinates into it | Calibrate the Rift to the Tractor Beam area| |
+|Remote Calibration Device - High Power| Open and put three coordinates into it \(suggested) | Calibrate the Rift to the Sleeper Enclave area | |
+
+**Sleeper Enclave area**
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.4.2-4.png ':size=WIDTHxHEIGHT')
+
+This area could be arrived by activating the Calibrated Long Rift. The locked target in the image is the Remote Defense Grid Unit which is going to be hacked. The Sentry Tower further away shall be destroyed. The hidden cans are on the right side.
+
+|Name                                         |Note|Success|Failure|
+|:--------------------------------------------|:---|:------|:------|
+|Remote Defense Grid Unit                     | Orbit on contact and hack it. | Close the Sentry Tower on the left side and activate the Tower in the Tractor Beam area. | Raise one alarm level |
+|3x \(Restless/Vigilant/Wakeful) Sentry Towers| They could hardly hit your ship. After closing one of them, cycle your prop module and approach the further one with enough angular velocity, then orbit and destroy it. | | |
+|6x Storage Depots                            | Appear after approaching | Is able to be opened | Nothing |
+
+**Tractor Beam area**
+
+The Rift to the 2nd pocket would appear nearby.
+If you get here with the Spatial Rift, a Sentry Tower nearby would be activated.
+
+|Name                    |Note|Success|Failure|
+|:-----------------------|:---|:------|:------|
+|Remote Defense Grid Unit|    | Close the Sentry Tower nearby | Raise one alarm level |
+|Restless Sentry Tower   | Proximity would trigger it. | | |
+|Tractor Beam Unit       |    | Pull the hidden Depots in the Sleeper Enclave area | Nothing |
+
+**2nd pocket**
+
+The self-destruction here is the same as in the normal faction Data/Relic Sites \(no damage).
+
+|Name                       |Note|Success|Failure|
+|:--------------------------|:---|:------|:------|
+|Remote Defense Grid Unit   | Appears when distance to the Beacon is <2km | Four Depots and a Self-Destruct Unit spawn. A 3mins long self-destruction timer begins. | Nothing |
+|4x Storage Depots          |    | Is able to be opened | Nothing |
+|Self-Destruct Sequence Unit| Self-destruction is without damage. | The self-destruction timer is reseted to 3mins. | The self-destruction timer is reseted to 1min long. |
+
+### 7.4.3 Advanced Walkthrough
+
+**Process for Stratios/T2 Steel Plates Astero without destroying Sentry Towers** \(Uses bug, fast speed, need enough EHP)
+
+1.	After entering the 1st pocket, scan and hack the valuable cans, then hack the furthest can Mangled Storage Depot. Finish the new spawned Defense Alarm Unit and Pristine Storage Depot afterward.
+
+2.	Hack the Remote Defense Grid Unit in the Logistic area but fail the hacking minigame manually so that the Guardian could appear. Avoid the Guardian.
+
+3.	Go to the Tractor Beam area. Hack quickly the Remote Defense Grid Unit there while the Sentry Tower is firing on you. Then enter the 2nd pocket.
+
+4.	Save your location after finishing the 2nd pocket, then warp out of the site and come back to the 1st pocket. Go to the Tractor Beam area and hack the Tractor Beam Unit. After waiting, hack the pulled hidden Depots. The Sentry Towers won’t fire on you but the Remote Defense Grid Unit which was hacked before.
+
+Online video:
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&page=10" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
+
+**Farm a Standard Sleeper Cache**
+
+If the Dented, Intact and Mangled Depots are not hacked, the cosmic signature will not disappear. In this case, the six pulled hidden Depots would be refreshed after DT and you can hack them again. The cans in the 2nd pocket would also be refreshed.
+
+**How to deal with an explored Standard Sleeper Cache**
+
+After entering the 1st pocket, observe the Tractor Beam area.
+If the Tractor Beam area is covered by the Guardian, it means the site was explored before last DT and the Guardian has no damage. The basic guide could be used.
+If not, it means this site was explored in the same DT period. You shall not enter the Guardian, but the process above without destroying Sentry Towers is still able to be used. Pull and hack the hidden cans with the Tractor Beam, then go to the 2nd pocket. Just give up the cans in the Logistic area.
+
+## 7.5 Superior Sleeper Cache
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
