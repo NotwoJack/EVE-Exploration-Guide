@@ -117,7 +117,7 @@
 X = 有可能出现的位置<br>
 
 ### 4.3.1	虫洞 Wormhole
-在这里简要介绍一下虫洞，详细内容请浏览这里（英文）
+在这里简要介绍一下虫洞，详细内容请浏览[这里（英文）](https://wiki.eveuniversity.org/Wormhole)
 <p>虫洞简单理解就是一个可以通向虫洞空间或是其他任意位置的一个星门，虫洞空间分为1-6级，在1-3级洞内会刷普通势力坟，而且数量多于高低安00地区，不要去碰洞内的冬眠坟，有怪容易被秒。虫洞内部本地不显示玩家，意味着你需要时刻使用ALT+D舰载扫描来确认敌人，并做好逃跑准备。
 <p>当你靠近虫洞时能看到它们的名称，如果显示为K162，那么表示这个虫洞是从对面被打开的。 
 <p>破碎洞的识别方法，随便点击一个星球如果显示是破碎的，那么这个洞即为破碎洞，破碎洞内可能会出现任意种类的信号，不受地区限制。
@@ -458,7 +458,7 @@ X = 有可能出现的位置<br>
 
 以下所有操作均基于附录的钢板小白配置，进坟之前可以把值钱的东西都放到移动机库内并保存坐标，不小心爆船了后记得保存残骸坐标，这样还能回收部分值钱的装备。如果你驾驶中白或者T3，参考下方提供的所有数据，你能够发现别的方法。
 
-主要产出请看[附录8.3](/EVE-Exploration-Guide?id=_4-%e5%85%a5%e9%97%a8%e6%8e%a2%e7%b4%a2-basic-exploration)。注意冬眠坟出的东西卖给NPC，打开市场就能查到最近的位置，最好回家之前就顺路卖掉。
+主要产出请看[附录8.3](/EVE-Exploration-Guide?id=_83-%e6%8c%96%e5%9d%9f%e4%ba%a7%e5%87%ba-loot)。注意冬眠坟出的东西卖给NPC，打开市场就能查到最近的位置，最好回家之前就顺路卖掉。
 
 所有进阶坟挖坟流程，[配套视频合集地址](https://www.bilibili.com/video/BV1NW411Z7Cq)
 
@@ -482,7 +482,7 @@ Lesser/Standard/Improved/Superior（虫洞）+ 势力 + Covert Research Facility
 1.	把所有物资包括姐妹会发射器放进移动机库（把甲修覆膜和损控换成爆抗）
 2.	隐身状态下起跳，在总览出现箱子的时候解除隐身，落地正好可以锁定（没有隐秘行动时，跃迁至离坟点最近的点，把飞船朝向坟点，再跃迁）
 3.	观察总览里四个箱子的名称，先靠近（不需要环绕，保持距离2100m）名字不一样的那个箱子，记得开一轮推子
-4.	在靠近的这段时间内，先启用3个爆抗，然后锁定所有的箱子并使用货柜扫描，确定最值钱的那个，请先在‘[挖坟产出]’记下隐秘坟值钱的物品
+4.	在靠近的这段时间内，先启用3个爆抗，然后锁定所有的箱子并使用货柜扫描，确定最值钱的那个，请先在‘[挖坟产出](/EVE-Exploration-Guide?id=_83-挖坟产出-loot)’记下隐秘坟值钱的物品
 5.	破解完成以后，听背景音乐，如果变得急促了请马上离开回到安全点。爆抗小白可以无视这个音乐，直到刷怪
 6.	刷怪以后，爆抗小白必须马上点隐身然后离开，中白这类有效高的船可以把当前的箱子开完再离开
 
@@ -509,7 +509,7 @@ Lesser/Standard/Improved/Superior（虫洞）+ 势力 + Covert Research Facility
 |     Secure Mainframe                        	|                          	|             	|     1        	|     3        	|
 |     Secure Vault                            	|                          	|             	|              	|     1        	|
 |                                             	|                          	|             	|              	|              	|
-|     刷怪数量，种类随机，伤害看[附录8.5]    	|     4                    	|     6       	|     8        	|     10       	|
+|     刷怪数量，种类随机，伤害看[附录8.5](/EVE-Exploration-Guide?id=_85-伤害数据库-damage-data-base)    	|     4                    	|     6       	|     8        	|     10       	|
 
 爆伤计算公式：
 
@@ -523,7 +523,7 @@ Lesser/Standard/Improved/Superior（虫洞）+ 势力 + Covert Research Facility
 
 ## 7.2 气云考古 Gas Sites
 
-部分低安与00区域（看[附录]，热点星系大概率出现气云信号，全星域会小概率出现气云信号，附录之外的其他星域一定找不到气云信号）会出现增效剂对应的气云采集和战斗站点，一般情况下是应该清怪后再开箱子，但是因为箱子不上锁，所以可以做到拉怪去开，主要收益是开出技能书和药丸图。低安的用钢板小白可以不拉怪，直接跳进去开，00区域必须拉怪。
+部分低安与00区域（看[附录](/EVE-Exploration-Guide?id=_86-气云星座-gas-cloud-regions)，热点星系大概率出现气云信号，全星域会小概率出现气云信号，附录之外的其他星域一定找不到气云信号）会出现增效剂对应的气云采集和战斗站点，一般情况下是应该清怪后再开箱子，但是因为箱子不上锁，所以可以做到拉怪去开，主要收益是开出技能书和药丸图。低安的用钢板小白可以不拉怪，直接跳进去开，00区域必须拉怪。
 
 流程视频:
 <iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
@@ -537,13 +537,13 @@ Lesser/Standard/Improved/Superior（虫洞）+ 势力 + Covert Research Facility
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2-1.png ':size=WIDTHxHEIGHT')
 
-Gas Processing Site	
+**Gas Processing Site**	
 
 III级信号
 
 出产技能书，脑插，标准图，普通反应配方，小概率加强图和加强配方
 
-Chemical Lab 
+**Chemical Lab** 
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2-2.png ':size=WIDTHxHEIGHT')
 
@@ -551,7 +551,7 @@ III级信号
 
 出产技能书，脑插，标准图，普通反应配方，小概率加强图和加强配方
 
-Distribution Base
+**Distribution Base**
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2-3.png ':size=WIDTHxHEIGHT')
 
@@ -565,7 +565,7 @@ IV级信号
 
 00区域
 
-Production Facility	
+**Production Facility**	
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2-5.png ':size=WIDTHxHEIGHT')
 
@@ -757,3 +757,763 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 **标冬被人开过后怎么处理**
 
 跳进去后，看中点是否被毒云覆盖，如果有毒云，说明这个标冬开爆过了一个维护期，里面的毒云是没有伤害的，可以按照正常的标冬程序开。如果没有毒云覆盖，说明这个标冬是当天开爆的，毒云不能进，但是可以用上方的强开流程来，开掉后部的箱子然后去2层。近点的箱子就不要想了。
+
+## 7.5	超级的冬眠者储藏站 Superior Sleeper Caches
+超级的冬眠者储藏站是一个五级数据站点，收益在120m-300m之间，需要105+（拢针）的扫描强度，几乎全部为红色难度核心，除了物品箱子其他均需要数据分析仪，强烈建议使用黑镜+T2分析仪。萌新扫描到该信号以后可以让群里大佬们来开，会分你一半的钱。
+
+超冬可分为4部分，电离室风险较大。超冬被人开过的应对方法请看章节末。
+
+### 7.5.1	新手流程 Basic Guide
+
+流程视频:
+
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&cid=54293508&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+1.	破解超浪发生器，无论落在哪个位置都回电厂近点开始
+2.	破解中点的Solray Observational Unit，将获得的盘子放到对应名字的盒子里
+3.	扫描气云中的盒子，开掉值钱的，去近点轨道前往炮塔层
+4.	用保持距离，先破解左边的防御单元（失败请马上离开），成功后马上开推子到右边破解维修单元
+5.	待所有炮塔都消失后，再过去开那9个盒子
+6.	（电离室有一个箱子可以无风险开）
+      
+    以下可选
+
+7.	回到电厂，放下移动机库把货舱东西全部放入以及姐妹会的发射器，换上爆抗，别忘了带上甲修材料，并保存位置
+8.	前往远点破解修正单元，回到中点前往地雷区，起跳之前启用爆抗
+9.	地雷区攻略请看章节7.5.5
+10.	雷区破解完后跳出去，再跳回来，保存好刚才开出的东西后，前往炮塔层，破解超浪发射器，前往电离室，轨道如需要充能请看章节7.5.4
+11.	电离室攻略请看章节7.5.6
+
+**以下为各区域的详细介绍，请对照流程仔细阅读**
+
+### 7.5.2	入口 Entry
+超浪发生器 Hyperfluct Generator
+
+需要：数据分析仪
+
+成功：出现轨道
+
+失败：2分钟倒计时，结束之前没能成功破解，自毁（没有伤害）
+
+激活轨道可能会跃迁到以下3个位置，请激活边上的轨道，返回恒星能量发电厂近点处开始挖坟流程
+
+1.	电厂近点
+2.	电厂远点，激活边上的轨道回到近点
+3.	炮塔层，激活边上的轨道回到电厂近点
+
+### 7.5.3	恒星能量发电厂 Solray Power Plant
+
+电厂分为3个点，近中远点,子被黄色毒雾包围，伤害600/s 纯EM伤
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.5.3-1.png ':size=WIDTHxHEIGHT')
+
+|                              |     介绍    |     完成度                                                                  |        |
+|------------------------------|-------------|-----------------------------------------------------------------------------|--------|
+|             名称             |     注解    |                                     成功                                    |  失败  |
+| 近点                         |             |                                                                             |        |
+| Solar Grammar Alignment Unit | 盒子        | 对应放入Modulate Disc                                                       |        |
+| Spatial Rift                 | 近点轨道    | 前往‘炮塔层’                                                                |        |
+| 中点                         |             |                                                                             |        |
+| Dented storage depot         | 箱子        | 冬眠信号消失，离开站或是隐身2分钟后，这个坟会消失                           | 无惩罚 |
+| Solray Observational Unit    | 需要打开    | 获得任意一个Modulate Discs Infrared/Radio/Gamma                             | 无惩罚 |
+| Solray Grammar Infrared Unit | 盒子        | 对应放入Infrared Modulate Disc                                              |        |
+| Spatial Rift                 | 中点轨道    | 前往远点 远点校准后：前往‘地雷区’                                           |        |
+| 6x Storage Depot             | 箱子        | 放入对应的Alignment Discs后毒雾伤害减低至 25/s，范围13-17KM，破解失败无惩罚 |        |
+| 远点                         |             |                                                                             |        |
+| Solar Radio Alignment Unit   | 盒子        | 对应放入Radio Modulate Disc                                                 |        |
+| Remote Reroute Unit          |             | 校准中点轨道Spatial Rift                                                    | 无惩罚 |
+| Spatial Rift                 | 远点轨道    | 校对单元成功：回到中点，校对单元失败：到达炮塔层中心，触发炮塔              |        |
+
+### 7.5.4	炮塔层 Sentries on Duty
+
+在敌方的炮塔全部消失之前，不要过红线，也不要放无人机过线，防御单元一旦失败炮塔层就开废了。
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.5.4-1.png ':size=WIDTHxHEIGHT')
+
+| 名称                                     | 注解                         | 成功                                                                               | 失败                                                          |
+|------------------------------------------|------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| Spatial Rift                             |                              | 回到电厂中点                                                                       |                                                               |
+| 2xWakeful+Vigilant+Restless Sentry Tower |                              | 不要超过防御单元与维修单元之间的红线就不会攻击你。单炮塔伤害400-700，暴击会到1500+ |                                                               |
+| Remote Defense Grid Unit                 | 这个开失败了炮塔层就只能放弃 | 离你最近的炮塔会变成友方帮你打其他炮塔,这个炮塔只能被维修单元修，不能被玩家修      | 本地显示45s倒计时，时间到后会刷16个炮台，无论是否再次破解成功 |
+| Sentry Repair Station                    | 可以不破解                   | 为友方炮塔维修。                                                                   | 无惩罚                                                        |
+| 9x Storage Depot                         |                              | 顺利打开                                                                           | 无惩罚                                                        |
+| 3x Unstable Plasma Chambers              | 蓝圈                         | 被攻击会爆炸，为轨道充能。100000点爆炸伤害，爆炸后还会产生毒云，并在60s后刷炮台    |                                                               |
+| Hyperfluct Generator                     | 位于盒子中间                 | 1.出现前往‘电离室’的轨道 2.无法开启，轨道需要充能。引爆那3个罐子为轨道充能         | 无惩罚                                                        |
+| Vessel Rejuvenation Battery              | 蓝圈                         | 为你提供10s的无敌，配合攻击引爆罐子，充能轨道                                      | 无惩罚                                                        |
+
+备注：炮塔层有且仅在开了防御单元后，过线会触发‘过线警报’，刷出10个炮塔，这个和普通的警报是不同。防御单元破解失败，主动攻击炮塔，炸了罐子，这3种情况都会触发普通警报，这个警报是会刷出16个炮塔。
+
+炮塔层也可以使用那个空箱子BUG，即使被开爆了，如果你能硬抗炮塔开掉一个箱子，跃迁出去再回来，你会发现所有炮塔都只会打那个箱子
+
+**三层轨道充能（视频攻略）：**
+
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&cid=54290881&page=9" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+先放出无人机，这边破解恢复单元，点出核心别急着点掉，让无人机去攻击罐子，在飞到半路时点掉核心。充能轨道后，这时你只有60s时间去重新破解超浪轨道，成功与否60s后都会刷出16个炮台。
+这个维护打开后会大幅减低罐子的伤害至400点左右，无法用来炸别人船。
+
+### 7.5.5	地雷区 Mine Room
+
+雷区如果你有3w+的有效可以趟过去，但是需要10W+有效才能抗住破解失败。
+
+在落地之前可能会吃到伤害。如果操作得当，可以无伤开。
+
+**地雷区机制：**
+落地之后，靠近隐藏的防御单元，破解后会显示部分地雷，滚轮放大并移动视角才能看见显示的地雷，存在隐藏的地雷，地雷的位置是固定的。同时也会显示部分盒子，雷区一共3个盒子，位置是固定的，没有显示的盒子，手动驾驶飞船靠近10km内就会出现，位置请参考后图。
+
+靠近地雷10km内会触发爆炸，单颗伤害分为2000，3000，4500，5500，6000，7500这几种，纯爆炸伤害，一次触发会引爆1-3颗地雷，速度过快的情况下，会出现连续触发2次的情况（4颗雷），钢板小白保持88+的爆抗，一般不会被炸死。3个箱子的位置如后图所示，以信标为原点，手动控制飞船就能把箱子撞出来。
+
+|           名称           |    注解    |               成功              |         失败        |
+|:------------------------:|:----------:|:-------------------------------:|:-------------------:|
+| Remote Defense Grid Unit | 10km内出现 | 显示1-3个盒子，显示部分地雷位置 | 引爆所有地雷20-25颗 |
+| 3xStorage Depot          |            | 顺利打开                        | 无惩罚              |
+
+**地雷区攻略方法：**
+
+无伤雷区路线（流程视频）：
+
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&cid=72490091&page=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+**该方法是基于1080p分辨率，及标准UI缩放，其他分辨率玩家请自行寻找合适位置。**
+
+注意：从信标处起跳，避免吃到地雷，撞出箱子**及时停船。**
+
+落地后靠近信标，刷出防御单元后靠近并破解（非必须，失败必死）。
+
+撞Dented箱子沿刻度线开1轮推子即可。
+
+撞Pristine箱子，调整视角到100KM刻度线在最外围，双击低槽第四个位置的右下方为舰船方向，开2轮推子。
+
+撞Intact箱子，需要在信标处先垂直上升至5700m-6100m，然后调整视角到100KM刻度线在最外围，双击右侧30KM刻度数字为舰船方向，开2轮推子。
+
+注意3个箱子离信标的距离，一旦发现自己到了这个距离还没撞出箱子，请立刻停船原路返回信标处，再重新尝试。
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.5.5-1.png ':size=WIDTHxHEIGHT')
+
+**小白抗地雷方法**
+
+注意：技能不足的情况下55爆抗只能超载4轮，如果装备双64爆抗，不需要超载。全部使用保持距离。被雷炸到后马上停船维修好血量再前进。
+
+上双爆抗，低槽请按右图所示摆放，确保4次超载不会超坏其他装备，点击图示的小圆圈能直接将低槽全部预超载，并在下一次循环开始超载。
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.5.5-2.png ':size=WIDTHxHEIGHT')
+
+俯视图
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.5.5-3.png ':size=WIDTHxHEIGHT')
+
+侧视图
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.5.5-4.png ':size=WIDTHxHEIGHT')
+
+### 7.5.6	电离室 The Archive
+
+电离室分布着很多残骸，残骸被毒云包裹靠近会造成伤害（全伤4x100/s），可能会出现暴击800伤害，小白不要靠近，直线前往Defense Targeting Augmentation不会碰到废墟毒云。
+
+|     名称                                |     注解    |     成功                                                                         |                    失败      |
+|-----------------------------------------|-------------|----------------------------------------------------------------------------------|------------------------------|
+|     Defense Targeting Augmentation      |             |     大幅降低炮塔的命中率                                                         |                    刷炮塔    |
+|     3X Cerebrum Maintenance Chambers    |             |     顺利打开                                                                     |                    刷炮塔    |
+|     4x Impaired Archive Sentry Tower    |             |     出现条件：1.破解失败 2.激活Cerebrum 后     每个炮塔伤害在700左右，12s一轮    |                            |
+|     Central Archive Cerebrum            |             |     放入3个Intravenous Oscillation Fluid激活     建议先放入另两种物品各3份       |                              |
+|     10x Storage Depot                   |             |     顺利打开                                                                     |              无惩罚          |
+|     3xVessel Rejuvenation Battery       |             |     顺利打开, 刷90s的恢复云，1s修满                                              |              无惩罚          |
+
+**电离室的机制：**
+
+在Cerebrum激活之后，就会开始倒计时，90s后第一波冲击到达，往后随着逗留时间越长，冲击波出现时间越加频繁，每次冲击波持续5s，除了第一波冲击波是本地提示出现90s后到达，后续的冲击波时间间隔都不确定（前几波20-40s），可能会出现多波冲击波（最多3波）同时到达的情况，前3波大几率是单冲击波。激活6m30s后会出现colossal wave是普通冲击波3倍的伤害。普通冲击波每秒造成300*2的四个属性伤害，合计为2400/s，5秒共计12000的伤害。
+
+激活后会逐渐刷出箱子，半分钟后9个箱子全部出现，激活同时也会出现恢复单元，一共有3个恢复单元，第二个恢复单元大概在2m20s出现，第三个大概在4m30s出现，单元破解成功后会提供90s的无敌，但是范围只有5000m。**目前资料显示只有区域①的恢复单元有效**
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.5.6-1.png ':size=WIDTHxHEIGHT')
+
+箱子的分布图示，每3个箱子（红圈）围绕1个恢复单元（篮圈），还有一个个箱子刷在远处的废墟旁，有一定几率某个箱子会被炮台替换，一定几率会出现某个箱子被空箱子替换。
+
+三个各区域风险介绍：①区域无任何风险，靠近任何箱子都是安全的
+
+②区域，最外侧的箱子和维护单元是安全的，内部2个箱子紧贴着废墟
+
+③区域，最外侧发箱子是安全的，维护单元和内部2个箱子紧贴着废墟
+
+另外，在3个区域外，远处废墟里的那个箱子距离废墟空间实体不到500m
+
+**电离室的攻略方法：**
+
+在电离室内使用推子请小心，务必提前停船，防止冲进废墟
+
+**激活之前：**
+
+在进来后先去破解那个远处防御单元，破解成功后，先手动失败一个罐子刷出炮塔，环绕罐子炮塔是打不中小白的，再成功破解那个箱子，这时会刷一个完整箱子，可以去开掉。然后跳出去再回来（注意：如果你在炮塔层充能了，那么炮塔层会刷出炮塔，不能再进入），你会发现炮塔全部在打刚才破解的防御单元（和之前标冬是同一个BUG）
+
+一共丢3个液体到端脑内就能够将其完全激活，建议先丢3个齿轮再丢3个纳米，能大概率不刷新的炮塔和空箱子，不是每次都有足额的另外两种材料，可以提前备好。
+
+在激活之前，把保持距离设置为2200m，环绕半径设置为1000m，关闭推子的自动循环。
+
+**激活之后：**
+
+风险提示：确保你在激活之前，把身上所有值钱的东西都保存到移动机库中。如果本地出现15s倒计时，没时间去开维护，请果断离开。
+
+1.只开2-3个最值钱的（风险系数中）：在激活之后，开一轮推子靠近区域①的箱子，保持距离即可（如果新刷了炮塔，请环绕），同时扫描区域①的箱子，并开掉最值钱的那个，然后破解维护单元，不急着点掉核心，此时扫描剩下的箱子标记2个值钱的，本地出现冲击波提示后点掉核心，等待冲击波结束后马上靠近标记的盒子开掉，注意本地的冲击波提示，开掉后返回区域①的维护单元，待第二波冲击波过去后，再去开另一个盒子。
+
+流程视频：
+
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&cid=70979977&page=11" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+**抗冲击波开**
+
+使用双钢板小白/钢板中白（有效超过12060即可硬吃一波冲击波，小白上2个T2三角插，修换成钢板。以下操作均基于前3波冲击波为单冲击波，一旦出现 双冲击波请躲在维护云中或是马上离开）
+
+2.最大化开箱（风险系数**大**）：在激活之后，马上开推子靠近最近的维护单元，保持距离即可（如果之前没处理掉炮塔，环绕维护单元1000m），同时扫描单元边上的3个箱子，确定最值钱的。开完那个箱子后，马上锁定区域②的箱子并确定最值钱的，先开推靠近那个安全箱子，等速度降下来后再靠近目标箱子并保持距离，这里会需要硬吃第一波冲击波。开完这个箱子后马上回区域①的维护单元并开掉，如果在维护开掉之前本地出现新的冲击波倒计时请马上离开。在维护云里面扫描区域③的箱子并确定值钱的2个，如果区域①的箱子还有值钱的可以在此时开掉。算好时间等第二波冲击波过去后，马上开推靠近区域③的维护单元并保持距离，先破解目标的2个箱子后，再去拾取物品，如果是两个内侧的箱子，在捡完一个箱子后必须先返回区域③的外侧箱子然后再去另一个，必须绕一下不然会吃到废墟的伤害。同时注意本地的冲击波提示，抗完第三波冲击波就要离开了。一共可以开区域①2个，区域②1个，区域③2个，共计5个
+
+3.小白全开（恭喜@Tu bosu，于2020年9月29日，成功做到小白全开）
+
+激活后先开推靠近区域①边上的废墟，距离13KM时停船减速，靠近并破解区域①的第一个箱子，然后靠近（不是保持距离）区域②的安全箱子，破解后再去破解上方的内侧箱子并保持距离，注意你和箱子的距离稳定后再打开箱子，不然超过2500m打开箱子，系统会自动给出靠近的指令，导致冲入废墟。这里硬抗第一波冲击波。手速快且第一个冲击波还没来你可以把下方另一个内侧箱子也直接开掉，直接使用保持距离，然后马上回到区域①的维护单元并开掉，然后马上开推靠近区域③的安全箱子开掉，之后保持距离并破解右侧箱子，中间需要硬吃第二波冲击波。到这里为止，经验手速到位了都是可以稳开，共1+3+2=6个，附流程视频，剩下的3个就要看运气了。
+
+如果此时维修云已经结束，注意第三波冲击波的同时，去开区域③最后那个箱子。如果你的开箱速度够快，快速回到区域①的维修云修满血，开掉区域①最后那个箱子（维护需要坚持到第三个冲击波）然后靠近区域③最后那个箱子保持距离，如果运气好第四波是单冲击波，你就能完成小白挖穿超冬的奇迹！
+
+从激活到第五个冲击波提示一般时间在250s - 300s，你要开掉共计10个箱子。
+
+4.金鹏全开：
+
+有效抗视频：
+
+<iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&cid=56550854&page=12" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+有效抗：核心思路是在6分30秒的大冲击波来之前挖光，而在此之前的冲击波总数基本不会超过8个，所以将船只的有效堆到10W以上，就能硬抗大冲击波之前的所有冲击波。
+
+普通装：皮中A，皮C全抗，皮X电抗，大盾扩，可以抗下冲击波，在下一波来之前修好，出现多冲击波适度超载修盾，在大冲波来之前离开。
+
+### 7.5.7	最效率流程Fast Walkthrough
+
+1.	远点：破解防御单元，激活轨道，到近点，激活轨道。
+      近点：激活轨道
+      炮塔层：不动
+2.	炮塔层，放下移动机库保存位置，开防御和维护单元，然后走轨道回到电厂中点，
+3.	破解观测单元，拿盘子，扫描气云中的箱子并标记
+4.	盒子在边上，放好盘子，并开掉气云里面的箱子
+      盒子在远点，盒子在近点，继续按流程
+5.	激活中点轨道（远点放盘子），并破解防御单元，然后激活轨道回到近点（近点放盘子）
+6.	激活轨道去炮塔层，换上双爆抗，然后开箱，之后激活轨道回到中点（开气云里面的箱子 ），前往雷区
+7.	开完雷区，跳出去后回来，到炮塔层换装，前往3层电离室，触发炮塔，并开掉那个完整箱子
+8.	3层开完后，跳出去，再跳回来回收移动机库
+
+**超冬被人开过后怎么处理**
+
+请不要盲目进入轨道可能被秒，前往[这里](https://zkillboard.com/)查询你所在的星系，看这3天有没有人被炮塔击毁，如果有显然是炮塔层被开爆了，看情况二。极小可能有人开爆炮塔层后幸存，最保险的方法就是在维护以后再进入。
+
+1.	电厂被人开错了：
+      萌新可能会搞错对应盘子的位置，检查一下3个放盘子的盒子，如果名字都为Unaligned那么就是盘子被放错了，小白只能放弃，或者用中白顶着毒云开
+2.	炮塔层被人开爆了：
+      看门口的超浪发生器是不是满的，如果满的说明已经过了一个维护周期，炮塔层的警戒炮塔会隐藏。注意，你一旦进入就会触发警报3-5s刷出炮塔，但是你可以马上激活身边的轨道回到电厂，开那儿的箱子（如果上个人还没开掉的话）。或者再次破解超浪，刷一个到电厂的轨道。如果超浪是空的，那么就不要进去了，22个秒锁炮塔在等着你，总之炮塔层肯定是开不了的。（8500+有效的小白，一般不会被秒，冒险可以尝试进入，落地起跳回电厂）
+
+## 7.6	进阶技巧 Advanced Tips
+
+为了提升挖坟效率，本章节将介绍一些进阶技巧。
+
+### 7.6.1	一针判定信号 One Probing
+
+by 十月
+
+以120强度为例， 用8au针，扫完之后看信号强度 。
+
+信号强度在8.6+  一般为II级及以下信号
+
+信号强度在5-8.5  一般为III级信号
+
+信号强度在3-5  一般为IV级信号
+
+信号强度在2%以下，为冬眠者储藏站信号
+
+如果碰上两点，则x2计算，碰上圆圈x4，碰上球形，看强度1%以下就重新扫描定位一下。
+
+我们常见的信号
+
+III级信号为隐秘研究设施（Convert Research）、气云（2个有炮塔气云1个nebula星云
+
+IV级信号为2个冬眠者储藏站（Sleeper Cache）、1个气云（低安无炮台，00有毁电），还有普通势力小船坞（Shipyard、Den）跟1个普通势力遗迹（采矿场）
+
+V级信号只有一种超冬，以及虫洞里的寂静战场。
+
+在欧服玩考古到专精，一般只扫这3种信号，对于I II 级信号就完全不用管，以后到一地方只需要扔8AU针， 8.6以上的全部右键清除当前结果，扫剩下的信号。而在我们高安赶路时，也可以在星门跳星门时扔一次8AU的针，看看有没有隐秘或超冬，用这种方法找超冬非常效率。
+
+**不用针判定信号**   
+
+冬眠者储藏站一般在行星6AU外
+
+隐秘研究设施一般在行星5AU左右
+
+普通气云遗迹数据信号都在行星4AU内
+
+所以一般来说，超高级的信号圆圈范围越大，而且这个圆圈经常不会包围行星。如果找多了你就能进星系一眼看出一个信号会是超冬。还有一种深空虫洞，经常离行星6AU外。 像下面这样一个8au圈都杠不住 ,而且没包围行星，多半是超冬。
+
+以后如果碰上扫死亡的定位IV级信号，不能确定名字，叫他跳最近行星，看下距离，如果在4AU内，就是小船坞(shipyard)，如果是5AU外，一般是标冬。
+
+如图超冬信号大小。
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.1-1.png ':size=WIDTHxHEIGHT')
+
+两种方法都可以清除不需要的结果。
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.1-2.png ':size=WIDTHxHEIGHT')
+
+### 7.6.2	快捷键设置 Shortcut
+
+这里罗列了挖坟常用的快捷键，并提供了推荐键位。熟练使用快捷键是高效挖坟的保证，也是小白挖穿超冬三层的必要前提。大部分快捷键是按住以后再用鼠标选择目标才能发挥作用。
+
+|     名称                                   |     功能                                          |     推荐键位      |
+|--------------------------------------------|---------------------------------------------------|-------------------|
+|     **Combat**                                 |                                                   |                   |
+|     Approach                               |     靠近                                          |     无            |
+|     Directional Scan                       |     舰载扫描                                      |     X             |
+|     Dock/Jump/Activate gate                |     停泊/跃迁/激活星门                            |     Alt           |
+|     Keep at Range                          |     保持距离                                      |     C             |
+|     Lock target                            |     锁定目标，用鼠标可框选                        |     Ctrl          |
+|     Unlock target                          |     解锁目标，用鼠标可框选                        |     Shift         |
+|     Orbit                                  |     环绕                                          |     V             |
+|     Refresh Probe Scan                     |     使用探针扫描，没探针会自动放                  |     Z             |
+|     Tag item from sequence: 1 through 9    |     标记目标从数字1-9     顺序标记，需要开舰队    |     1             |
+|     Tag item as: A                         |     标记目标为A，排除不值钱箱子                   |     2             |
+|     **Navigation**                             |                                                   |                   |
+|     Save Location                          |     保存位置                                      |     Ctrl-B        |
+|     Stop Ship                              |     停船                                          |     Ctrl-Space    |
+|     **Modules**                                |                                                   |                   |
+|     Activate Medium High Slot 1            |     启用高槽1，隐身                               |     Q             |
+|     Activate Medium Power Slot 1           |     启用中槽1，推子                               |     Space         |
+|     Activate Medium Power Slot 2           |     启用中槽2，货柜扫描                           |     A             |
+|     Activate Medium Power Slot 3           |     启用中槽3，数据/一体分析仪                    |     S             |
+|     Activate Medium Power Slot 4           |     启用中槽4，遗迹分析仪                         |     D             |
+
+### 7.6.3	界面布置 Interface
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-1.png ':size=WIDTHxHEIGHT')
+
+上图是我推荐的标准挖坟界面布置图，基于1080p分辨率显示器，如果是768p分辨率可以把左侧的聊天框去掉，并把仪表盘移走。所有的窗口设置完成后，再次打开还会保存在固定的位置。
+
+要点
+1.  把锁定目标栏移动到下方的仪表盘上部，找到右图所示的圆点，即可拖动调整位置![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-2.png ':size=WIDTHxHEIGHT')
+2.  把舰扫和探针扫描窗口拿出来，找到右图这个正方形，点击后就会把这个窗口放在主界面上，然后点击边上的pin按钮，将其固定。![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-3.png ':size=WIDTHxHEIGHT')
+3.  把物品选择栏移动到一个位置，使那一排的按钮正好位于锁定栏的上方，破解界面的下方，看前图，方便破解后快速开箱捡取物品。
+
+**快速捡取箱子设置**
+
+先打开背包，点击左上的小齿轮，勾选右图的这个选项，这样每次点开箱子不会自动打开背包。![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-4.png ':size=WIDTHxHEIGHT')
+
+然后把打开的箱子的界面调整位置到右图所示，并把Loot All 的按钮覆盖在，物品选择栏的‘打开箱子’按钮上，这样就能做到开箱秒拿物品，而且拿完后这个窗口会自动关闭。![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-5.png ':size=WIDTHxHEIGHT')
+
+
+### 7.6.4	总览设置 Overview
+
+普通挖坟直接使用频道置顶的总览，或者你自己公司提供的总览即可。
+
+如何设置总览请自行百度。
+
+总览需要设置2种，一是主界面中的总览栏，二是直接显示目标的brackets。
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.4-1.png ':size=WIDTHxHEIGHT')
+
+挖坟总览，推荐只显示可停泊建筑，星门，太阳，玩家飞船以及普通箱子，冬眠箱子和炮塔。
+
+然后再设置brackets，日常我推荐用显示全部。
+
+可选：小白挖穿超冬3层的时候为了提高锁定效率可以特别做一个专门的设置（置顶已经包含），只显示冬眠箱子和炮塔，然后直接Ctrl+鼠标框选所有箱子，记得在起跳3层之前切换至这个配置。
+
+普通坟的箱子
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.4-2.png ':size=WIDTHxHEIGHT')
+
+冬眠坟的箱子
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.4-3.png ':size=WIDTHxHEIGHT')
+
+冬眠坟中的空间实体以及信标
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.4-4.png ':size=WIDTHxHEIGHT')
+
+冬眠坟中的炮塔
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.4-5.png ':size=WIDTHxHEIGHT')
+
+冬眠坟中可以放东西的箱子
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.4-6.png ':size=WIDTHxHEIGHT')
+
+### 7.6.5	终极小白 The Ultimate Astero
+
+这里介绍附录8.4，配装‘终极小白’的使用方法，使用这套配装前确保你的A族护卫，扫描，甲亢，工程，盾抗的关键技能全IV级以上，否则会出现续航或有效不足的情况，那样只能提升低槽覆膜的配置，如果你的技能足够高，可以适当减少装备等级。
+
+这套配置的优点在于，你不需要再换装爆抗，而且双超空间插大大提升跃迁速度，还能上高统一套达到12AU/s的跃迁速度。如果不打算硬抗超冬3层冲击波，除了爆抗都可以换成T2的，货舱里面的损控，盾扩，钢板也不需要带。
+
+幽灵坟：启用爆抗后应该有80%的爆抗，足够抗下高隐且不进结构，如果是超隐，解除隐身后先预超载爆抗，不启用，直到必要时，快捷键启用即可抗下。
+
+低安气云：边修边开，不需要跳出去
+
+00气云：照旧
+
+限和标冬：无脑开，标冬可直接硬抗炮塔开牵引
+
+超冬雷区：打开爆抗即可
+
+超冬三层：把修和爆抗换装成损控和钢板，把回电换成盾扩。确保这里你有超过12050的有效。
+
+备注：如果追求最极限，可以把那个甲插也换成超空间，把联邦钢板换成深渊的，需要720+甲和-0.2以上的PG即可，然后把货柜扫描换成盾扩，在A护卫V的技能下应该有12050以上的有效。
+
+# 8	附录Appendix
+
+## 8.1	网站 Websites
+
+| 网址                                                                         | 介绍                                                                       |
+|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+|     https://eve.being.moe/trn/                                               |     英汉互查                                                               |
+|     https://wiki.eveuniversity.org                                           |     非常好的EVE攻略站，需要一定英文水平                                    |
+|     http://evepraisal.com/                                                   |     方便的物价查询网站                                                     |
+|     https://evemarketer.com/                                                 |     市场查询网站，包含EVE全星域，提供中文版本，可以使用索引方便对比查找    |
+|     http://anoik.is（英文）          http://wormhole.sinaapp.com/（中文）    |     虫洞信息查询                                                           |
+|     https://www.eve-scout.com/thera/map/                                     |     希拉虫洞信息                                                           |
+|     http://evemaps.dotlan.net/                                               |     EVE地图大全，信息非常丰富                                              |
+|     http://eve-gatecheck.space/eve/                                          |     路径安全查询，看是否有星门痴汉                                         |
+|     https://github.com/pyfa-org/Pyfa                                         |     专业飞船配装模拟软件Pyfa                                               |
+|     https://zkillboard.com/                                                  |     击杀榜，可以学配装                                                     |
+|     https://www.eve-scout.com/thera/map/                                     |     查角色网站                                                             |
+|     http://sov.space/                                                        |     联盟势力图                                                             |
+|     https://shimo.im/sheet/MD1KnU9QRV06RYqR                                  |     台风的攻略大全                                                         |
+
+## 8.2	海盗势力图 Factional Influence Map
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.2-1.jpg ':size=WIDTHxHEIGHT')
+
+## 8.3	挖坟产出 Loot
+
+这里只罗列了挖坟产出价值较高的物品，和价值大于10m的蓝图，价值均为参考价格，不作为任何依据。
+
+|     名称                                                                                                                                                         |     市价/个                                                |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+|     普通遗迹                                                                                                                                                     |                                                            |
+|     Capacitor Console电容器控制台(血袭)                                                                                                                          |     0.5m                                                   |
+|     Drone Transceiver无人机调制器(天蛇)                                                                                                                          |     3m                                                     |
+|     Contaminated Lorentz Fluid被污染的洛伦兹流体(天蛇)                                                                                                           |     0.3m                                                   |
+|     Enhanced Ward Console加强的防御控制台(古斯塔斯)                                                                                                              |     6m                                                     |
+|     Intact Shield Emitter完好的护盾发生器(古斯塔斯)                                                                                                              |     0.6m                                                   |
+|     Impetus Console推进器控制台(天使)                                                                                                                            |     1m                                                     |
+|     Single-crystal Superalloy I-beam     单晶体超合金工字钢(天使)                                                                                                |     0.7m                                                   |
+|     Intact Armor Plates完好的装甲附甲(萨沙)                                                                                                                      |     6m                                                     |
+|     Contaminated Nanite Compound     受污染的纳米聚合体(萨沙)                                                                                                    |     0.1m                                                   |
+|     Logic Circuit逻辑电路                                                                                                                                        |     1.3m                                                   |
+|     Power Circuit能源电路                                                                                                                                        |     0.5m                                                   |
+|     Power Conduit能源管道                                                                                                                                        |     0.7m                                                   |
+|     Trigger Unit触发机关                                                                                                                                         |     0.6m                                                   |
+|     普通数据                                                                                                                                                     |                                                            |
+|                                                                                                    势力材料                                                      |                                                            |
+|     Angel Dynamic Calibrator天使集团动态校准仪                                                                                                                   |     20m                                                    |
+|     Blood Raider Power Redistributor血袭者能量分配器                                                                                                             |     12m                                                    |
+|     Blood Raider Regular Ballistic   Control     血袭者有序弹道控制                                                                                              |     15m                                                    |
+|     Serpentis 3D Scanner Gamut天蛇3D范围扫描                                                                                                                     |     5.5m                                                   |
+|     Serpentis Basic Target Guider天蛇基础目标指示器                                                                                                              |     8m                                                     |
+|                                        故事线材料                                                                                                                |                                                            |
+|     Sleeper Profound Research Notes冬眠者渊博的研究笔记                                                                                                          |     70m                                                    |
+|     Sleeper Thermal Regulator冬眠者温度调节器                                                                                                                    |     5.8m                                                   |
+|     Sleeper Virtual Energizer冬眠者虚拟增效器                                                                                                                    |     5m                                                     |
+|     Takmahl Astral Treatment塔克玛星型公式                                                                                                                       |     6m                                                     |
+|     Takmahl Dynamic Gauge塔克玛动态量尺                                                                                                                          |     12m                                                    |
+|     Takmahl Quantum Sphere塔克玛量子球体                                                                                                                         |     6m                                                     |
+|     Talocan Stasis Deflector 塔洛迦停滞偏针仪                                                                                                                    |     9m                                                     |
+|     Yan Jung Crystal Cylinder燕军的晶体柱                                                                                                                        |     11m                                                    |
+|     Yan Jung Singularity Fact Sheet燕军异常数据分析报告                                                                                                          |     45m                                                    |
+|     Yan Jung Tachyon Stetoscope燕军的光子听诊器                                                                                                                  |     49m                                                    |
+|     普通蓝图                                                                                                                                                     |                                                            |
+|     Capital Ancillary Shield Booster     旗舰级辅助护盾回充增量器                                                                                                |     100m/流程                                              |
+|                                                                                                                                                                  |                                                            |
+|     幽灵坟                                                                                                                                                       |                                                            |
+|     Covert   Research Tools隐秘研究工具                                                                                                                          |     0.5m   全部箱子                                        |
+|      Shattered   Villard Wheel     碎裂的维拉德轮                                                                                                                |     Secure Depot/Lab      1.2m                             |
+|      'Wetu' /'Yurt'   Mobile Depot Blueprint     小屋/帐篷移动式仓库蓝图                                                                                         |     Secure Databank/     Secure   Mainframe     10m/30m    |
+|     'Packrat' /'Magpie'Mobile Tractor Unit Blueprint     林鼠/喜鹊移动式牵引装置蓝图                                                                             |     Secure Databank/     Secure   Mainframe     5m/100m    |
+|     Mid-grade Ascendancy Alpha - Beta Blueprint     中级统御1-2号 蓝图                                                                                           |     Secure Depot        10m                                |
+|     Mid-grade Ascendancy Gamma - Epsilon Blueprint     中级统御3-5号 蓝图                                                                                        |     Secure Lab     10m-50m                                 |
+|     High-grade Ascendancy Alpha - Beta Blueprint     Mid-grade Ascendancy Omega Blueprint     高级统御1-2号 蓝图，中级统御6号 蓝图                               |     Secure Databank     10m                                |
+|     High-grade Ascendancy Gamma - Epsilon Blueprint     高级统御3-5号 蓝图                                                                                       |     Secure   Mainframe     30m/130m/600m                   |
+|     High-grade Ascendancy Omega Blueprint     高级统御6号 蓝图                                                                                                   |     Secure   Vault（超隐）    4000m                           |
+|                                                                                                                                                                  |                                                            |
+|     冬眠坟                                                                                                                                                       |                                                            |
+|                冬眠者组件                                                                                                                                        |     请卖给NPC     Jita   2跳Hirtamon                       |
+|     Neural Network Analyzer神经系统分析仪                                                                                                                        |     0.2m                                                   |
+|     Ancient Coordinates Database古代坐标系数据库                                                                                                                 |     1.5m                                                   |
+|     Sleeper Data Library冬眠者数据库                                                                                                                             |     0.5m                                                   |
+|     Sleeper Drone AI Nexus冬眠者无人机神经节点                                                                                                                   |     5m                                                     |
+|     偏振蓝图                                                                                                                                                     |                                                            |
+|     Polarized Rocket Launcher 偏振式火箭发射器                                                                                                                   |     8m/流程                                                |
+|     Polarized Torpedo Launcher偏振式鱼雷发射器                                                                                                                   |     15m/流程                                               |
+|     Polarized Light Neutron Blaster偏振式轻型中子疾速炮                                                                                                          |     3m/流程                                                |
+|     Polarized Neutron Blaster Cannon偏振式中子疾速加农炮                                                                                                         |     4m/流程                                                |
+|     故事线蓝图                                                                                                                                                   |     估值波动较大                                           |
+|     'Thurifer'   Large Cap Battery侍僧大型电容器电池                                                                                                             |     400m                                                   |
+|     'Smokescreen'   Covert Ops Cloaking Device II     烟幕隐秘行动隐形装置 II                                                                                    |     400m                                                   |
+|     'Peace'   Large Remote Armor Repairer     宁静大型远程装甲维修器                                                                                             |     150m                                                   |
+|     'Radical'   Damage Control激进者损伤控制                                                                                                                     |     100m                                                   |
+|     'Meditation' Medium Armor Repairer I     冥思中型装甲维修器 I                                                                                                |     80m                                                    |
+|     Limited Expanded 'Archiver' Cargo档案员有限扩充货柜                                                                                                          |     80m                                                    |
+|     'Posse' Adaptive Invulnerability Field民团自适应全能力场                                                                                                     |     80m                                                    |
+|     'Warhammer' Large EMP Smartbomb I     战锤大型电磁脉冲立体炸弹 I                                                                                             |     80m                                                    |
+|     'Greaves'   Medium Armor Repairer I油渣中型装甲维修器 I                                                                                                      |     50m                                                    |
+|     Heavy   'Moat' Energy Neutralizer 重型城壕能量中和器                                                                                                         |     50m                                                    |
+|     Heavy 'Brave' Capacitor Booster勇敢者重型电容注电器                                                                                                          |     50m                                                    |
+|     'Deuce' Co-Processor I平局协处理器 I                                                                                                                         |     30m                                                    |
+|     'Full Duplex' Ballistic Control System全双工弹道控制系统                                                                                                     |     30m                                                    |
+|     Medium 'Strigoi' Energy Nosferatu中型古墓恶灵掠能器                                                                                                          |     30m                                                    |
+|     'Censer' Medium Cap Battery焚炉中型电容器电池                                                                                                                |     30m                                                    |
+|     'Bailey' 1600mm Steel Plates 壁垒1600mm钢附甲板                                                                                                              |     30m                                                    |
+|     'Interruptive' Warp Disruptor 中断跃迁扰断器                                                                                                                 |     20m                                                    |
+|     1/10/100MN Analog Booster Afterburner     1/10/100MN模拟助推加力燃烧器     5/50/500MN Digital Booster Microwarpdrive     5/50/500MN数字助推微型跃迁推进器    |     50推 60m     其余20m                                   |
+|     Medium 'Ditch' Energy Neutralizer中型沟渠能量中和器                                                                                                          |     10m                                                    |
+|     'Kindred' Gyrostabilizer 宗族回转稳定器                                                                                                                      |     10m                                                    |
+|                                                                                                                                                                  |                                                            |
+|     气云坟                                                                                                                                                       |                                                            |
+|     Neurotoxin Control神经毒化控制理论                                                                                                                           |     150m                                                   |
+|     Neurotoxin Recover 神经毒化抵抗理论                                                                                                                          |     60m                                                    |
+|     Improved XX Booster Reaction Formula     加强型XX增效体反应配方                                                                                              |     20m                                                    |
+|     Strong XX Booster Reaction Formula     超强型XX增效体反应配方                                                                                                |     100m                                                   |
+|     Standard Exile/ Mindflood/ Blue Pill Booster Blueprint     标准型游离感/思维冲击/蓝色药丸增效体蓝图                                                          |     5m                                                     |
+|     Improved Exile/ Mindflood/ Blue Pill Booster Blueprint     加强型游离感/思维冲击/蓝色药丸增效体蓝图                                                          |     30m                                                    |
+|     Strong Exile/ Mindflood/ Blue Pill Booster Blueprint     超强型游离感/思维冲击/蓝色药丸增效体蓝图                                                            |     500m                                                   |
+
+## 8.4	推荐配装 Fittings
+
+使用方法：直接复制配装截图左侧的文字，然后在装配界面从剪切板导入配装，探针和纳米材料以及货舱中的装备和脑插请手动购买。![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-1.png ':size=WIDTHxHEIGHT')
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-2.png ':size=WIDTHxHEIGHT')
+
+---------------------------
+[Heron, 新人挖坟]  
+Inertial Stabilizers I  
+Inertial Stabilizers I  
+5MN Microwarpdrive I  
+Type-E Enduring Cargo Scanner  
+Relic Analyzer I  
+Data Analyzer I  
+Prototype Cloaking Device I  
+Core Probe Launcher I  
+Small Gravity Capacitor Upgrade I  
+Small Gravity Capacitor Upgrade I  
+Hobgoblin I x7  
+
+---------------------------
+合计：3.7m
+
+新人可以先不使用姐妹会针和隐身
+
+扫描强度不够换上3个扫描阵列
+
+跑路回家换上2个稳定
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-3.png ':size=WIDTHxHEIGHT')
+
+-----------------------------
+[Astero, 钢板小白]  
+    Damage Control II  
+  Shadow Serpentis Energized Adaptive Nano Membrane  
+  Imperial Navy 200mm Steel Plates  
+  Small Ancillary Armor Repairer  
+  5MN Y-T8 Compact Microwarpdrive  
+  Cargo Scanner II  
+  Data Analyzer II  
+  Relic Analyzer II  
+  Covert Ops Cloaking Device II  
+  Sisters Core Probe Launcher  
+  Small Trimark Armor Pump II  
+  Small Gravity Capacitor Upgrade I  
+  Small Ionic Field Projector II  
+  Hornet EC-300 x5  
+  'Integrated' Hobgoblin x5  
+
+-----------------------------
+不包含脑插 合计：160m
+
+钢板小白差不多7K多有效，基础技能足够可以全部换成T2装备
+
+技能合格下有105.8扫描强度，能扫出所有类型的信号，可上黑镜
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-4.png ':size=WIDTHxHEIGHT')
+
+-----------------------------
+[Astero, T2钢板小白]  
+  Small Armor Repairer II  
+  Energized Adaptive Nano Membrane II  
+  Armor Explosive Hardener II  
+  200mm Steel Plates II  
+  Data Analyzer II  
+  Cargo Scanner II  
+  Relic Analyzer II  
+  5MN Quad LiF Restrained Microwarpdrive  
+  Covert Ops Cloaking Device II  
+  Core Probe Launcher II  
+  Small Trimark Armor Pump II  
+  Small Hyperspatial Velocity Optimizer II  
+  Small Hyperspatial Velocity Optimizer II  
+  Hobgoblin II x5  
+  Hornet EC-300 x5  
+  Sisters Core Scanner Probe x16
+-----------------------------
+合计：95m
+
+需要较高的技能，和终极小白相同用法只是不能抗超冬冲击波，开隐秘需要超载爆抗。注甲可以换小修，两个超空间船插可以自行调整。
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-5.png ':size=WIDTHxHEIGHT')
+
+-----------------------------
+[Astero, 终极小白]  
+Centii A-Type Small Armor Repairer  
+Federation Navy 200mm Steel Plates  
+Imperial Navy Energized Adaptive Nano Membrane  
+Corpus X-Type Armor Explosive Hardener  
+Cargo Scanner II  
+Coreli A-Type 5MN Microwarpdrive  
+Cap Recharger II  
+Zeugma Integrated Analyzer  
+Sisters Core Probe Launcher  
+Covert Ops Cloaking Device II  
+Small Trimark Armor Pump II  
+Small Hyperspatial Velocity Optimizer II  
+Small Hyperspatial Velocity Optimizer II  
+Hobgoblin II x5  
+Warrior II x5  
+Hornet EC-300 x5  
+Sisters Core Scanner Probe x24  
+Damage Control II x1  
+'Chainmail' 200mm Steel Plates x1  
+Republic Fleet Small Shield Extender x1  
+Sisters Core Scanner Probe x24
+-----------------------------
+合计：650m
+
+很贵，适用高安开冬眠
+
+廉价低配，请看之前‘T2钢板小白’
+
+具体使用说明请看[章节7.6.5](https://notwojack.github.io/EVE-Exploration-Guide/#/EVE-Exploration-Guide?id=_765-%e7%bb%88%e6%9e%81%e5%b0%8f%e7%99%bd-the-ultimate-astero)
+
+## 8.5	伤害数据库 Damage Data Base
+
+数据摘录自gamers.chruker.dk
+
+|     隐秘坟的怪    |                      |           |            |            |
+|-------------------|----------------------|-----------|------------|------------|
+|     名称          |     DPS              |           |            |            |
+|                   |     电               |     动    |     热     |     爆     |
+|     **Angel**              |                 |           |            |            |
+|     Lookout       |                      |     27    |            |     80     |
+|     Sentry        |                      |     35    |            |     103    |
+|     Warden        |                      |     9     |            |     27     |
+|     Watcher       |                      |     49    |            |     145    |
+|     **Sanshas**              |               |           |            |            |
+|     Lookout       |     39+9             |           |     39     |            |
+|     Sentry        |     70+9             |           |     70     |            |
+|     Warden        |     13+9             |           |     13     |            |
+|     Watcher       |     50+9             |           |     50     |            |
+|     **Blood Raiders**               |        |           |            |            |
+|     Lookout       |     54               |           |     54     |            |
+|     Sentry        |     99               |           |     99     |            |
+|     Warden        |     18               |           |     18     |            |
+|     Watcher       |     71               |           |     71     |            |
+|     **Guristas**              |              |           |            |            |
+|     Lookout       |                      |           |     117    |            |
+|     Sentry        |                      |           |     212    |            |
+|     Warden        |                      |           |     39     |            |
+|     Watcher       |                      |           |     151    |            |
+|     **Serpentis**             |             |           |            |            |
+|     Lookout       |                      |     40    |     66     |            |
+|     Sentry        |                      |     72    |     120    |            |
+|     Warden        |                      |     14    |     22     |            |
+|     Watcher       |                      |     52    |     86     |            |
+
+备注：
+1.	Sentry（1点反跳），Watcher（-60%网子）
+2.	萨莎伤害为炮台+导弹，古斯塔斯伤害为导弹，其他均为炮台
+3.	天使的反跳和网子怪互换一下
+
+|     冬眠坟炮塔                         |                    |            |                             |                   |
+|----------------------------------------|--------------------|------------|-----------------------------|-------------------|
+|                                        |     攻             |            |     防（无盾无结构抗性）    |                   |
+|     攻击间隔15s                        |     电             |     热     |     甲/结构                 |     甲抗(全抗)    |
+|     Wakeful   Sentry Tower             |     546            |     546    |     7k/3.5k                 |     40%           |
+|     Vigilant   Sentry Tower            |     390            |     390    |     5k/2.5k                 |     40%           |
+|     Restless   Sentry Tower            |     702            |     702    |     11k/5.5k                |     40%           |
+|     该炮塔只出现在超冬电离层           |     攻击间隔12s    |            |                             |                   |
+|     Impaired   Archive Sentry Tower    |     783            |     783    |     13k/7.5k                |     30%           |
+
+备注：游戏内的炮塔均存在一个BUG，当周围有一个破解过的箱子（箱子或是防御单元之类的），并且炮塔已经锁定你了，此时你跃迁出去，会发现所有炮塔转而开始攻击那个破解过的箱子，且不会转火。
+
+|      环境伤害       |     标冬毒雾                       |     超冬电厂     毒云（EM）     |     超冬3层     废墟        |     超冬3层     冲击波              |
+|---------------------|------------------------------------|---------------------------------|-----------------------------|-------------------------------------|
+|     伤害，全伤/s    |     扩散前4x100     扩散后4x250    |     稳定前600     稳定后 25     |     4x100     有暴击800     |     普通4x2x300     大4x10250/9s    |
+
+## 8.6	气云星座 Gas Cloud Regions
+
+Blue Pill – Amber
+-	Low security space (hot-spot constellation – region): Mivora – The Forge
+-	No security space(hot-spot constellation – region): E-8CSQ – Vale of the Silent
+
+Crash – Golden
+-	Low security space (hot-spot constellation – region): Umamon – Lonetrek
+-	No security space(hot-spot constellation – region): 09-4XW – Tenal
+
+Drop – Viridian
+-	Low security space (hot-spot constellation – region): Amevync – Placid
+-	No security space(hot-spot constellation – region): Assilot – Cloud Ring
+
+Exile – Celadon
+-	Low security space (hot-spot constellation – region): Elerelle – Solitude
+-	No security space(hot-spot constellation – region): Pegasus – Fountain
+
+Frentix - Lime
+-	Low security space (hot-spot constellation – region): Joas – Derelik
+-	No security space(hot-spot constellation – region): 9HXQ-G – Catch
+
+Mindflood – Malachite
+-	Low security space (hot-spot constellation – region): Fabai – Aridia
+-	No security space(hot-spot constellation – region): OK-FEM – Delve
+
+Sooth Sayer – Azure
+-	Low security space (hot-spot constellation – region): Tartatven – Molden Heath
+-	No security space(hot-spot constellation – region): 760-9C – Wicked Creek
+
+X-instinct – Vermillion
+-	Low security space (hot-spot constellation – region): Hed – Heimatar
+-	No security space(hot-spot constellation – region): I-3ODK – Feythabolis
+
+## 8.7	挖坟成就 Achievements
+
+按着下表自行探索，并成功完成这些成就，就是EVE挖坟的游戏乐趣！
+
+|               |     介绍                                                  |     完成度    |
+|---------------|-----------------------------------------------------------|---------------|
+|     铜杯      |                                                           |               |
+|               |     成功挖了一个普通遗迹/数据坟                           |               |
+|               |     第一次损挖坟船                                        |               |
+|               |     第一次去虫洞中挖坟                                    |               |
+|               |     第一次去敌对区域挖坟                                  |               |
+|               |     第一次被隐秘坟炸了                                    |               |
+|               |     第一次进入限冬                                        |               |
+|               |     第一次进入标冬                                        |               |
+|               |     第一次进入超冬                                        |               |
+|               |     成功挖穿限冬                                          |               |
+|               |     成功挖了低安气云                                      |               |
+|               |     成功挖了00气云                                        |               |
+|               |     成功挖穿标冬                                          |               |
+|               |     成功挖穿超冬前2层                                     |               |
+|               |     成功用上黑镜                                          |               |
+|               |     考古，破解技能达到双V                                 |               |
+|     银杯      |                                                           |               |
+|               |     技能达标，开上T2小白                                  |               |
+|               |     成功挖了战斗气云                                      |               |
+|               |     在隐秘坟的爆炸下幸存                                  |               |
+|               |     成功使用暴力开法挖了标冬                              |               |
+|               |     （隐藏）扫描出寂静战场                                |               |
+|               |     （隐藏）挖到旗舰注盾                                  |               |
+|     金杯      |                                                           |               |
+|               |     成功无伤撞出超冬雷区3个箱子                           |               |
+|               |     成功挖光高/超隐4个箱子                                |               |
+|               |     成功挖光超冬第三层所有10个箱子                        |               |
+|               |     （隐藏）挖到高统6号                                   |               |
+|     白金杯    |                                                           |               |
+|               |     完成以上所有成就                                      |               |
+|               |     （隐藏）成功使用小白挖穿超冬包括三层（除废墟中的）    |               |
+

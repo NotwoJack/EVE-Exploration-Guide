@@ -17,6 +17,7 @@
 <!--          title="docsify-darklight-theme"-->
 <!--          type="text/css"-->
 <!--  />-->
+
 </head>
 <body>
 <nav data-cloak>
@@ -50,6 +51,18 @@
     nameLink: {
       '/en/': '#/en/',
       '/': '',
+    },
+    darkMode: {
+      dark: {
+        background: "#1c2022",
+        toggleBtnBg: "#34495e",
+        textColor: "#b4b4b4"
+      },
+      light: {
+        background: "white",
+        toggleBtnBg: "var(--theme-color)",
+        textColor: "var(--theme-color)"
+      }
     }
   }
 </script>
@@ -57,6 +70,13 @@
 <!--<script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>-->
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TXHGQ675QD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-TXHGQ675QD');
+</script>
 </body>
 </html>
