@@ -816,7 +816,7 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 | 中点                         |             |                                                                             |        |
 | Dented storage depot         | 箱子        | 冬眠信号消失，离开站或是隐身2分钟后，这个坟会消失                           | 无惩罚 |
 | Solray Observational Unit    | 需要打开    | 获得任意一个Modulate Discs Infrared/Radio/Gamma                             | 无惩罚 |
-| Solray Grammar Infrared Unit | 盒子        | 对应放入Infrared Modulate Disc                                              |        |
+| Solar Infrared Alignment Unit | 盒子        | 对应放入Infrared Modulate Disc                                              |        |
 | Spatial Rift                 | 中点轨道    | 前往远点 远点校准后：前往‘地雷区’                                           |        |
 | 6x Storage Depot             | 箱子        | 放入对应的Alignment Discs后毒雾伤害减低至 25/s，范围13-17KM，破解失败无惩罚 |        |
 | 远点                         |             |                                                                             |        |
