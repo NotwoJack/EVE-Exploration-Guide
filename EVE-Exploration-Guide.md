@@ -1077,7 +1077,7 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 |     Save Location                          |     保存位置                                      |     Ctrl-B        |
 |     Stop Ship                              |     停船                                          |     Ctrl-Space    |
 |     **Modules**                                |                                                   |                   |
-|     Activate Medium High Slot 1            |     启用高槽1，隐身                               |     Q             |
+|     Activate High Power Slot 1             |     启用高槽1，隐身                               |     Q             |
 |     Activate Medium Power Slot 1           |     启用中槽1，推子                               |     Space         |
 |     Activate Medium Power Slot 2           |     启用中槽2，货柜扫描                           |     A             |
 |     Activate Medium Power Slot 3           |     启用中槽3，数据/一体分析仪                    |     S             |

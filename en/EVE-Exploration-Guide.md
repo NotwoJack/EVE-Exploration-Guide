@@ -1045,3 +1045,141 @@ There is only a small possibility that someone survived from failing in Sentries
 A newbie could put the Modulate Disc into a wrong Alignment Unit. Check all three Alignment Units. If their names are all Unaligned then the Modulate Disc is in a wrong Unit. An Astero could only give the cans in the cloud up (a Stratios could hack them while tanking the damage).
 2.	Failure in Sentries on Duty
 Check the Hyperfluct Generator at the Entry. If its full, it means the failure was before last DT. The Sentry Towers spawned by alarm are hidden, but in 3-5s after you entered Sentries on Duty, they would be reactivated. However, in this case you still could activate the Rift nearby immediately and return to Solar Power Plant safely and hack the cans there (if they are not hacked before). Or hack the Generator again and get a Rift to Solar Power Plant. If the Generator is empty, dont enter. 22 Sentry Towers are waiting for you. (An Astero with 8500+ EHP could possibly survive the first round. You could take the risk, warp in and then try warping back to Solar Power Plant immediately)
+
+## 7.6 Advanced Tips
+
+To increase the efficiency by exploring, this chapter would introduce some tips.
+
+### 7.6.1 One Probing
+
+by 十月
+
+Example: 120 probe strength, 8AU probe size. Scan with only 1 probe.
+After first time scanning, if the signal is……
+above 8.6%+, its normally a level II or I signal.
+between 5-8.5%, its normally a level III signal. 
+between 3-5%, its normally a level IV signal.
+under 2%, its normally a Sleeper Cache.
+If you get a “two dot” result, then x2. If the result is a circle, x4. If the result is a sphere and the signal is under 1%, reposition and try again.
+
+Common signals
+Level III: Ghost Sites, Gas Sites (Two kinds of sites with towers. Another kind is Nebula)
+Level IV: two kinds of Sleeper Caches, one Gas Site (no tower in Lowsec, with Energy Neutralizer Towers in Nullsec), faction shipyards and dens or normal faction Relic Sites
+Level V: Superior Sleeper Cache (or Silent Battleground, only in WH)
+When you are specialized in exploration, normally you would only scan these three kinds of signals and leave the level I and II signals alone. After you entered a system, you only scan first with 8AU size and clear the results above 8.6% (right click->Ignore), then scan the signals left. When you are travelling in Highsec, you could also scan once with 8AU size while warping to checking if there are Ghost Sites or Superior Sleeper Cache. With this measure, you could find the Superior Sleeper Cache efficiently.
+
+**Distinguishing the signals without probing**
+
+Sleeper Caches are normally more than 6AU away from a planet.
+Ghost Sites are normally about 5AU away from a planet.
+Gas ,Relic and Data Sites are normally in 4AU away from a planet.
+So normally, the signal with higher level has also larger sphere and this sphere dont often include a planet. After you have enough experience, you could find the Superior Sleeper Cache at the first moment. Another kind of signal, which could be more than 6AU away from a planet, is Wormhole. A signal, for example in the following images, which doesnt include a planet and couldnt be covered by the 8AU spheres, has a great chance to be a Superior Sleeper Cache.
+If you find a level IV signal, you could warp to the nearest planet. If the distance between you and the planet is less than 4AU, it should be a shipyard. If the distance is more than 5AU, its normally a Standard Sleeper Cache.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.1-1.png ':size=WIDTHxHEIGHT')
+
+Up: the size of the Standard Sleeper Cache
+Down: Both ways could clear the unneeded results.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.1-2.png ':size=WIDTHxHEIGHT')
+
+### 7.6.2 Shortcut
+
+Here are the commonly used shortcuts for exploration and the suggested keys for them. Use the shortcuts skillfully is necessary for exploring efficiently (also for exploring the whole Superior Sleeper Cache). Most shortcuts will only take effect by first pressing them and then clicking the target by mouse.
+
+|Name                               |Effect                                                             |Suggested keys|
+|:----------------------------------|:------------------------------------------------------------------|:------------:|
+|**Combat**                         |                                                                   |              |
+|Approach                           |Approach                                                           |N/A           |
+|Directional Scan                   |Dscan                                                              |X             |
+|Dock/Jump/Activate gate            |Dock, jump or activate a stargate                                  |Alt           |
+|Keep at Range                      |Keep at range                                                      |C             |
+|Lock target                        |Lock the target. Multiple targets could be chosen by using mouse.  |Ctrl          |
+|Unlock target                      |Unlock the target. Multiple targets could be chosen by using mouse.|Shift         |
+|Orbit                              |Orbit                                                              |V             |
+|Refresh Probe Scan                 |Scan with the probes. Probes would be launched automatically.      |Z             |
+|Tag item from sequence: 1 through 9|Mark in sequence (must be in a fleet)                              |1             |
+|Tag item as: A                     |Mark the target as A, exclude the worthless cans                   |2             |
+|**Navigation**                     |                                                                   |              |
+|Save Location                      |Save the location                                                  |Ctrl+B        |
+|Stop Ship                          |Stop the ship                                                      |Ctrl+Space    |
+|**Modules**                        |                                                                   |              |
+|Activate High Power Slot 1         |(Cloaking Device)                                                  |Q             |
+|Activate Medium Power Slot 1       |(prop module)                                                      |Space         |
+|Activate Medium Power Slot 2       |(Cargo Scanner)                                                    |A             |
+|Activate Medium Power Slot 3       |(Data/Integrated Analyzer)                                         |S             |
+|Activate Medium Power Slot 4       |(Relic Analyzer)                                                   |D             |
+
+### 7.6.3 Interface
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-1.png ':size=WIDTHxHEIGHT')
+
+The image above is my suggested standard UI for exploring (based on 1080p display). If yours is 768p, you could remove the chat on the left side and move the HUD (move the mouse to the capacitor and hold left-click). After all settings, the UI would be saved and the next time you open a window, it would be at the same place.
+
+Emphasis:
+
+1.	Move the Lock Target List to the place above the HUD below. Find the dot on the right image, which enables you to move its Anchor Position. ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-2.png ':size=WIDTHxHEIGHT')
+2.	Open the Dscan and the Probe Scanner. Find the white square on the right image. This window would be separated after clicking this square. Then click the pin on the right side of the square to fix it there. ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-3.png ':size=WIDTHxHEIGHT')
+3.	Move the Selected Item to the place, where it is between the Analyzer’s minigame and the Lock Target List (on the image of suggested standard UI). This would make looting easier.
+
+**Quick looting settings**
+
+Open the Inventory, click the gear at the top left corner and tick the box on the right image (Always open in separate window), which don’t open your Inventory when you open a can. ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-4.png ':size=WIDTHxHEIGHT')
+Then move the window of the opened can to the place as same as on the right image, so that the button “Loot All” is on the “Open Cargo” button on the Selected Item UI. This enables you looting immediately after opening a can, and after looting, the window of the opened can would be closed automatically. ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-5.png ':size=WIDTHxHEIGHT')
+
+### 7.6.4 Overview
+
+By normal exploring, the overview in Motd of the channel could be used, or use the overview provided by your corp.
+Read Uniwiki for setting the overview.
+Two kinds of settings are needed, the first one is the overview on the main UI, the second one is the bracket, which shows the target directly.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.4-1.png ':size=WIDTHxHEIGHT')
+
+Exploration overview:
+Suggested entities showed on the overview are the dockable upwell structures, stargates, stars, players’s ships, normal cans, hackable things in Sleeper Caches and Sentry Towers.
+Then set the brackets. Normally, showing all brackets is suggested.
+Optional: For exploring The Archive, you could make a special overview setting, which only shows the cans and Sentry Towers in Sleeper Caches, for locking targets in The Archive faster (The overview in Motd of the channel includes it). With this, all cans could be locked easily with Ctrl+left click. Remember to switch to this setting before warping to The Archive.
+
+Normal cans
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.4-2.png ':size=WIDTHxHEIGHT')
+
+Cans in Sleeper Caches
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.4-3.png ':size=WIDTHxHEIGHT')
+
+Entities and Beacons in Sleeper Caches
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.4-4.png ':size=WIDTHxHEIGHT')
+
+Sentry Towers in Sleeper Caches
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.4-5.png ':size=WIDTHxHEIGHT')
+
+Mission containers in Sleeper Caches
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.4-6.png ':size=WIDTHxHEIGHT')
+
+### 7.6.5 The Ultimate Astero
+
+Here is the introduction for the fit “The Ultimate Astero” in Chapter 8.4. Before using this fit, make sure that you have already trained Amarr Frigate and all main skills in Scanning, Armor, Shields and Engineering to IV or higher. Or you may have shortage of Capacitor or EHP. Then you could only use better Nano in Low slots. If your skill levels are high enough, you could fit with worse (but proper) equipments.
+The advantages of this fit are:
+First, you never need to refit with explosive armor hardener anymore. Second, you have two T2 Hyperspatial Velocity Optimizers. They improve greatly your Warp Speed (If you use the whole set of High-grade Ascendancy at the same time, you could even reach 12AU/s.). If you are not going to tank the shock waves in The Archive, you could change everything except the explosive armor hardener to T2. And the Damage Control, the Steel Plate and the Shield Extender in the cargo are also no longer necessary.
+
+Ghost Sites: When the explosive armor hardener are activated, there should be 80% armor explosive resistance. You could tank the explosion from a can in an Improved Facility without damaging your structure. If you are going to explore a Superior Facility, preoverheat your explosive armor hardener after deactivating your Cloaking Device. When the time comes, press the proper shortcut and it could be activated.
+
+Gas Sites in Lowsec: Repair while hacking. Warping out is unnecessary.
+
+Gas Sites in Nullsec: as what is written in chapter Advanced
+
+Limited and Standard Sleeper Cache: Just hack it. In Standard Cache you could hack the Tractor Beam while holding on the Sentry Towers.
+
+Mine Room: Cycle the explosive armor hardener.
+
+The Archive: Change the armor repairer and armor explosive hardener to Damage Control and Steel Plates. Change the Cap Recharger to Shield Extender. Make sure you have more than 12050 EHP.
+
+备注：如果追求最极限，可以把那个甲插也换成超空间，把联邦钢板换成深渊的，需要720+甲和-0.2以上的PG即可，然后把货柜扫描换成盾扩，在A护卫V的技能下应该有12050以上的有效(有效可能得确认下?)
+
+# 8 Appendix
+
+## 8.1 Websites
