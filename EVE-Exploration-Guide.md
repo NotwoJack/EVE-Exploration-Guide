@@ -816,7 +816,7 @@ PS：开了箱子1小时后信号才消失，DT之前清掉的怪不会刷新，
 | 中点                         |             |                                                                             |        |
 | Dented storage depot         | 箱子        | 冬眠信号消失，离开站或是隐身2分钟后，这个坟会消失                           | 无惩罚 |
 | Solray Observational Unit    | 需要打开    | 获得任意一个Modulate Discs Infrared/Radio/Gamma                             | 无惩罚 |
-| Solray Grammar Infrared Unit | 盒子        | 对应放入Infrared Modulate Disc                                              |        |
+| Solar Infrared Alignment Unit | 盒子        | 对应放入Infrared Modulate Disc                                              |        |
 | Spatial Rift                 | 中点轨道    | 前往远点 远点校准后：前往‘地雷区’                                           |        |
 | 6x Storage Depot             | 箱子        | 放入对应的Alignment Discs后毒雾伤害减低至 25/s，范围13-17KM，破解失败无惩罚 |        |
 | 远点                         |             |                                                                             |        |
@@ -1077,7 +1077,7 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 |     Save Location                          |     保存位置                                      |     Ctrl-B        |
 |     Stop Ship                              |     停船                                          |     Ctrl-Space    |
 |     **Modules**                                |                                                   |                   |
-|     Activate Medium High Slot 1            |     启用高槽1，隐身                               |     Q             |
+|     Activate High Power Slot 1             |     启用高槽1，隐身                               |     Q             |
 |     Activate Medium Power Slot 1           |     启用中槽1，推子                               |     Space         |
 |     Activate Medium Power Slot 2           |     启用中槽2，货柜扫描                           |     A             |
 |     Activate Medium Power Slot 3           |     启用中槽3，数据/一体分析仪                    |     S             |
