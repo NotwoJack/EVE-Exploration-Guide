@@ -955,7 +955,7 @@ Up: planform		Down: side view
 
 ### 7.5.6 The Archive
 
-There is much debris in The Archive, they are all enwrapped by the clouds (400DPS, 100 per damage type). Wrecking by the cloud is possible (800 damage). An Astero should never be to close to them. Go directly to the Defense Targeting Augmentation after landing will not enter any cloud.
+There is much debris (Smoldering Archive Ruins) in The Archive, they are all enwrapped by the clouds (400DPS, 100 per damage type). Wrecking by the cloud is possible (800 damage). An Astero should never be to close to them. Go directly to the Defense Targeting Augmentation after landing will not enter any cloud.
 
 |Name                             |Note|Success|Failure|
 |:--------------------------------|:---|:------|:------|
@@ -1129,7 +1129,7 @@ Then move the window of the opened can to the place as same as on the right imag
 
 ### 7.6.4 Overview
 
-By normal exploring, the overview in Motd of the channel could be used, or use the overview provided by your corp.
+By normal exploring, the overview in MOTD of the channel could be used, or use the overview provided by your corp.
 Read Uniwiki for setting the overview.
 Two kinds of settings are needed, the first one is the overview on the main UI, the second one is the bracket, which shows the target directly.
 
@@ -1138,7 +1138,7 @@ Two kinds of settings are needed, the first one is the overview on the main UI, 
 Exploration overview:
 Suggested entities showed on the overview are the dockable upwell structures, stargates, stars, players’s ships, normal cans, hackable things in Sleeper Caches and Sentry Towers.
 Then set the brackets. Normally, showing all brackets is suggested.
-Optional: For exploring The Archive, you could make a special overview setting, which only shows the cans and Sentry Towers in Sleeper Caches, for locking targets in The Archive faster (The overview in Motd of the channel includes it). With this, all cans could be locked easily with Ctrl+left click. Remember to switch to this setting before warping to The Archive.
+Optional: For exploring The Archive, you could make a special overview setting, which only shows the cans and Sentry Towers in Sleeper Caches, for locking targets in The Archive faster (The overview in MOTD of the channel includes it). With this, all cans could be locked easily with Ctrl+left click. Remember to switch to this setting before warping to The Archive.
 
 Normal cans
 
@@ -1183,3 +1183,370 @@ The Archive: Change the armor repairer and armor explosive hardener to Damage Co
 # 8 Appendix
 
 ## 8.1 Websites
+
+|Websites                             |Introduction                                                                  |
+|:------------------------------------|:-----------------------------------------------------------------------------|
+|https://wiki.eveuniversity.org       |It is a great wiki of EVE Online.                                             |
+|http://evepraisal.com/               |It provides fast price estimation for multiple items.                         |
+|https://evemarketer.com/             |It is an online eve market website and provides price checking in all regions.|
+|http://anoik.is                      |Information about WH and WH spaces                                            |
+|https://www.eve-scout.com/thera/map/ |Information about WH to Thera                                                 |
+|http://evemaps.dotlan.net/           |It provides different and abundant information about the map and the systems. |
+|http://eve-gatecheck.space/eve/      |Gatecamp checker                                                              |
+|https://github.com/pyfa-org/Pyfa     |Offline ship fitting simulator                                                |
+|https://zkillboard.com/              |It shows a lot of killmails. Different fittings could be found there.         |
+|https://evewho.com/                  |Find Character/Corp/Alliance                                                  |
+|http://sov.space/                    |Online sovereignty map                                                        |
+
+## 8.2 Factional Influence Map
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.2-1.jpg ':size=WIDTHxHEIGHT')
+
+## 8.3 Loot
+
+The following items are only BPCs (>10m) and things with relativly high value from the loot in exploration. The prices here are only for reference but not according to the current prices.
+
+|Name                                                     |Price/each|
+|:--------------------------------------------------------|:--------:|
+|**Normal Relic**                                         |          |
+|Capacitor Console (Blood Raiders)                        |0.5m      |
+|Drone Transceiver (Serpentis)                            |3m        |
+|Contaminated Lorentz Fluid (Serpentis)                   |0.3m      |
+|Enhanced Ward Console (Guristas)                         |6m        |
+|Intact Shield Emitter (Guristas)                         |0.6m      |
+|Impetus Console (Angel)                                  |1m        |
+|Single-crystal Superalloy I-beam (Angel)                 |0.7m      |
+|Intact Armor Plates (Sansha)                             |6m        |
+|Contaminated Nanite Compound (Sansha)                    |0.1m      |
+|Logic Circuit                                            |1.3m      |
+|Power Circuit                                            |0.5m      |
+|Power Conduit                                            |0.7m      |
+|Trigger Unit                                             |0.6m      |
+|                                                         |          |
+|**Normal Data**                                          |          |
+|**Faction materials**                                    |          |
+|Angel Dynamic Calibrator                                 |20m       |
+|Blood Raider Power Redistributor                         |12m       |
+|Blood Raider Regular Ballistic Control                   |15m       |
+|Serpentis 3D Scanner Gamut                               |5.5m      |
+|Serpentis Basic Target Guider                            |8m        |
+|**Materials for storyline modules**                      |          |
+|Sleeper Profound Research Notes                          |70m       |
+|Sleeper Thermal Regulator                                |5.8m      |
+|Sleeper Virtual Energizer                                |5m        |
+|Takmahl Astral Treatment                                 |6m        |
+|Takmahl Dynamic Gauge                                    |12m       |
+|Takmahl Quantum Sphere                                   |6m        |
+|Talocan Stasis Deflector                                 |9m        |
+|Yan Jung Crystal Cylinder                                |11m       |
+|Yan Jung Singularity Fact Sheet                          |45m       |
+|Yan Jung Tachyon Stetoscope                              |49m       |
+|                                                         |          |
+|**Normal BPCs**                                          |          |
+|Capital Ancillary Shield Booster                         |100m/run  |
+|                                                         |          |
+|**Ghost Site**                                           |          |
+|Covert Research Tools                                    | 0.5m (in all cans) |
+|Shattered Villard Wheel                                  | 1.2m (in Secure Depot/Lab) |
+|'Wetu' / 'Yurt' Mobile Depot Blueprint                   | 10m/30m (in Secure Databank/Mainframe) |
+|'Packrat' / 'Magpie' Mobile Tractor Unit Blueprint       | 5m/100m (in Secure Databank/Mainframe) |
+|Mid-grade Ascendancy Alpha - Beta Blueprint              | 10m (in Secure Depot) |
+|Mid-grade Ascendancy Gamma - Epsilon Blueprint           | 10m-50m (in Secure Lab) |
+| High-grade Ascendancy Alpha - Beta Blueprint <br> Mid-grade Ascendancy Omega Blueprint | 10m (in Secure Databank) |
+|High-grade Ascendancy Gamma - Epsilon Blueprint          | 30m/130m/600m (in Secure Mainframe) |
+|High-grade Ascendancy Omega Blueprint                    | 4000m (in Secure Vault) |
+|                                                         |          |
+|**Sleeper Cache**                                        |          |
+|**Sleeper Components**                                   | Sell to NPC (e.g. in Hirtamon, 2 jumps away from Jita) |
+|Neural Network Analyzer                                  |0.2m      |
+|Ancient Coordinates Database                             |1.5m      |
+|Sleeper Data Library                                     |0.5m      |
+|Sleeper Drone AI Nexus                                   |5m        |
+|**Polarized BPCs**                                       |          |
+|Polarized Rocket Launcher                                |8m/run    |
+|Polarized Torpedo Launcher                               |15m/run   |
+|Polarized Light Neutron Blaster                          |3m/run    |
+|Polarized Neutron Blaster Cannon                         |4m/run    |
+|**Storyline BPCs**                                       | Deviation from the estimation here could be very large. |
+|'Thurifer' Large Cap Battery                             |400m      |
+|'Smokescreen' Covert Ops Cloaking Device II              |400m      |
+|'Peace' Large Remote Armor Repairer                      |150m      |
+|'Radical' Damage Control                                 |100m      |
+|'Meditation' Medium Armor Repairer I                     |80m       |
+|Limited Expanded 'Archiver' Cargo                        |80m       |
+|'Posse' Multispectrum Shield Hardener                    |80m       |
+|'Warhammer' Large EMP Smartbomb I                        |80m       |
+|'Greaves' Medium Armor Repairer I                        |50m       |
+|Heavy 'Moat' Energy Neutralizer                          |50m       |
+|Heavy 'Brave' Capacitor Booster                          |50m       |
+|'Deuce' Co-Processor I                                   |30m       |
+|'Full Duplex' Ballistic Control System                   |30m       |
+|Medium 'Strigoi' Energy Nosferatu                        |30m       |
+|'Censer' Medium Cap Battery                              |30m       |
+|'Bailey' 1600mm Steel Plates                             |30m       |
+|'Interruptive' Warp Disruptor                            |20m       |
+| 1/10/100MN Analog Booster Afterburner <br> 5/50/500MN Digital Booster Microwarpdrive | 50MN 60m <br> else 20m |
+|Medium 'Ditch' Energy Neutralizer                        |10m       |
+|'Kindred' Gyrostabilizer                                 |10m       |
+|                                                         |          |
+|**Gas Site**                                             |          |
+|Neurotoxin Control                                       |150m      |
+|Neurotoxin Recover                                       |60m       |
+|Improved XX Booster Reaction Formula                     |20m       |
+|Strong XX Booster Reaction Formula                       |100m      |
+|Standard Exile / Mindflood / Blue Pill Booster Blueprint |5m        |
+|Improved Exile / Mindflood / Blue Pill Booster Blueprint |30m       |
+|Strong Exile / Mindflood / Blue Pill Booster Blueprint   |500m      |
+
+## 8.4 Fittings
+
+How to use: Just copy the text under the image (between the horizontal rules) and import the fit from clipboard at Fittings window.  ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-1.png ':size=WIDTHxHEIGHT')
+The Nanite Repair Pastes shall be bought manually if needed.
+PS: Take a Mobile Depot with you.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-2.png ':size=WIDTHxHEIGHT')
+
+---------------------------
+
+\[Heron, Newbie exploration]  
+Inertial Stabilizers I
+Inertial Stabilizers I
+5MN Microwarpdrive I
+Type-E Enduring Cargo Scanner
+Relic Analyzer I
+Data Analyzer I
+Prototype Cloaking Device I
+Core Probe Launcher I
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+Hobgoblin I x7
+'Accord' Core Compensation x2
+Core Scanner Probe I x16
+Scan Rangefinding Array I x3 
+
+---------------------------
+
+in total: 3.7m 
+Newbies could use Sister probes and Cloaking Device later.
+If the scan strength is not enough, equip with three Rangefinding Arrays.
+Two Core Stabilizers shall be fitted while travelling back to home.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-3.png ':size=WIDTHxHEIGHT')
+
+-----------------------------
+
+\[Astero, Steel Plates Astero]
+Damage Control II
+Shadow Serpentis Multispectrum Energized Membrane
+Imperial Navy 200mm Steel Plates
+Small Ancillary Armor Repairer
+5MN Y-T8 Compact Microwarpdrive
+Cargo Scanner II
+Relic Analyzer II
+Data Analyzer II
+Covert Ops Cloaking Device II
+Sisters Core Probe Launcher
+Small Trimark Armor Pump II
+Small Gravity Capacitor Upgrade I
+Small Ionic Field Projector II
+Hornet EC-300 x5
+'Integrated' Hobgoblin x5
+Warp Core Stabilizer I x3
+Domination Explosive Armor Hardener x2
+Poteque 'Prospector' Astrometric Rangefinding AR-806 x1
+Sisters Core Scanner Probe x16
+Scan Rangefinding Array I x2
+
+-----------------------------
+
+in total (without any implant): 160m
+A Steel Plates Astero shall have about 7k EHP. If the basic skills are trained to enough levels, you could change all modules to their T2 versions.******
+With enough skills, the scan strength should be 105.8, which could analyze all kinds of signals. The Blackglass implant could be used together.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-4.png ':size=WIDTHxHEIGHT')
+
+-----------------------------
+
+\[Astero, T2 Steel Plates Astero]
+Explosive Armor Hardener II
+Multispectrum Energized Membrane II
+200mm Steel Plates II
+Small Armor Repairer II
+5MN Quad LiF Restrained Microwarpdrive
+Cargo Scanner II
+Relic Analyzer II
+Data Analyzer II
+Covert Ops Cloaking Device II
+Core Probe Launcher II
+Small Trimark Armor Pump II
+Small Hyperspatial Velocity Optimizer II
+Small Hyperspatial Velocity Optimizer II
+Hobgoblin II x5
+Warrior II x5
+Hornet EC-300 x5
+Sisters Core Scanner Probe x16
+
+-----------------------------
+
+in total: 95m
+This fit needs relativly high skills. The usage of this fit is same as The Ultimate Astero, but this one could not tank the shock waves in The Archive. The Armor Explosive Hardener must be overheated while exploring Ghost Sites. Those two Hyperspatial Velocity Optimizers could be changed to other kinds of Rigs.
+
+![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-5.png ':size=WIDTHxHEIGHT')
+
+-----------------------------
+
+\[Astero, The Ultimate Astero]
+Centii A-Type Small Armor Repairer
+Federation Navy 200mm Steel Plates
+Corpus X-Type Explosive Armor Hardener
+Imperial Navy Multispectrum Energized Membrane
+Cargo Scanner II
+Coreli A-Type 5MN Microwarpdrive
+Cap Recharger II
+Zeugma Integrated Analyzer
+Sisters Core Probe Launcher
+Covert Ops Cloaking Device II
+Small Trimark Armor Pump II
+Small Hyperspatial Velocity Optimizer II
+Small Hyperspatial Velocity Optimizer II
+Hobgoblin II x5
+Warrior II x5
+Hornet EC-300 x5
+Damage Control II x1
+'Chainmail' 200mm Steel Plates x1
+Sisters Core Scanner Probe x16
+Republic Fleet Small Shield Extender x1
+
+-----------------------------
+
+in total: 650m
+Expensive, could be used for Sleeper Caches in Highsec.
+A cheaper version: the "T2 Steel Plates Astero" above
+How to use: [Chapter 7.6.5](对应链接)
+
+## 8.5 Damage Data Base
+
+Source: gamers.chruker.dk
+
+|NPC ships in Ghost Site|       |           |           |             |
+|:----------------------|:-----:|:---------:|:---------:|:-----------:|
+|**Name**               |**DPS**|           |           |             |
+|                       |**EM** |**Kinetic**|**Thermal**|**Explosive**|
+|**Angel**              |       |           |           |             |
+|Lookout                |       |27         |           |80           |
+|Sentry                 |       |35         |           |103          |
+|Warden                 |       |9          |           |27           |
+|Watcher                |       |49         |           |145          |
+|**Sanshas**            |       |           |           |             |
+|Lookout                |39+9   |           |39         |             |
+|Sentry                 |70+9   |           |70         |             |
+|Warden                 |13+9   |           |13         |             |
+|Watcher                |50+9   |           |50         |             |
+|**Blood Raiders**      |       |           |           |             |
+|Lookout                |54     |           |54         |             |
+|Sentry                 |99     |           |99         |             |
+|Warden                 |18     |           |18         |             |
+|Watcher                |71     |           |71         |             |
+|**Guristas**           |       |           |           |             |
+|Lookout                |       |           |117        |             |
+|Sentry                 |       |           |212        |             |
+|Warden                 |       |           |39         |             |
+|Watcher                |       |           |151        |             |
+|**Serpentis**          |       |           |           |             |
+|Lookout                |       |40         |66         |             |
+|Sentry                 |       |72         |120        |             |
+|Warden                 |       |14         |22         |             |
+|Watcher                |       |52         |86         |             |
+
+PS:
+1.	Sentry (1 point warp core disabling strength), Watcher (-60% web)
+2.	Sansha uses turrets and missiles. Guristas uses only missiles. All the others use turrets.
+3.	The point and web rats are exchanged in Angel.
+
+|Sentry Towers in Sleeper Caches|      |       |                 |                       |
+|:------------------------------|:----:|:-----:|:---------------:|:---------------------:|
+|                               |Damage to deal|                 | Damage to resist <br> (structure doesn’t has resistance, no shield) | |
+|Rate of fire: 15s              |EM    |Thermal|Armor / Structure|Armor resistance (Omni)|
+|Wakeful Sentry Tower           |546   |546    |7k/3.5k          |40%                    |
+|Vigilant Sentry Tower          |390   |390    |5k/2.5k          |40%                    |
+|Restless Sentry Tower          |702   |702    |11k/5.5k         |40%                    |
+| The following Sentry Tower appears only in The Archive. | Rate of fire: 12s | | | |
+|Impaired Archive Sentry Tower  |783   |783    |13k/7.5k         |30%                    |
+
+PS: All towers have a bug. When there is a hacked can (or a functional container) nearby and the towers have locked you, if you warp out of the site now and come back, all towers would keep firing only on that hacked can.
+
+|Environmental damage|Guardian Extermination Unit in Standard Sleeper Cache (Omni)|Damage cloud in Solar Power Plant (EM)|Damage cloud at Smoldering Archive Ruins in The Archive (Omni)|Shock wave in The Archive (Omni)|
+|:-------------------|:-----------------------------------------------------------|:-------------------------------------|:-------------------------------------------------------------|:-------------------------------|
+|Damage / s          |Before expanding: 4x100 <br> After: 4x250                   | Before putting the Disc into the correct Alignment Unit: 600 <br> After: 25 |4x100 <br> wrecked: 800| Normal: 4x2x300 <br> Colossal: 4x10250 / 9s |
+
+## 8.6 Gas Cloud Regions
+
+Blue Pill – Amber
+- Low security space (hot-spot constellation – region): Mivora – The Forge
+- No security space(hot-spot constellation – region): E-8CSQ – Vale of the Silent
+
+Crash – Golden
+- Low security space (hot-spot constellation – region): Umamon – Lonetrek
+- No security space(hot-spot constellation – region): 09-4XW – Tenal
+
+Drop – Viridian
+- Low security space (hot-spot constellation – region): Amevync – Placid
+- No security space(hot-spot constellation – region): Assilot – Cloud Ring
+
+Exile – Celadon
+- Low security space (hot-spot constellation – region): Elerelle – Solitude
+- No security space(hot-spot constellation – region): Pegasus – Fountain
+
+Frentix - Lime
+- Low security space (hot-spot constellation – region): Joas – Derelik
+- No security space(hot-spot constellation – region): 9HXQ-G – Catch
+
+Mindflood – Malachite
+- Low security space (hot-spot constellation – region): Fabai – Aridia
+- No security space(hot-spot constellation – region): OK-FEM – Delve
+
+Sooth Sayer – Azure
+- Low security space (hot-spot constellation – region): Tartatven – Molden Heath
+- No security space(hot-spot constellation – region): 760-9C – Wicked Creek
+
+X-instinct – Vermillion
+- Low security space (hot-spot constellation – region): Hed – Heimatar
+- No security space(hot-spot constellation – region): I-3ODK – Feythabolis
+
+## 8.7 Achievements
+
+Explore according to the following sheet and complete the achievements. This is fun in the exploration!
+
+|            |Achievements|Completion|
+|:----------:|:-----------|:---------|
+|**Copper**  |            |          |
+|            | Explore a normal Relic/Data Site. | |
+|            | Lose a ship for exploration for the first time. | |
+|            | Explore a site in WH space for the first time. | |
+|            | Explore in the hostile area for the first time. | |
+|            | Get exploded in a Ghost Site for the first time. | |
+|            | Enter the Limited Sleeper Cache for the first time. | |
+|            | Enter the Standard Sleeper Cache for the first time. | |
+|            | Enter the Superior Sleeper Cache for the first time. | |
+|            | Explore successfully a whole Limited Sleeper Cache. | |
+|            | Explore successfully a Gas Site in Lowsec. | |
+|            | Explore successfully a Gas Site in Nullsec. | |
+|            | Explore successfully a whole Standard Sleeper Cache. | |
+|            | Explore successfully a Superior Sleeper Cache except The Archive. | |
+|            | Implant a Blackglass. | |
+|            | Hacking and Archaeology are both trained to V. | |
+|**Silver**  |            |          |
+|            | Have enough skills for T2 Steel Plates Astero. | |
+|            | Explore a Combat Gas Site successfully. | |
+|            | Survive from an explosion from a can in a Ghost Site. | |
+|            | Explore a Standard Sleeper Cache with the advanced walkthrough. | |
+|            | (Hidden) Find a Silent Battleground. | |
+|            | (Hidden) Find a BPC of Capital Ancillary Shield Booster. | |
+|**Gold**    |            |          |
+|            | Find the three cans in Mine Room without taking damage. | |
+|            | Hack all four cans in an Improved/Superior Ghost Site successfully. | |
+|            | Hack all ten cans in The Archive successfully. | |
+|            | (Hidden) Find a BPC of High-grade Ascendancy Omega. | |
+|**Platinum**|            |          |
+|            | Complete all achievements above. | |
+|            | (Hidden) Explore a whole Superior Sleeper Cache including the Archive with an Astero (except the cans in the clouds at the debris). | |
