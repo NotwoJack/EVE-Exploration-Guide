@@ -1167,13 +1167,13 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 |     https://wiki.eveuniversity.org                                           |     非常好的EVE攻略站，需要一定英文水平                                    |
 |     http://evepraisal.com/                                                   |     方便的物价查询网站                                                     |
 |     https://evemarketer.com/                                                 |     市场查询网站，包含EVE全星域，提供中文版本，可以使用索引方便对比查找    |
-|     http://anoik.is（英文）          http://wormhole.sinaapp.com/（中文）    |     虫洞信息查询                                                           |
+|     http://anoik.is（英文）   <br>   http://wormhole.sinaapp.com/（中文）    |     虫洞信息查询                                                           |
 |     https://www.eve-scout.com/thera/map/                                     |     希拉虫洞信息                                                           |
 |     http://evemaps.dotlan.net/                                               |     EVE地图大全，信息非常丰富                                              |
 |     http://eve-gatecheck.space/eve/                                          |     路径安全查询，看是否有星门痴汉                                         |
 |     https://github.com/pyfa-org/Pyfa                                         |     专业飞船配装模拟软件Pyfa                                               |
 |     https://zkillboard.com/                                                  |     击杀榜，可以学配装                                                     |
-|     https://www.eve-scout.com/thera/map/                                     |     查角色网站                                                             |
+|     https://evewho.com/                                                      |     查角色网站                                                             |
 |     http://sov.space/                                                        |     联盟势力图                                                             |
 |     https://shimo.im/sheet/MD1KnU9QRV06RYqR                                  |     台风的攻略大全                                                         |
 
@@ -1229,7 +1229,7 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 |     'Packrat' /'Magpie'Mobile Tractor Unit Blueprint     林鼠/喜鹊移动式牵引装置蓝图                                                                             |     Secure Databank/     Secure   Mainframe     5m/100m    |
 |     Mid-grade Ascendancy Alpha - Beta Blueprint     中级统御1-2号 蓝图                                                                                           |     Secure Depot        10m                                |
 |     Mid-grade Ascendancy Gamma - Epsilon Blueprint     中级统御3-5号 蓝图                                                                                        |     Secure Lab     10m-50m                                 |
-|     High-grade Ascendancy Alpha - Beta Blueprint     Mid-grade Ascendancy Omega Blueprint     高级统御1-2号 蓝图，中级统御6号 蓝图                               |     Secure Databank     10m                                |
+|     High-grade Ascendancy Alpha - Beta Blueprint <br> Mid-grade Ascendancy Omega Blueprint     高级统御1-2号 蓝图，中级统御6号 蓝图                              |     Secure Databank     10m                                |
 |     High-grade Ascendancy Gamma - Epsilon Blueprint     高级统御3-5号 蓝图                                                                                       |     Secure   Mainframe     30m/130m/600m                   |
 |     High-grade Ascendancy Omega Blueprint     高级统御6号 蓝图                                                                                                   |     Secure   Vault（超隐）    4000m                           |
 |                                                                                                                                                                  |                                                            |
@@ -1251,7 +1251,7 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 |     'Radical'   Damage Control激进者损伤控制                                                                                                                     |     100m                                                   |
 |     'Meditation' Medium Armor Repairer I     冥思中型装甲维修器 I                                                                                                |     80m                                                    |
 |     Limited Expanded 'Archiver' Cargo档案员有限扩充货柜                                                                                                          |     80m                                                    |
-|     'Posse' Adaptive Invulnerability Field民团自适应全能力场                                                                                                     |     80m                                                    |
+|     'Posse' Multispectrum Shield Hardener民团自适应全能力场                                                                                                      |     80m                                                    |
 |     'Warhammer' Large EMP Smartbomb I     战锤大型电磁脉冲立体炸弹 I                                                                                             |     80m                                                    |
 |     'Greaves'   Medium Armor Repairer I油渣中型装甲维修器 I                                                                                                      |     50m                                                    |
 |     Heavy   'Moat' Energy Neutralizer 重型城壕能量中和器                                                                                                         |     50m                                                    |
@@ -1262,7 +1262,7 @@ V级信号只有一种超冬，以及虫洞里的寂静战场。
 |     'Censer' Medium Cap Battery焚炉中型电容器电池                                                                                                                |     30m                                                    |
 |     'Bailey' 1600mm Steel Plates 壁垒1600mm钢附甲板                                                                                                              |     30m                                                    |
 |     'Interruptive' Warp Disruptor 中断跃迁扰断器                                                                                                                 |     20m                                                    |
-|     1/10/100MN Analog Booster Afterburner     1/10/100MN模拟助推加力燃烧器     5/50/500MN Digital Booster Microwarpdrive     5/50/500MN数字助推微型跃迁推进器    |     50推 60m     其余20m                                   |
+|     1/10/100MN Analog Booster Afterburner     1/10/100MN模拟助推加力燃烧器 <br> 5/50/500MN Digital Booster Microwarpdrive     5/50/500MN数字助推微型跃迁推进器   |     50推 60m     其余20m                                   |
 |     Medium 'Ditch' Energy Neutralizer中型沟渠能量中和器                                                                                                          |     10m                                                    |
 |     'Kindred' Gyrostabilizer 宗族回转稳定器                                                                                                                      |     10m                                                    |
 |                                                                                                                                                                  |                                                            |
@@ -1479,7 +1479,7 @@ X-instinct – Vermillion
 -	Low security space (hot-spot constellation – region): Hed – Heimatar
 -	No security space(hot-spot constellation – region): I-3ODK – Feythabolis
 
-## 8.7	挖坟成就 Achievements
+## 8.7 Achievements
 
 按着下表自行探索，并成功完成这些成就，就是EVE挖坟的游戏乐趣！
 
