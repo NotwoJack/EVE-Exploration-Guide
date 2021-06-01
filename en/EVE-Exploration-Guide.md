@@ -455,7 +455,7 @@ Advance
 
 **How to use D-scan**
 
-Clicking this icon![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.2-2.png ':size=WIDTHxHEIGHT')on the D-scan window<br>could show the current D-scan area. Clicking the default shortcut D could scan and show all uncloaked objects in the range. The approximate location of the hostiles could be found out by d-scanning repeatedly with different angles and ranges.
+Clicking this icon ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.2-2.png ':size=WIDTHxHEIGHT') on the D-scan window <br> could show the current D-scan area. Clicking the default shortcut D could scan and show all uncloaked objects in the range. The approximate location of the hostiles could be found out by d-scanning repeatedly with different angles and ranges.
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.2-3.png)
 
@@ -463,14 +463,14 @@ Clicking this icon![logo](https://notwojack.github.io/EVE-Exploration-Guide/imag
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/6.2-4.png ':size=WIDTHxHEIGHT')
 
-Warp to a planet, save the location with Ctrl+B while warping (e.g. the red dot).
-PS: The location of the saved bookmark is determined when "Submit" is clicked, so get ready beforehand.
-The safe spots got by the method above are mostly near the center of the system, so they are probably still in the enemy Dscan range. A deep space spot would be safer. When you find a site or wormhole on the outside of the system, it could be a good deep space spot and shall be saved. In the terminal stage you should have at least one deep space spot per system in the area where you explore often.
-Tactical bookmarks near the stargates are also necessary, especially for the systems, where the distance between the stargates are >14.3AU. In such a system you can not dscan immediately the enemies camping at another stargate after jumping. A tactical bookmark 150km+ away from the stargate is suggested.
+Warp to a planet, save the location with Ctrl+B while warping (e.g. the red dot). <br>
+PS: The location of the saved bookmark is determined when "Submit" is clicked, so get ready beforehand. <br>
+The safe spots made by the method above are mostly near the center of the system, so they are probably still in the enemy Dscan range. A deep space spot would be safer. When you find a site or wormhole on the outside of the system, it could be a good deep space spot and shall be saved. In the terminal stage you should have at least one deep space spot per system in the area where you explore often. <br>
+Tactical bookmarks near the stargates are also necessary, especially for the systems, where the distance between the stargates are >14.3AU. In such a system you can not dscan immediately the enemies camping at another stargate after jumping. A tactical bookmark 150km+ away from the stargate is suggested. <br>
 
 ## 6.3 Escape
 
-The operations in the following three cases are all based on T1 frig with a Cloaking Device. It would be easier for Astero. <p>
+The operations in the following three cases are all based on T1 frig with a Cloaking Device. It would be easier for Astero. <br>
 Before entering the dangerous zones, you could first store the things with high value in an NPC station. In Personal Assets in Neocom you could find where these things are.
 
 **Before jumping**
@@ -479,9 +479,9 @@ When you worry about a bubble or someone waiting at the gate, you should first w
 
 **After jumping**
 
-Don’t be nervous if you are in a bubble. Now you are cloaked for 60s. Switch to the tactical camera and find out where are the ships and where is open. Align (double click) to where is open and activate the MWD and cloaking device at the same time (hotkeys are better than the mouse). Hopefully, you get out of the bubble after the only cycle of MWD. Now you can jump, or wait for a while and watch what the hostile ships are going to do.
-Or you don’t try to warp, but approach the gate (overload and activate the MWD).
-If there are only a few ships, you could use [the third operation of the cloak trick](对应链接).
+Don’t be nervous if you are in a bubble. Now you are cloaked for 60s. Switch to the tactical camera and find out where are the ships and where is open. Align (double click) to where is open and activate the MWD and cloaking device at the same time (hotkeys are better than the mouse). Hopefully, you get out of the bubble after the only cycle of MWD. Now you can jump, or wait for a while and watch what the hostile ships are going to do. <br>
+Or you don’t try to warp, but approach the gate (overload and activate the MWD). <br>
+If there are only a few ships, you could use [the third operation of the cloak trick](对应链接). <br>
 If there is any Interdictor, the method is the same as above.
 
 **In the system**
@@ -494,7 +494,7 @@ When the hostile is already in 30km and is locking you, align to the opposite an
 
 **Worst case**
 
-When the hostile is already on you (in 2km) and you can even not make the cloak trick. Overload the MWD and align to the opposite. Try to activate the Cloaking Device. If you make it, operate the same as above. If you are locked and tackled by disruptor and webbed, you still stand a chance of holding the damage and getting out of the range. Warp immediately when it is possible.
+When the hostile is already on you (in 2km) and you can even not make the cloak trick. Overload the MWD and align to the opposite. Try to activate the Cloaking Device. If you make it, operate the same as above. If you are locked and tackled by disruptor and webbed, you still stand a chance of holding the damage and getting out of the range. Warp immediately when it is possible. <br>
 If you are tackled by scrambler, engage the hostile with your ECM drones and hope they will work. Don’t give up trying to warp. At least you can save your pod.
 
 **Introduction of the equipment**  
@@ -512,7 +512,7 @@ Normally a Sabre would use 200mm/220mm/280mm Projectile Turrets. So try to hang 
 
 # 7 Advance
 
-All the following operations are based on the fit [T2 Steel Plates Astero](对应链接) in the Appendix. The valuable things could be stored in a Mobile Depot before the exploration in the advanced sites. Remember to save the location of the wreck after a loss, so that some valuable things could still be looted back. If you are using Stratios or T3C, refer to the data below and other ways could be found. For the main loot please read [Loot](对应链接). Sell those blue loots from the Sleeper Caches to the NPC. In the ingame market, the nearest NPC order could be found. Sell them at best on the way home directly.
+All the following operations are based on the fit [T2 Steel Plates Astero](对应链接) in the Appendix. The valuable things could be stored in a Mobile Depot before the exploration in the advanced sites. Remember to save the location of the wreck after a loss, so that some valuable things could still be looted back. If you are using Stratios or T3C, refer to the data below and other ways could be found. For the main loot please read [Loot](对应链接). Sell those blue loots from the Sleeper Caches to the NPC. In the ingame market, the nearest NPC order could be found. Sell them at best on the way home directly. <br>
 All videos for the advanced sites: [Here](https://www.bilibili.com/video/BV1NW411Z7Cq)
 
 ## 7.1 Ghost Sites
