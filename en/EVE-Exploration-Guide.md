@@ -517,16 +517,16 @@ All videos for the advanced sites: [Here](https://www.bilibili.com/video/BV1NW41
 
 ## 7.1 Ghost Sites
 
-There are 4 kinds of ghost sites, all of them are level III Data Sites. Expect in the eight drone regions, they are level I Combat Sites. The superior Ghost Site only exists in WH space.
-Lesser/Standard/Improved/Superior + Faction + Covert Research Facility
-There are four cans in total and are arranged as a square or a half-circle. There is a hidden timer from 60s to 240s (time is random), which starts when “warp” is clicked. The timer will not start if you warp cloaked, but the recalibration for locking lasts at least 5s. So you should estimate the time and decloak before landing..
-When the timer ends, the NPC ships will warp into the site and tackle you absolutely. When the background music becomes hurried, the timer left is less than 30s. In the hacking minigame, there is no background music. In the improved and superior ghost sites, there are no background music changes as the cue.
+There are 4 kinds of ghost sites, all of them are level III Data Sites, but they are level I Combat Sites in the eight drone regions. The Superior Ghost Site only exists in WH space. <br>
+Lesser/Standard/Improved/Superior + Faction + Covert Research Facility <br>
+There are four cans in total and are arranged as a square or a half-circle. There is a hidden timer from 60s to 240s (time is random), which starts when “warp” is clicked. The timer will not start if you warp cloaked, but the recalibration for locking lasts at least 5s. So you should estimate the time and decloak before landing. <br>
+When the timer ends, the NPC ships will warp into the site and tackle you absolutely. When the background music becomes hurried, the timer left is less than 30s. In the hacking minigame, the background music could not be heared. In the improved and superior ghost sites, there are no background music changes as the cue. <br>
 The can will explode and cause explosion damage when it gets any damage or the first hacking fails. In more difficult Ghost Sites, the cans also cause higher damage. For tanking the can explosion, high explosion resistance and enough EHP are needed. Except for the cans in superior, the others don’t have hard hacking minigames (basically with green/yellow system core). A T2 data analyzer is suggested. The Ghost Sites are dangerous so the newbies shall use a cheap hull and fit (e.g. Heron) and store the expensive stuff somewhere safe (e.g. in the Mobile Depot).
 
 Online video:
 <iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&page=6" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
 
-Attention: Warp while hacking a can is counted as the hacking is failed and then triggers the explosion of the can you were hacking. Do not orbit while your MWD is on, because the ship could fly out of the range of the analyzer (6000m) and the hacking is also failed.
+Attention: Warping while hacking a can is counted as the hacking is failed and then triggers the explosion of the can you were hacking. Do not orbit while your MWD is on, because the ship could fly out of the range of the analyzer (6000m) and the hacking is also failed.
 
 **The concrete process**
 
@@ -551,7 +551,7 @@ Tips：
 |                                    |       |        |        |        |
 |**Region**                          |Highsec|Lowsec  |Nullsec |WH      |
 |                                    |       |        |        |        |
-|**Explosive damage (radius 10km)** |6000   |8000    |10000   |12000   |
+|**Explosive damage (radius 10km)**  |6000   |8000    |10000   |12000   |
 |                                    |       |        |        |        |
 |**The types of the cans and number**|Loot: [Appendix 8.3](对应链接)| | | |
 |Secure Depot                        |3      |        |        |        |
@@ -562,11 +562,11 @@ Tips：
 |                                    |       |        |        |        |
 |**Rats' number, the type is random**<br>Damage: [Appendix 8.5](对应链接)| 4 | 6 | 8 | 10 |
 
-Can explosion damage formula：
-Real damage = Can explosion damage X (1 - explosion resistance)
-Exp.：A can in Improved explodes and the ship is an Astero with 88% explosion resistance from armor
-Received damage = 10000 X（1 - 0.88）= 1200
-It means if the astero has more than 1200 armor, then it won't be destroyed by the explosion. (Shield and Structure could also be counted in.)
+Can explosion damage formula: <br>
+Real damage = Can explosion damage X (1 - explosion resistance) <br>
+Exp.：A can in Improved explodes and the ship is an Astero with 88% explosion resistance from armor <br>
+Received damage = 10000 X（1 - 0.88）= 1200 <br>
+It means if the astero has more than 1200 armor, then it won't be destroyed by the explosion. (Shield and Structure could also be counted in.) <br>
 
 ## 7.2 Gas Sites
 
@@ -609,8 +609,8 @@ Distribution Base
 
 Level IV cosmic signature
 
-3-9 cans inside. When cloaked, some of them are hidden.
-In this signature, the cans are all located near the structures, so it is easy to get stuck in the structure and get destroyed. Because of this, adjust your position first after landing. Then orbit 500m and begin hacking after you confirmed that you won’t be stuck there.
+3-9 cans inside. When cloaked, some of them are hidden. <br>
+In this signature, the cans are all located near the structures, so it is easy to get stuck in the structure and get destroyed. Because of this, adjust your position first after landing. Then orbit 500m and begin hacking after you confirmed that you won’t be stuck there. <br>
 Sometimes two Industrials could appear inside the signature, they may drop BPC. (They could be scanned with cargo scanner.)
 
 Loot: Skill Books, Implants, Standard/Improved Booster BPC, and Reaction Formula (small possibility: Strong BPC and Reaction Formula)
@@ -650,7 +650,7 @@ Combat Gas Sites' names and regions
 |Digital Compound    |Fountain          |
 |Digital Tessellation|Cloud Ring        |
 
-The structures of the “Digital” sites in different regions are similar. Here is an example of Digital Convolution in Tenal. This introduction is about how to explore the “Digital” sites with an Astero. Thank EVO 3016 and 784 fvtr for the information.
+The structures of the “Digital” sites in different regions are similar. Here is an example of Digital Convolution in Tenal. This introduction is about how to explore the “Digital” sites with an Astero. Thank EVO 3016 and 784 fvtr for the information. <br>
 The difficulty is about the same as 6/10. A Gila could clear the whole site and T3C could finish the site without clearing it.
 
 **1st pocket**
@@ -663,14 +663,14 @@ After taking the acceleration gate, there are two gates in the 1st pocket. The g
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2.1-2.png ':size=WIDTHxHEIGHT')
 
-After landing, orbit the cans inside the red circle and scan them quickly. On the left and the right side of the circle, there are two cans. There are NPC ships protecting them and would fire on you if you hack them (DPS about the same as the Gas Sites in LS.) Watch out the Local because the NPC reinforcements may appear (4 tackle frigs and 4 battlecruisers). Astero could destroy the frigs with drones but needs to warp out of the site and come back, then only four battlecruisers would fire on you. The gate to the 3rd pocket could be ignored. Instead of it, going to the 3rd pocket with the gate in the 1st pocket is suggested.
+After landing, orbit the cans inside the red circle and scan them quickly. On the left and the right side of the circle, there are two cans. There are NPC ships protecting them and would fire on you if you hack them (DPS about the same as the Gas Sites in LS.) Watch out the Local because the NPC reinforcements may appear (4 tackle frigs and 4 battlecruisers). Astero could destroy the frigs with drones but needs to warp out of the site and come back, then only four battlecruisers would fire on you. The gate to the 3rd pocket could be ignored. Instead of it, going to the 3rd pocket with the gate in the 1st pocket is suggested. <br>
 If the site is in an area of Blue Pill or Exile or Mindflood, exploring the 3rd pocket is meaningful. In other areas, exploring the 1st and 2nd pockets is enough.
 
 **3rd pocket**
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.2.1-3.png ':size=WIDTHxHEIGHT')
 
-After landing there are many NPC ships near you. Cycle your MWD and align to the opposite immediately. The frigs in this pocket also have tackle modules. Draw most NPC ships >30km away from the landing point, then warp out of the site and come back. Cycle the MWD and approach the cans. Scan them first and hack them. If the site is in an area of Blue Pill or Exile or Mindflood, going to the 4th pocket is suggested (Strong booster BPC mostly appear in loot.), but activating the gate to the 4th pocket needs you to destroy all NPC ships in 3rd pocket first. The amount of NPC ships in the 4th pocket is similar to 3rd pocket. There are also frigs with tackle modules.
+After landing, there are many NPC ships near you. Cycle your MWD and align to the opposite immediately. The frigs in this pocket also have tackle modules. Draw most NPC ships >30km away from the landing point, then warp out of the site and come back. Cycle the MWD and approach the cans. Scan them first and hack them. If the site is in an area of Blue Pill or Exile or Mindflood, going to the 4th pocket is suggested (Strong booster BPC mostly appear in loot.), but activating the gate to the 4th pocket needs you to destroy all NPC ships in 3rd pocket first. The amount of NPC ships in the 4th pocket is similar to 3rd pocket. There are also frigs with tackle modules.
 
 PS: The cosmic signature disappears after I have had hacked the cans for one hour. The destroyed NPC ships will not be refreshed before DT, so it could be farmed.
 
@@ -709,7 +709,7 @@ Online video:
 3.	After landing, orbit and hack the Remote Defense Grid Unit nearby. After hacking successfully, launch the drones and destroy the Sentry Tower. Then hack the cans.
 
 4.	Save your location now, then warp out of the site and come back to the Logistic area. Hack the the furthest can called Mangled Storage Depot, then hack the new spawned Defense Alarm Unit near it.
-    > If succeed: Hack the new spawned Pristine Storage Depot and go to the Tractor Beam area.
+    > If succeed: Hack the new spawned Pristine Storage Depot and go to the Tractor Beam area. <br>
     > If fail: Cycle your MWD and align vertically downwards until 120km distance, where the Guardian does not exist. Then go to the Rift near the Immobile Tractor Beam while avoiding the Guardian and enter the 2nd pocket. (Jump to step 6)
 
 5.	Approach the Sentry Tower in the Tractor Beam area manually with enough angular velocity and destroy it with the drones. Hack the Remote Defense Grid Unit and fail the hacking minigame manually until the Guardian is activated. Align vertically downwards and cycle your MWD until 80km distance. Enter the 2nd pocket after the Rift appears.
@@ -720,34 +720,34 @@ Online video:
 
 **Please read it carefully with the Basic Guide together.**
 
-**Entry**
-Hyperfluct Generator
-Requirement: Data Analyzer
-Success: the Rift appears
+**Entry** <br>
+Hyperfluct Generator <br>
+Requirement: Data Analyzer <br>
+Success: the Rift appears <br>
 Failure: 2mins long timer. If the Generator is still not being hacked successfully before the timer ends, it will self destruct (without damage).
 
-Before entering the 1st pocket, the alarm mechanism is first introduced here.
+Before entering the 1st pocket, the alarm mechanism is first introduced here. <br>
 **Alarm level:** One alarm level would be raised by once failure from hacking. There are five levels in total and at every level the Guardian could appear. At level 5 the Guardian will always appear.
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.4.2-1.png ':size=WIDTHxHEIGHT')
 
 **Guardian:** Not NPC ships, but a kind of cloud with AOE damage. Before the appearance, it would be indicated in the local channel. Once the 30s long timer begins (the red text in the image above), cycle your MWD and align vertically downwards immediately. At first the range of Guardian is only 30km, after 30s it will spread out until about 70km (DPS before spreading: 400/s, 100 per damage type) (DPS after spreading: 1000/s, 250 per damage type). Attacking the structure Sleeper Enclave would trigger the 30s alarm immediately. After the appearance of the Guardian (with any method), the Rift to the second pocket would appear at the Tractor Beam. And the entrance location of the first pocket would be moved to another beacon, which is outside of the Guardian and near that new Rift.
 
-**1st pocket**
-three areas: 1. Logistic area	2. Tractor Beam area	3. Sleeper Enclave area
+**1st pocket** <br>
+three areas: 1. Logistic area &nbsp;&nbsp; 2. Tractor Beam area &nbsp;&nbsp; 3. Sleeper Enclave area
  
 **Logistic area**
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.4.2-2.png ':size=WIDTHxHEIGHT')
 
-Red circle: three Coordinate Plotting Devices
-Blue circle: Remote Calibration Device - High/Low Power
+Red circle: three Coordinate Plotting Devices <br>
+Blue circle: Remote Calibration Device - High/Low Power <br>
 The furthest can at the bottom right is Mangled Storage Depot.
 
 |Name                                  |Note|Success|Failure|
 |:-------------------------------------|:---|:------|:------|
 |Mangled Storage Depot                 | At the bottom right (on the image) <br> Suggestion: hack it before going to the second pocket | A Defense Alarm Unit spawns. It must be hacked successfully in 1min, or the Guardian will appear. After hacking this Depot, the calibrated Rift is no longer able to be used. | Nothing |
-|Defense Alarm Unit                    | 1min long timer | A new Depot spawns.|Trigger the alarm and the Guardian |
+|Defense Alarm Unit                    | 1min long timer | A new Depot spawns. | Trigger the alarm and the Guardian |
 |Mangled Storage Depot                 |    | Is able to be opened | Nothing |
 |Dented Storage Depot                  |    | The cosmic sig disappears. After leaving the site or cloaking in it for 2mins, the site will disappear. | Nothing |
 |Remote Defense Grid Unit              |    | A Sentry Tower in Sleeper Enclave area would be closed and another one in Tractor Beam area would be activated. | Raise one alarm level |
@@ -769,7 +769,7 @@ This area could be arrived by activating the Calibrated Long Rift. The locked ta
 
 **Tractor Beam area**
 
-The Rift to the 2nd pocket would appear nearby.
+The Rift to the 2nd pocket would appear nearby. <br>
 If you get here with the Spatial Rift, a Sentry Tower nearby would be activated.
 
 |Name                    |Note|Success|Failure|
@@ -809,13 +809,13 @@ If the Dented, Intact and Mangled Storage Depots are not hacked, the cosmic sign
 
 **How to deal with an explored Standard Sleeper Cache**
 
-After entering the 1st pocket, observe the Tractor Beam area.
-If the Tractor Beam area is covered by the Guardian, it means the site was explored before last DT and the Guardian has no damage. The basic guide could be used.
+After entering the 1st pocket, observe the Tractor Beam area. <br>
+If the Tractor Beam area is covered by the Guardian, it means the site was explored before last DT and the Guardian has no damage. The basic guide could be used. <br>
 If not, it means this site was explored in the same DT period. You shall not enter the Guardian, but the process above without destroying Sentry Towers is still able to be used. Pull and hack the hidden cans with the Tractor Beam, then go to the 2nd pocket. Just give up the cans in the Logistic area.
 
 ## 7.5 Superior Sleeper Cache
 
-Superior Sleeper Cache is a level V Data Site. It needs 104+ probe strength and has about 120m-300m loot value. Almost every hacking minigame is red-difficulty. Except the cans with loot, the other cans need a Data Analyzer. T2 analyzers with Blackglass are strongly suggested. 
+Superior Sleeper Cache is a level V Data Site. It needs 104+ probe strength and has about 120m-300m loot value. Almost every hacking minigame is red-difficulty. Except the cans with loot, the other cans need a Data Analyzer. T2 analyzers with Blackglass are strongly suggested. <br>
 Superior Sleeper Cache could be divided into four parts. The Archive is more dangerous than the others. How to deal with an explored Superior Sleeper Cache would be introduced at the end of this chapter.
 
 ### 7.5.1 Basic Guide
@@ -847,14 +847,14 @@ Online video:
 
 11.	[Guide for The Archive: Chapter 7.5.6](对应链接)
 
-The following text includes the introductions to different areas and pockets, please read it carefully with the Basic Guide together.
+**The following text includes the introductions to different areas and pockets, please read it carefully with the Basic Guide together.**
 
 ### 7.5.2 Entry
 
-Hyperfluct Generator
-Requirement: Data Analyzer
-Success: A Spatial Rift appears.
-Failure: 2mins long timer. If the Generator is still not being hacked successfully before it ends, it will self destruct (without damage).
+Hyperfluct Generator <br>
+Requirement: Data Analyzer <br>
+Success: A Spatial Rift appears. <br>
+Failure: 2mins long timer. If the Generator is still not being hacked successfully before it ends, it will self destruct (without damage). <br>
 After activating the Rift, you could land in one of the following three locations. Please activate the Rift nearby (if not landed in the Near-area in Solar Power Plant), so that you could go to the Near-area and start there.
 1.	Near-area in Solar Power Plant
 2.	Far-area in Solar Power Plant (activate the Rift nearby to go to the Near-area)
@@ -899,22 +899,22 @@ Before all Sentry Towers have been destroyed, do not let the drones or yourself 
 |Hyperfluct Generator                      | In the middle of the Depots | 1. Rift to The Archive appears <br> 2. It's unavailable and needs to be powered up. Attack the Chambers for powering up. | Nothing |
 |Vessel Rejuvenation Battery               | Blue circle (right) | It provides about 10s long invincibility. The combination with attacking the Chamber is needed for powering up. | Nothing |
 
-PS: If and only if the Remote Defense Grid Unit has been hacked successfully, going across the red line would trigger a "special alarm", which is different from the "normal alarm", and 10 Sentry Towers will spawn. By failing to hack the Remote Defense Grid Unit or attacking actively the Towers or attacking the Chambers, the "normal alarm" would be triggered and 16 Sentry Towers will spawn.
+PS: If and only if the Remote Defense Grid Unit has been hacked successfully, going across the red line would trigger a "special alarm", which is different from the "normal alarm", and 10 Sentry Towers will spawn. By failing to hack the Remote Defense Grid Unit or attacking actively the Towers or attacking the Chambers, the "normal alarm" would be triggered and 16 Sentry Towers will spawn. <br>
 In Sentries on Duty, that glitch Bug could also be used. Even when you fail to hack Remote Defense Grid Unit, if you could tank the Towers and hack one can successfully, then warp out of the site and come back, now all Towers are firing on that can.
 
 **Power up the Hyperfluct Generator**
 
 <iframe height=480px src="//player.bilibili.com/player.html?aid=31057239&bvid=BV1NW411Z7Cq&cid=54290881&page=9" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-Launch first only one drone and hack the Vessel Rejuvenation Battery. When you find the core, don’t finish the minigame immediately. Now let your drone engage with the Chamber and finish the minigame when the drone is halfway to the Chamber. The Hyperfluct Generator is now powered up and you have only 60s for hacking the Generator again. Whether you succeed or fail, 16 Towers will spawn after 60s.
+Launch first only one drone and hack the Vessel Rejuvenation Battery. When you find the core, don’t finish the minigame immediately. Now let your drone engage with the Chamber and finish the minigame when the drone is halfway to the Chamber. The Hyperfluct Generator is now powered up and you have only 60s for hacking the Generator again. Whether you succeed or fail, 16 Towers will spawn after 60s. <br>
 The explosion damage from the Chambers would be lowered to about 400 after the Vessel Rejuvenation Battery has been hacked successfully. Destroying the ships from the others is impossible.
 
 ### 7.5.5 Mine Room
 
-If you have 30k+ EHP, then you don’t need to worry about the mine explosions, but 100k+ EHP is needed for failed hacking.
+If you have 30k+ EHP, then you don’t need to worry about the mine explosions, but 100k+ EHP is needed for failed hacking. <br>
 Receiving damage is possible while warping. If the operation is right, the Mine Room could be cleared without receiving any damage.
 
-**Mine Room mechanism:** After warping, approach the hidden Remote Defense Grid Unit. After hacking it, some mines would be shown on your Overview. For looking at the mines, you have to zoom in and move the camera. The hidden mines still exist and the locations of the mines are always the same. Some Depots may also be shown up after hacking the Defense Unit. There are three Depots in total in the Mine Room. They are hidden and the locations are also fixed. One would be shown up if your ship is in 10km. The following images could be used as a reference for the locations.
+**Mine Room mechanism:** After warping, approach the hidden Remote Defense Grid Unit. After hacking it, some mines would be shown on your Overview. For looking at the mines, you have to zoom in and move the camera. The hidden mines still exist and the locations of the mines are always the same. Some Depots may also be shown up after hacking the Defense Unit. There are three Depots in total in the Mine Room. They are hidden and the locations are also fixed. One would be shown up if your ship is in 10km. The following images could be used as a reference for the locations. <br>
 When your ship is in 10km from a mine, it will explode. The damage from a mine could be different (2000, 3000, 4500, 5500, 6000 or 7500, damage type only explosive). 1-3 mines would explode at one time. If your speed is too fast, the mines may explode continuously. Normally, a plate Astero with 88%+ explosive resistance would not be destroyed by the mines. The locations of the three Depots are shown in the following images. Set the beacon as origin, the Depots could be found by controlling the ship manually.
 
 |Name                    |Note            |Success|Failure|
@@ -930,17 +930,17 @@ Route without receiving any damage (online video)
 
 **This video and the following text is based on 1920x1080 image resolution and 100% UI Scaling. If your settings are different (e.g. 4K), you have to find the location by yourself.**
 
-Approach the beacon on contact. Then approach and hack Remote Defense Grid Unit once it shows up (not necessary, but your ship would be certainly destroyed if you fail).
-For the Dented Depot: Activate the MWD for 1 cycle and go along the tick mark.
-For the Pristine Depot: Adjust the camera so that the 100km tick mark is the outermost one. Double click the bottom right from the fourth module in lowslot. Activate the MWD for 2 cycles at the same time.
-For the Intact Depot: Rise vertically from the beacon to 5700-6100m distance. Then adjust the camera so that the 100km tick mark is the outermost one. Double click the 30km tick mark on the right side. Activate the MWD for 2 cycles at the same time.
+Approach the beacon on contact. Then approach and hack Remote Defense Grid Unit once it shows up (not necessary, but your ship would be certainly destroyed if you fail). <br>
+For the Dented Depot: Activate the MWD for 1 cycle and go along the tick mark. <br>
+For the Pristine Depot: Adjust the camera so that the 100km tick mark is the outermost one. Double click the bottom right from the fourth module in lowslot. Activate the MWD for 2 cycles at the same time. <br>
+For the Intact Depot: Rise vertically from the beacon to 5700-6100m distance. Then adjust the camera so that the 100km tick mark is the outermost one. Double click the 30km tick mark on the right side. Activate the MWD for 2 cycles at the same time. <br>
 Pay attention to the distances from the beacon to three cans (in the video). Once the can doesn’t show up at the right distance, stop the ship immediately. Now go back to the beacon and try again.
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.5.5-1.png ':size=WIDTHxHEIGHT')
 
 **How to tank the explosion from the mines with Astero**
 
-注意：技能不足的情况下55爆抗只能超载4轮，如果装备双64爆抗，不需要超载。全部使用保持距离。被雷炸到后马上停船维修好血量再前进 Always use keeping range. Once the ship is damaged by any mine, stop immediately and don’t move again until the ship is repaired.
+注意：技能不足的情况下55爆抗只能超载4轮，如果装备双64爆抗，不需要超载。全部使用保持距离。被雷炸到后马上停船维修好血量再前进 Always use keeping range. Once the ship is damaged by any mine, stop immediately and don’t move again until the ship is repaired. <br>
 Equip with two explosive hardeners. Put the lowslot modules like on the right image so that four overheated cycles won’t damage any other module completely. Click the small circle (the arrow on the image on the right side) to pre-overheat all modules in the lowslot.
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.5.5-2.png ':size=WIDTHxHEIGHT')
@@ -966,16 +966,16 @@ There is much debris (Smoldering Archive Ruins) in The Archive, they are all enw
 |10x Storage Depots               |    | Is able to be opened | Nothing |
 |3x Vessel Rejuvenation Batterys  |    | 90s long repair cloud spawns, which could repair your ship completely in 1s. | Nothing |
 
-**The Archive mechanism:** The timer begins once the Central Archive Cerebrum has been activated. The first shock wave arrives after 90s. After that, the longer you stay, the more often the shock waves come. Every wave lasts 5s. Except the first shock wave would be indicated in the local channel, when the other shock waves arrive is not certain (the first few shock waves: 20-40s). Multi shock waves (max 3) may arrive at the same time. The first three times are very likely made of only one shock wave. One colossal wave (DPS: 3x shock waves) would arrive after the Central Archive Cerebrum has been activated for 6m30s. A shock wave has 2400 DPS (600 per type), in total, 12000 damage for 5s.
+**The Archive mechanism:** The timer begins once the Central Archive Cerebrum has been activated. The first shock wave arrives after 90s. After that, the longer you stay, the more often the shock waves come. Every wave lasts 5s. Except the first shock wave would be indicated in the local channel, when the other shock waves arrive is not certain (the first few shock waves: 20-40s). Multi shock waves (max 3) may arrive at the same time. The first three times are very likely made of only one shock wave. One colossal wave (DPS: 3x shock waves) would arrive after the Central Archive Cerebrum has been activated for 6m30s. A shock wave has 2400 DPS (600 per type), in total, 12000 damage for 5s. <br>
 The Depots appear slowly after the Cerebrum has been activated. After 30s, all nine cans would appear. One Vessel Rejuvenation Battery (3 in total) would appear once the Cerebrum has been activated. The second one appears after about 2m20s and the third one about after 4m30s. 90s long invincibility would be provided once the Battery has been hacked successfully, but only in 5000m range. **At present, the information shows that only the Vessel Rejuvenation Battery in Area ① would work.**
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.5.6-1.png ':size=WIDTHxHEIGHT')
 
-Locations of the Depots: There is one Battery (blue circles) every three Depots (red circles). The last Depot left is far away and in the cloud. A Depot could be replaced by a Sentry Tower or an empty Depot.
-Danger in three areas:
-Area ①: There is no danger in Area ①. Approaching any Depot is safe.
-Area ②: The Depot outboard and the Battery are safe. Those two Depots inside are close to the debris.
-Area ③: The Depot outboard is safe. The Battery and the other two Depots inside are close to the debris.
+Locations of the Depots: There is one Battery (blue circles) every three Depots (red circles). The last Depot left is far away and in the cloud. A Depot could be replaced by a Sentry Tower or an empty Depot. <br>
+Danger in three areas: <br>
+Area ①: There is no danger in Area ①. Approaching any Depot is safe. <br>
+Area ②: The Depot outboard and the Battery are safe. Those two Depots inside are close to the debris. <br>
+Area ③: The Depot outboard is safe. The Battery and the other two Depots inside are close to the debris. <br>
 The Depot far away (not in any area) is in 500m from the debris entity.
 
 **Guide for The Archive:**
@@ -984,8 +984,8 @@ Use carefully the MWD in The Archive. Always stop the ship in time so that you w
 
 **Before activating the Cerebrum:**
 
-Hack the Defense Targeting Augmentation after landing. Then fail first once manually by hacking a Chamber so that the Towers could spawn. When your Astero is orbiting the Chamber, the Towers couldn’t hit you. Now hack that Chamber successfully and a Depot will spawn (you could hack and loot it). After that, warp out of the site and come back to The Archive (Attention: If the Generator in Sentries on Duty was powered up, then the Towers would spawn in Sentries on Duty). You will find out that the Towers are firing on the Defense Targeting Augmentation hacked by you before (same bug as that one used in Standard Sleeper Cache).
-Putting three Intravenous Oscillation Fluids into the Cerebrum could activate it, but putting first three Self-regulating Machine Gears and three Nanoplastic Membrane Patches into it is suggested, which could reduce the possibility, that the Towers and empty Depots appear. Gears and Nano Patches are not always enough, you shall take them with you for the next time you explore in Superior Sleeper Cache.
+Hack the Defense Targeting Augmentation after landing. Then fail first once manually by hacking a Chamber so that the Towers could spawn. When your Astero is orbiting the Chamber, the Towers couldn’t hit you. Now hack that Chamber successfully and a Depot will spawn (you could hack and loot it). After that, warp out of the site and come back to The Archive (Attention: If the Generator in Sentries on Duty was powered up, then the Towers would spawn in Sentries on Duty). You will find out that the Towers are firing on the Defense Targeting Augmentation hacked by you before (same bug as that one used in Standard Sleeper Cache). <br>
+Putting three Intravenous Oscillation Fluids into the Cerebrum could activate it, but putting first three Self-regulating Machine Gears and three Nanoplastic Membrane Patches into it is suggested, which could reduce the possibility, that the Towers and empty Depots appear. Gears and Nano Patches are not always enough, you shall take them with you for the next time you explore in Superior Sleeper Cache. <br>
 Before activating the Cerebrum, set the default distance by keeping range to 2200m and by orbiting to 1000m. Turn off the Auto-Repeat by the MWD.
 
 **After activating the Cerebrum:**
@@ -1007,12 +1007,12 @@ By using an Astero with two armor plates or armor plate Stratios. (EHP > 12060 c
 After activating the Cerebrum, activate the MWD and approach the nearest Vessel Rejuvenation Battery. Keeping range is enough (if there are Sentry Towers firing on you, do not keep range but orbit). Scan the cans in Area ① at the same time and mark the most valuable one. After hacking this one, scan and mark the most valuable can in Area ②. Approach (MWD on) first the safe Depot in Area ②, wait until your speed is again slow, then approach your target can in Area ②. Now you need to tank the first shock wave. After hacking this can, go immediately back to the Vessel Rejuvenation Battery and hack it ASAP. If a new timer appears in local, which indicates a new shock wave, before you have finished hacking the Battery, you shall give up and leave right away. Scan the cans in Area ③ while you are waiting inside the repair cloud and mark two valuable cans in Area ③. (If there are still valuable cans in Area ① you could hack them now.) Calculate the time and go immediately to the Vessel Rejuvenation Battery (keep range or orbit) in Area ③ when the shock wave is gone. You shall first finish hacking those two marked cans and then loot them together. If both cans are inside, after looting one can you have to approach first the can outside in Area ③ and then loot the second can, or you would receive damage from the cloud at debris. At the same time, pay attention to the indication timer of the shock waves in local. You shall leave once the third wave is gone. In total, five cans: two cans in Area ①, one can in Area ② and two cans in Area ③, are looted.
 
 3.	Loot all cans with Astero (Congratulations on @Tu Boshu, who made on 29 Sep. 2020)
-After activating the Cerebrum, approach (MWD on) first the debris near Area ①. Stop when there is still 13km distance left and approach the first can in Area ①. Then approach (not keep range) the safe can in Area ②. After hacking it, go hack the can above that safe can in Area ②. (Use keep range, don’t open the can until the distance between you and the can is stable. If you press open when the distance is still >2500m, you will automatically approach it and may rush into the cloud at the debris) Here you have to tank the first shock wave. If you hacked quickly enough and the first shock wave has still not arrived, you could hack the can below in Area ②. Use keep range. Then go immediately back to the Vessel Rejuvenation Battery and hack it. Now approach (MWD on) the safe can in Area ③ and hack it. After that, hack (keep range) the can on the right side (you have to tank the second shock wave at the same time). Until here, you can make it stably if you have enough speed and experience (in total 1+3+2=6 cans looted. Online Video). For the last three cans you would need luck.
-If the repair cloud is now ended, go to the last can in Area ③ but pay attention to the third shock wave. If you could hack it quickly enough, go back to the repair cloud in Area ① (it needs to last until the third shock wave is finished) and hack the last can in Area ① after repairing. Now go (keep range) to the last can in Area ③. If the fourth wave has luckily only one shock wave, then you could make it.
+After activating the Cerebrum, approach (MWD on) first the debris near Area ①. Stop when there is still 13km distance left and approach the first can in Area ①. Then approach (not keep range) the safe can in Area ②. After hacking it, go hack the can above that safe can in Area ②. (Use keep range, don’t open the can until the distance between you and the can is stable. If you press open when the distance is still >2500m, you will automatically approach it and may rush into the cloud at the debris) Here you have to tank the first shock wave. If you hacked quickly enough and the first shock wave has still not arrived, you could hack the can below in Area ②. Use keep range. Then go immediately back to the Vessel Rejuvenation Battery and hack it. Now approach (MWD on) the safe can in Area ③ and hack it. After that, hack (keep range) the can on the right side (you have to tank the second shock wave at the same time). Until here, you can make it stably if you have enough speed and experience (in total 1+3+2=6 cans looted. Online Video). For the last three cans you would need luck. <br>
+If the repair cloud is now ended, go to the last can in Area ③ but pay attention to the third shock wave. If you could hack it quickly enough, go back to the repair cloud in Area ① (it needs to last until the third shock wave is finished) and hack the last can in Area ① after repairing. Now go (keep range) to the last can in Area ③. If the fourth wave has luckily only one shock wave, then you could make it. <br>
 From activating the Cerebrum to the indication of the fifth wave in local, there are normally about 250s-300s, 10 cans have to be hacked in total.
 
 4.	Loot all with Tengu:
-EHP fit: The core of this fit is hacking all cans before the colossal wave at 6min30s. The shock waves before are normally not more than eight, so if you have 100k+ EHP, you could tank all shock waves before the colossal wave.
+EHP fit: The core of this fit is hacking all cans before the colossal wave at 6min30s. The shock waves before are normally not more than eight, so if you have 100k+ EHP, you could tank all shock waves before the colossal wave. <br>
 Normal fit: Pithum A-Type Medium Shield Booster, Pithum C-Type Multispectrum Shield Hardener, Pith X-Type EM Shield Hardener and Large Shield Extenders. It could tank the shock wave and be repaired before the next wave. If multiple shock waves appear at the same time, the Shield Booster shall be overheated moderately. Leave before the colossal wave at 6min30s.
 
 Online video of 4 (EHP fit)：
@@ -1022,13 +1022,13 @@ Online video of 4 (EHP fit)：
 ### 7.5.7 Fast Walkthrough
 
 1.	If you land at ......
-    > Far-area: Hack Remote Reroute Unit and activate the Rift. Then go to Near-area and activate the Rift there.
-    > Near-area: Activate the Rift
+    > Far-area: Hack Remote Reroute Unit and activate the Rift. Then go to Near-area and activate the Rift there. <br>
+    > Near-area: Activate the Rift <br>
     > Sentries on Duty: Stay
 2.	Now you are in Sentries on Duty, launch the Mobile Depot and save its location. Hack the Remote Defense Grid Unit and the Sentry Repair Station, then go back to the Mid-area in Solar Power Plant. 
 3.	Hack the Solray Observational Unit and take the Modulate Disc. Scan and mark the cans inside the cloud.
 4.	If the corresponding Alignment Unit is ......
-    > Infrared Alignment Unit: put the Modulate Disc into it and hack the marked cans inside the cloud.
+    > Infrared Alignment Unit: put the Modulate Disc into it and hack the marked cans inside the cloud. <br>
     > in Near- or Far-area: continue according to step 5.
 5.	Activate the Rift in Mid-area (put the Modulate Disc in Far-area) and hack the Reroute Unit in Far-area. Then activate the Rift in Far-area and go back to Near-area (put the Modulate Disc in Near-area).
 6.	Activate the Rift and go to Sentries on Duty. Equip your Astero with two explosive armor hardeners at Mobile Depot. Hack the cans there. Then go back to the Mid-area (hack the cans inside the cloud). After that, go to Mine Room.
@@ -1037,14 +1037,14 @@ Online video of 4 (EHP fit)：
 
 **How to deal with an explored Superior Sleeper Cache**
 
-Please don’t enter the site directly, because being destroyed immediately is possible. First, check on zkill for anyone destroyed by Sentry Towers in three days.
-If yes, then someone failed clearly in Sentries on Duty. Jump to 2.
+Please don’t enter the site directly, because being destroyed immediately is possible. First, check on zkill for anyone destroyed by Sentry Towers in three days. <br>
+If yes, then someone failed clearly in Sentries on Duty. Jump to 2. <br>
 There is only a small possibility that someone survived from failing in Sentries on Duty. The safest plan is entering the site after DT.
 
 1.	Failure in Solar Power Plant
-A newbie could put the Modulate Disc into a wrong Alignment Unit. Check all three Alignment Units. If their names are all Unaligned then the Modulate Disc is in a wrong Unit. An Astero could only give the cans in the cloud up (a Stratios could hack them while tanking the damage).
+    > A newbie could put the Modulate Disc into a wrong Alignment Unit. Check all three Alignment Units. If their names are all Unaligned then the Modulate Disc is in a wrong Unit. An Astero could only give the cans in the cloud up (a Stratios could hack them while tanking the damage).
 2.	Failure in Sentries on Duty
-Check the Hyperfluct Generator at the Entry. If its full, it means the failure was before last DT. The Sentry Towers spawned by alarm are hidden, but in 3-5s after you entered Sentries on Duty, they would be reactivated. However, in this case you still could activate the Rift nearby immediately and return to Solar Power Plant safely and hack the cans there (if they are not hacked before). Or hack the Generator again and get a Rift to Solar Power Plant. If the Generator is empty, dont enter. 22 Sentry Towers are waiting for you. (An Astero with 8500+ EHP could possibly survive the first round. You could take the risk, warp in and then try warping back to Solar Power Plant immediately)
+    > Check the Hyperfluct Generator at the Entry. If its full, it means the failure was before last DT. The Sentry Towers spawned by alarm are hidden, but in 3-5s after you entered Sentries on Duty, they would be reactivated. However, in this case you still could activate the Rift nearby immediately and return to Solar Power Plant safely and hack the cans there (if they are not hacked before). Or hack the Generator again and get a Rift to Solar Power Plant. If the Generator is empty, do not enter. 22 Sentry Towers are waiting for you. (An Astero with 8500+ EHP could possibly survive the first round. You could take the risk, warp in and then try warping back to Solar Power Plant immediately.)
 
 ## 7.6 Advanced Tips
 
@@ -1054,31 +1054,31 @@ To increase the efficiency by exploring, this chapter would introduce some tips.
 
 by 十月
 
-Example: 120 probe strength, 8AU probe size. Scan with only 1 probe.
-After first time scanning, if the signal is……
-above 8.6%+, its normally a level II or I signal.
-between 5-8.5%, its normally a level III signal. 
-between 3-5%, its normally a level IV signal.
-under 2%, its normally a Sleeper Cache.
+Example: 120 probe strength, 8AU probe size. Scan with only 1 probe. <br>
+After first time scanning, if the signal is…… <br>
+above 8.6%+, its normally a level II or I signal. <br>
+between 5-8.5%, its normally a level III signal. <br>
+between 3-5%, its normally a level IV signal. <br>
+under 2%, its normally a Sleeper Cache. <br>
 If you get a “two dot” result, then x2. If the result is a circle, x4. If the result is a sphere and the signal is under 1%, reposition and try again.
 
-Common signals
-Level III: Ghost Sites, Gas Sites (Two kinds of sites with towers. Another kind is Nebula)
-Level IV: two kinds of Sleeper Caches, one Gas Site (no tower in Lowsec, with Energy Neutralizer Towers in Nullsec), faction shipyards and dens or normal faction Relic Sites
-Level V: Superior Sleeper Cache (or Silent Battleground, only in WH)
+Common signals <br>
+Level III: Ghost Sites, Gas Sites (Two kinds of sites with towers. Another kind is Nebula) <br>
+Level IV: two kinds of Sleeper Caches, one Gas Site (no tower in Lowsec, with Energy Neutralizer Towers in Nullsec), faction shipyards and dens or normal faction Relic Sites <br>
+Level V: Superior Sleeper Cache (or Silent Battleground, only in WH) <br>
 When you are specialized in exploration, normally you would only scan these three kinds of signals and leave the level I and II signals alone. After you entered a system, you only scan first with 8AU size and clear the results above 8.6% (right click->Ignore), then scan the signals left. When you are travelling in Highsec, you could also scan once with 8AU size while warping to checking if there are Ghost Sites or Superior Sleeper Cache. With this measure, you could find the Superior Sleeper Cache efficiently.
 
 **Distinguishing the signals without probing**
 
-Sleeper Caches are normally more than 6AU away from a planet.
-Ghost Sites are normally about 5AU away from a planet.
-Gas ,Relic and Data Sites are normally in 4AU away from a planet.
-So normally, the signal with higher level has also larger sphere and this sphere dont often include a planet. After you have enough experience, you could find the Superior Sleeper Cache at the first moment. Another kind of signal, which could be more than 6AU away from a planet, is Wormhole. A signal, for example in the following images, which doesnt include a planet and couldnt be covered by the 8AU spheres, has a great chance to be a Superior Sleeper Cache.
+Sleeper Caches are normally more than 6AU away from a planet. <br>
+Ghost Sites are normally about 5AU away from a planet. <br>
+Gas ,Relic and Data Sites are normally in 4AU away from a planet. <br>
+So normally, the signal with higher level has also larger sphere and this sphere dont often include a planet. After you have enough experience, you could find the Superior Sleeper Cache at the first moment. Another kind of signal, which could be more than 6AU away from a planet, is Wormhole. A signal, for example in the following images, which doesnt include a planet and couldnt be covered by the 8AU spheres, has a great chance to be a Superior Sleeper Cache. <br>
 If you find a level IV signal, you could warp to the nearest planet. If the distance between you and the planet is less than 4AU, it should be a shipyard. If the distance is more than 5AU, its normally a Standard Sleeper Cache.
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.1-1.png ':size=WIDTHxHEIGHT')
 
-Up: the size of the Standard Sleeper Cache
+Up: the size of the Standard Sleeper Cache <br>
 Down: Both ways could clear the unneeded results.
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.1-2.png ':size=WIDTHxHEIGHT')
@@ -1124,20 +1124,20 @@ Emphasis:
 
 **Quick looting settings**
 
-Open the Inventory, click the gear at the top left corner and tick the box on the right image (Always open in separate window), which don’t open your Inventory when you open a can. ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-4.png ':size=WIDTHxHEIGHT')
+Open the Inventory, click the gear at the top left corner and tick the box on the right image (Always open in separate window), which don’t open your Inventory when you open a can. ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-4.png ':size=WIDTHxHEIGHT') <br>
 Then move the window of the opened can to the place as same as on the right image, so that the button “Loot All” is on the “Open Cargo” button on the Selected Item UI. This enables you looting immediately after opening a can, and after looting, the window of the opened can would be closed automatically. ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.3-5.png ':size=WIDTHxHEIGHT')
 
 ### 7.6.4 Overview
 
-By normal exploring, the overview in MOTD of the channel could be used, or use the overview provided by your corp.
-Read Uniwiki for setting the overview.
+By normal exploring, the overview in MOTD of the channel could be used, or use the overview provided by your corp. <br>
+Read Uniwiki for setting the overview. <br>
 Two kinds of settings are needed, the first one is the overview on the main UI, the second one is the bracket, which shows the target directly.
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/7.6.4-1.png ':size=WIDTHxHEIGHT')
 
-Exploration overview:
-Suggested entities showed on the overview are the dockable upwell structures, stargates, stars, players’s ships, normal cans, hackable things in Sleeper Caches and Sentry Towers.
-Then set the brackets. Normally, showing all brackets is suggested.
+Exploration overview: <br>
+Suggested entities showed on the overview are the dockable upwell structures, stargates, stars, players’s ships, normal cans, hackable things in Sleeper Caches and Sentry Towers. <br>
+Then set the brackets. Normally, showing all brackets is suggested. <br>
 Optional: For exploring The Archive, you could make a special overview setting, which only shows the cans and Sentry Towers in Sleeper Caches, for locking targets in The Archive faster (The overview in MOTD of the channel includes it). With this, all cans could be locked easily with Ctrl+left click. Remember to switch to this setting before warping to The Archive.
 
 Normal cans
@@ -1162,8 +1162,8 @@ Mission containers in Sleeper Caches
 
 ### 7.6.5 The Ultimate Astero
 
-Here is the introduction for the fit “The Ultimate Astero” in Chapter 8.4. Before using this fit, make sure that you have already trained Amarr Frigate and all main skills in Scanning, Armor, Shields and Engineering to IV or higher. Or you may have shortage of Capacitor or EHP. Then you could only use better Nano in Low slots. If your skill levels are high enough, you could fit with worse (but proper) equipments.
-The advantages of this fit are:
+Here is the introduction for the fit “The Ultimate Astero” in Chapter 8.4. Before using this fit, make sure that you have already trained Amarr Frigate and all main skills in Scanning, Armor, Shields and Engineering to IV or higher. Or you may have shortage of Capacitor or EHP. Then you could only use better Nano in Low slots. If your skill levels are high enough, you could fit with worse (but proper) equipments. <br>
+The advantages of this fit are: <br>
 First, you never need to refit with explosive armor hardener anymore. Second, you have two T2 Hyperspatial Velocity Optimizers. They improve greatly your Warp Speed (If you use the whole set of High-grade Ascendancy at the same time, you could even reach 12AU/s.). If you are not going to tank the shock waves in The Archive, you could change everything except the explosive armor hardener to T2. And the Damage Control, the Steel Plate and the Shield Extender in the cargo are also no longer necessary.
 
 Ghost Sites: When the explosive armor hardener are activated, there should be 80% armor explosive resistance. You could tank the explosion from a can in an Improved Facility without damaging your structure. If you are going to explore a Superior Facility, preoverheat your explosive armor hardener after deactivating your Cloaking Device. When the time comes, press the proper shortcut and it could be activated.
