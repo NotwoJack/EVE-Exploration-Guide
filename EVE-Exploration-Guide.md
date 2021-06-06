@@ -1479,7 +1479,7 @@ X-instinct – Vermillion
 -	Low security space (hot-spot constellation – region): Hed – Heimatar
 -	No security space(hot-spot constellation – region): I-3ODK – Feythabolis
 
-## 8.7 Achievements
+## 8.7	挖坟成就 Achievements
 
 按着下表自行探索，并成功完成这些成就，就是EVE挖坟的游戏乐趣！
 

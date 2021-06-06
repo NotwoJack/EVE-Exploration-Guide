@@ -1300,128 +1300,128 @@ The following items are only BPCs (>10m) and things with relativly high value fr
 
 ## 8.4 Fittings
 
-How to use: Just copy the text under the image (between the horizontal rules) and import the fit from clipboard at Fittings window.  ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-1.png ':size=WIDTHxHEIGHT')
-The Nanite Repair Pastes shall be bought manually if needed.
+How to use: Just copy the text under the image (between the horizontal rules) and import the fit from clipboard at Fittings window.  ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-1.png ':size=WIDTHxHEIGHT') <br>
+The Nanite Repair Pastes shall be bought manually if needed. <br>
 PS: Take a Mobile Depot with you.
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-2.png ':size=WIDTHxHEIGHT')
 
 ---------------------------
 
-\[Heron, Newbie exploration]  
-Inertial Stabilizers I
-Inertial Stabilizers I
-5MN Microwarpdrive I
-Type-E Enduring Cargo Scanner
-Relic Analyzer I
-Data Analyzer I
-Prototype Cloaking Device I
-Core Probe Launcher I
-Small Gravity Capacitor Upgrade I
-Small Gravity Capacitor Upgrade I
-Hobgoblin I x7
-'Accord' Core Compensation x2
-Core Scanner Probe I x16
-Scan Rangefinding Array I x3 
+\[Heron, Newbie exploration] <br>
+Inertial Stabilizers I <br>
+Inertial Stabilizers I <br>
+5MN Microwarpdrive I <br>
+Type-E Enduring Cargo Scanner <br>
+Relic Analyzer I <br>
+Data Analyzer I <br>
+Prototype Cloaking Device I <br>
+Core Probe Launcher I <br>
+Small Gravity Capacitor Upgrade I <br>
+Small Gravity Capacitor Upgrade I <br>
+Hobgoblin I x7 <br>
+'Accord' Core Compensation x2 <br>
+Core Scanner Probe I x16 <br>
+Scan Rangefinding Array I x3
 
 ---------------------------
 
-in total: 3.7m 
-Newbies could use Sister probes and Cloaking Device later.
-If the scan strength is not enough, equip with three Rangefinding Arrays.
+in total: 3.7m  <br>
+Newbies could use Sister probes and Cloaking Device later. <br>
+If the scan strength is not enough, equip with three Rangefinding Arrays. <br>
 Two Core Stabilizers shall be fitted while travelling back to home.
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-3.png ':size=WIDTHxHEIGHT')
 
 -----------------------------
 
-\[Astero, Steel Plates Astero]
-Damage Control II
-Shadow Serpentis Multispectrum Energized Membrane
-Imperial Navy 200mm Steel Plates
-Small Ancillary Armor Repairer
-5MN Y-T8 Compact Microwarpdrive
-Cargo Scanner II
-Relic Analyzer II
-Data Analyzer II
-Covert Ops Cloaking Device II
-Sisters Core Probe Launcher
-Small Trimark Armor Pump II
-Small Gravity Capacitor Upgrade I
-Small Ionic Field Projector II
-Hornet EC-300 x5
-'Integrated' Hobgoblin x5
-Warp Core Stabilizer I x3
-Domination Explosive Armor Hardener x2
-Poteque 'Prospector' Astrometric Rangefinding AR-806 x1
-Sisters Core Scanner Probe x16
+\[Astero, Steel Plates Astero] <br>
+Damage Control II <br>
+Shadow Serpentis Multispectrum Energized Membrane <br>
+Imperial Navy 200mm Steel Plates <br>
+Small Ancillary Armor Repairer <br>
+5MN Y-T8 Compact Microwarpdrive <br>
+Cargo Scanner II <br>
+Relic Analyzer II <br>
+Data Analyzer II <br>
+Covert Ops Cloaking Device II <br>
+Sisters Core Probe Launcher <br>
+Small Trimark Armor Pump II <br>
+Small Gravity Capacitor Upgrade I <br>
+Small Ionic Field Projector II <br>
+Hornet EC-300 x5 <br>
+'Integrated' Hobgoblin x5 <br>
+Warp Core Stabilizer I x3 <br>
+Domination Explosive Armor Hardener x2 <br>
+Poteque 'Prospector' Astrometric Rangefinding AR-806 x1 <br>
+Sisters Core Scanner Probe x16 <br>
 Scan Rangefinding Array I x2
 
 -----------------------------
 
-in total (without any implant): 160m
-A Steel Plates Astero shall have about 7k EHP. If the basic skills are trained to enough levels, you could change all modules to their T2 versions.******
+in total (without any implant): 160m <br>
+A Steel Plates Astero shall have about 7k EHP. If the basic skills are trained to enough levels, you could change all modules to their T2 versions. <br>                ******
 With enough skills, the scan strength should be 105.8, which could analyze all kinds of signals. The Blackglass implant could be used together.
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-4.png ':size=WIDTHxHEIGHT')
 
 -----------------------------
 
-\[Astero, T2 Steel Plates Astero]
-Explosive Armor Hardener II
-Multispectrum Energized Membrane II
-200mm Steel Plates II
-Small Armor Repairer II
-5MN Quad LiF Restrained Microwarpdrive
-Cargo Scanner II
-Relic Analyzer II
-Data Analyzer II
-Covert Ops Cloaking Device II
-Core Probe Launcher II
-Small Trimark Armor Pump II
-Small Hyperspatial Velocity Optimizer II
-Small Hyperspatial Velocity Optimizer II
-Hobgoblin II x5
-Warrior II x5
-Hornet EC-300 x5
+\[Astero, T2 Steel Plates Astero] <br>
+Explosive Armor Hardener II <br>
+Multispectrum Energized Membrane II <br>
+200mm Steel Plates II <br>
+Small Armor Repairer II <br>
+5MN Quad LiF Restrained Microwarpdrive <br>
+Cargo Scanner II <br>
+Relic Analyzer II <br>
+Data Analyzer II <br>
+Covert Ops Cloaking Device II <br>
+Core Probe Launcher II <br>
+Small Trimark Armor Pump II <br>
+Small Hyperspatial Velocity Optimizer II <br>
+Small Hyperspatial Velocity Optimizer II <br>
+Hobgoblin II x5 <br>
+Warrior II x5 <br>
+Hornet EC-300 x5 <br>
 Sisters Core Scanner Probe x16
 
 -----------------------------
 
-in total: 95m
+in total: 95m <br>
 This fit needs relativly high skills. The usage of this fit is same as The Ultimate Astero, but this one could not tank the shock waves in The Archive. The Armor Explosive Hardener must be overheated while exploring Ghost Sites. Those two Hyperspatial Velocity Optimizers could be changed to other kinds of Rigs.
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-5.png ':size=WIDTHxHEIGHT')
 
 -----------------------------
 
-\[Astero, The Ultimate Astero]
-Centii A-Type Small Armor Repairer
-Federation Navy 200mm Steel Plates
-Corpus X-Type Explosive Armor Hardener
-Imperial Navy Multispectrum Energized Membrane
-Cargo Scanner II
-Coreli A-Type 5MN Microwarpdrive
-Cap Recharger II
-Zeugma Integrated Analyzer
-Sisters Core Probe Launcher
-Covert Ops Cloaking Device II
-Small Trimark Armor Pump II
-Small Hyperspatial Velocity Optimizer II
-Small Hyperspatial Velocity Optimizer II
-Hobgoblin II x5
-Warrior II x5
-Hornet EC-300 x5
-Damage Control II x1
-'Chainmail' 200mm Steel Plates x1
-Sisters Core Scanner Probe x16
+\[Astero, The Ultimate Astero] <br>
+Centii A-Type Small Armor Repairer <br>
+Federation Navy 200mm Steel Plates <br>
+Corpus X-Type Explosive Armor Hardener <br>
+Imperial Navy Multispectrum Energized Membrane <br>
+Cargo Scanner II <br>
+Coreli A-Type 5MN Microwarpdrive <br>
+Cap Recharger II <br>
+Zeugma Integrated Analyzer <br>
+Sisters Core Probe Launcher <br>
+Covert Ops Cloaking Device II <br>
+Small Trimark Armor Pump II <br>
+Small Hyperspatial Velocity Optimizer II <br>
+Small Hyperspatial Velocity Optimizer II <br>
+Hobgoblin II x5 <br>
+Warrior II x5 <br>
+Hornet EC-300 x5 <br>
+Damage Control II x1 <br>
+'Chainmail' 200mm Steel Plates x1 <br>
+Sisters Core Scanner Probe x16 <br>
 Republic Fleet Small Shield Extender x1
 
 -----------------------------
 
-in total: 650m
-Expensive, could be used for Sleeper Caches in Highsec.
-A cheaper version: the "T2 Steel Plates Astero" above
+in total: 650m <br>
+Expensive, could be used for Sleeper Caches in Highsec. <br>
+A cheaper version: the "T2 Steel Plates Astero" above <br>
 How to use: [Chapter 7.6.5](对应链接)
 
 ## 8.5 Damage Data Base
@@ -1465,7 +1465,7 @@ PS:
 
 |Sentry Towers in Sleeper Caches|      |       |                 |                       |
 |:------------------------------|:----:|:-----:|:---------------:|:---------------------:|
-|                               |Damage to deal|                 | Damage to resist <br> (structure doesn’t has resistance, no shield) | |
+|                               |Damage to deal|                 | Damage to resist <br> (structure doesn’t have resistance, no shield) | |
 |Rate of fire: 15s              |EM    |Thermal|Armor / Structure|Armor resistance (Omni)|
 |Wakeful Sentry Tower           |546   |546    |7k/3.5k          |40%                    |
 |Vigilant Sentry Tower          |390   |390    |5k/2.5k          |40%                    |
@@ -1483,35 +1483,35 @@ PS: All towers have a bug. When there is a hacked can (or a functional container
 
 Blue Pill – Amber
 - Low security space (hot-spot constellation – region): Mivora – The Forge
-- No security space(hot-spot constellation – region): E-8CSQ – Vale of the Silent
+- No security space (hot-spot constellation – region): E-8CSQ – Vale of the Silent
 
 Crash – Golden
 - Low security space (hot-spot constellation – region): Umamon – Lonetrek
-- No security space(hot-spot constellation – region): 09-4XW – Tenal
+- No security space (hot-spot constellation – region): 09-4XW – Tenal
 
 Drop – Viridian
 - Low security space (hot-spot constellation – region): Amevync – Placid
-- No security space(hot-spot constellation – region): Assilot – Cloud Ring
+- No security space (hot-spot constellation – region): Assilot – Cloud Ring
 
 Exile – Celadon
 - Low security space (hot-spot constellation – region): Elerelle – Solitude
-- No security space(hot-spot constellation – region): Pegasus – Fountain
+- No security space (hot-spot constellation – region): Pegasus – Fountain
 
 Frentix - Lime
 - Low security space (hot-spot constellation – region): Joas – Derelik
-- No security space(hot-spot constellation – region): 9HXQ-G – Catch
+- No security space (hot-spot constellation – region): 9HXQ-G – Catch
 
 Mindflood – Malachite
 - Low security space (hot-spot constellation – region): Fabai – Aridia
-- No security space(hot-spot constellation – region): OK-FEM – Delve
+- No security space (hot-spot constellation – region): OK-FEM – Delve
 
 Sooth Sayer – Azure
 - Low security space (hot-spot constellation – region): Tartatven – Molden Heath
-- No security space(hot-spot constellation – region): 760-9C – Wicked Creek
+- No security space (hot-spot constellation – region): 760-9C – Wicked Creek
 
 X-instinct – Vermillion
 - Low security space (hot-spot constellation – region): Hed – Heimatar
-- No security space(hot-spot constellation – region): I-3ODK – Feythabolis
+- No security space (hot-spot constellation – region): I-3ODK – Feythabolis
 
 ## 8.7 Achievements
 
