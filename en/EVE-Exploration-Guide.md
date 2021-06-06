@@ -1360,7 +1360,7 @@ Scan Rangefinding Array I x2
 -----------------------------
 
 in total (without any implant): 160m <br>
-A Steel Plates Astero shall have about 7k EHP. If the basic skills are trained to enough levels, you could change all modules to their T2 versions. <br>                ******
+A Steel Plates Astero shall have about 7k EHP. If the basic skills are trained to enough levels, you could change all modules to their T2 versions. <br>
 With enough skills, the scan strength should be 105.8, which could analyze all kinds of signals. The Blackglass implant could be used together.
 
 ![logo](https://notwojack.github.io/EVE-Exploration-Guide/image/8.4-4.png ':size=WIDTHxHEIGHT')
